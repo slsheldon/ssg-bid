@@ -1,0 +1,46 @@
+# Language translations for shared variables across pages. I.e. navigation buttons, skip links etc.
+
+siteName:
+  en: BID
+  fr: BID
+  pt: BID
+
+skipLink:
+  en: Skip to main content
+  fr: Passer au contenu principal
+  pt: Ir para o conteúdo principal
+
+languageSelector_title:
+  en: Select language
+  fr: Choisir la langue
+  pt: Selecione o idioma
+
+
+
+
+# The format is
+# key:
+#   languageKey: translation
+#
+# Use underscore for subdividing. For readability seperate keys with a new line (as below)
+#
+# An example
+#
+# share:
+#   en: Share
+#   dk: Del
+#
+# skipLink:
+#   en: Skip to main content
+#   dk: Hop til hovedindholdet
+#
+# article_author:
+#   en: Author
+#   dk: Forfatter
+#
+# article_date:
+#   en: Date
+#   dk: Dato
+#
+#
+# usage in templates: {{i18n.skipLink[meta.siteLanguage]}}
