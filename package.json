@@ -14,6 +14,6 @@
   "license": "ISC",
   "dependencies": {
     "gulp": "^3.9.0",
-    "gulp-notify": "^2.2.0"
+    "gbif-ssg": "git://github.com/gbif/ssg.git#2c33e509a5d1f8939bd1857bd8bc2fb1fea69355"
   }
 }

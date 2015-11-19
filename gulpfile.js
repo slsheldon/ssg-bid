@@ -1,5 +1,5 @@
 var gulp = require('gulp'),
-    developmentTask = require('../ssg/index.js');
+    developmentTask = require('gbif-ssg');
 
 global.rootRequire = function(name) {
     return require(__dirname + '/' + name);

@@ -4,7 +4,7 @@ imageX: http://static3.depositphotos.com/1000980/122/v/950/depositphotos_1221309
 image: /images/pattern-01.png
 style: home
 ---
-BID: Biodiversity Information for Development
+Biodiversity Information for Development
 ===================
 
 Biodiversity Information for Development (BID) is a multi-year, €3.9 million programme funded by the [European Union](http://europa.eu) and led by GBIF with the aim of increasing the amount of biodiversity information available in the [‘ACP’ nations of sub-Saharan Africa, the Caribbean and the Pacific](http://#).
