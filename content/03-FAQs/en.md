@@ -1,9 +1,10 @@
 ---
 title: FAQs
+style: faq
 ---
 
 
-# Frequently Asked Questions sldjkfh lksjhd flkjsh dflkjh
+# Frequently Asked Questions
 
 This regularly updated list of FAQs on BID calls for proposals includes responses to questions sent to [bid@gbif.org](mailto:bid@gbif.org).
 

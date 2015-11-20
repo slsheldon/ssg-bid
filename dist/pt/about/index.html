@@ -29,7 +29,6 @@
                 <a href="#" class="button toggle toggle-nav icon-menu" role="button" aria-label="Toggle Navigation">
                 </a>
 				<div class="brandBanner"></div>
-
 				<div class="site-navigation">
 					<span class="toggle toggle-nav" role="button">
 					</span>
@@ -42,10 +41,13 @@
 					<div class="login">
 						LOGIN
 					</div>
-					<div class="search">
-						SEARCH
+					<div id="search" class="search">
+                        <form class="search-form">
+                            <input class="search-input" type="search" placeholder="Pesquisar..."/>
+                            <button class="search-submit" type="submit">Search</button>
+                        </form>
 					</div>
-					<nav class="navigation-main">
+					<nav class="navigation-main" id="navigation-main">
 	<ul>
 		<li >
             
@@ -109,7 +111,7 @@
 <nav class="languageSelector" id="languageSelector" title="Selecione o idioma">
 	
         
-        <a href="#" class="icon-earth"></a>
+        <a href="#"><span class="icon-earth"></span><span class="languageSelector-description">Selecione o idioma<span></a>
         <ul>
         
             <li>
@@ -133,6 +135,9 @@
 	
 </nav>
 
+                    <div class="info">
+                        <a href="http://gbif.org"><span class="icon-gbif"></span><span class="info-description">GBIF.org</span></a>
+                    </div>
 					<div class="share">
 						SHARE
 					</div>
@@ -140,9 +145,6 @@
 			</section>
 			
 			<main id="main">
-				<!--<aside class="context-options">-->
-					<!--filters go here-->
-				<!--</aside>-->
 				<section>
 					<div class="content">
 						<article  class="about" >
@@ -177,6 +179,44 @@
 				</section>
 			</main>
 		</div>
+        
+<div id="popup" class="popup">
+    <a href="#" class="popup-close icon-cross"></a>
+    <div class="popup-languages">
+        <p>This site is available in more languages </p>
+
+        
+        
+        <ul>
+            
+            <li>
+                <a href="/en/about" >English</a>
+            </li>
+            
+    
+        
+            <li>
+                <a href="/fr/about" >Français</a>
+            </li>
+            
+    
+        
+            <li>
+                <a href="/pt/about"  class="active" >Português</a>
+            </li>
+            
+        </ul>
+        
+    
+    </div>
+
+    <div>
+        <p>
+            Lorem ipsum cookies
+        </p>
+    </div>
+</div>
+
         <div class="overlay is-visible"></div>
 		<script>
 			var GBIF = GBIF || {};
@@ -184,7 +224,7 @@
             GBIF.site = GBIF.site || {};
             GBIF.page.meta = {"fm":{"title":"About","style":"about"},"siteLanguage":"pt","prettyUrl":"pt/about"};
             GBIF.page.versions = {"en":"en/about","fr":"fr/about","pt":"pt/about"};
-            GBIF.site.navigation = {"menuItem":{"en":{"fm":{"title":"Home","image":"/images/pattern-01.png","style":"home"},"siteLanguage":"en","prettyUrl":"en"},"fr":{"fm":{"title":"Home","image":"/images/pattern-01.png","style":"home"},"siteLanguage":"fr","prettyUrl":"fr"},"pt":{"fm":{"title":"Home","image":"/images/pattern-01.png","style":"home"},"siteLanguage":"pt","prettyUrl":"pt"}},"children":[{"menuItem":{"en":{"fm":{"title":"About","style":"about"},"siteLanguage":"en","prettyUrl":"en/about"},"fr":{"fm":{"title":"About","style":"about"},"siteLanguage":"fr","prettyUrl":"fr/about"},"pt":{"fm":{"title":"About","style":"about"},"siteLanguage":"pt","prettyUrl":"pt/about"}}},{"menuItem":{"en":{"fm":{"title":"Calls"},"siteLanguage":"en","prettyUrl":"en/calls"},"fr":{"fm":{"title":"Appel"},"siteLanguage":"fr","prettyUrl":"fr/calls"},"pt":{"fm":{"title":"Convite"},"siteLanguage":"pt","prettyUrl":"pt/calls"}}},{"menuItem":{"en":{"fm":{"title":"FAQs"},"siteLanguage":"en","prettyUrl":"en/faqs"},"fr":{"fm":{"title":"FAQs"},"siteLanguage":"fr","prettyUrl":"fr/faqs"},"pt":{"fm":{"title":"FAQs"},"siteLanguage":"pt","prettyUrl":"pt/faqs"}}}]};
+            GBIF.site.navigation = {"menuItem":{"en":{"fm":{"title":"Home","image":"/images/pattern-01.png","style":"home"},"siteLanguage":"en","prettyUrl":"en"},"fr":{"fm":{"title":"Home","image":"/images/pattern-01.png","style":"home"},"siteLanguage":"fr","prettyUrl":"fr"},"pt":{"fm":{"title":"Home","image":"/images/pattern-01.png","style":"home"},"siteLanguage":"pt","prettyUrl":"pt"}},"children":[{"menuItem":{"en":{"fm":{"title":"About","style":"about"},"siteLanguage":"en","prettyUrl":"en/about"},"fr":{"fm":{"title":"About","style":"about"},"siteLanguage":"fr","prettyUrl":"fr/about"},"pt":{"fm":{"title":"About","style":"about"},"siteLanguage":"pt","prettyUrl":"pt/about"}}},{"menuItem":{"en":{"fm":{"title":"Calls","style":"calls"},"siteLanguage":"en","prettyUrl":"en/calls"},"fr":{"fm":{"title":"Appel","style":"calls"},"siteLanguage":"fr","prettyUrl":"fr/calls"},"pt":{"fm":{"title":"Convite","style":"calls"},"siteLanguage":"pt","prettyUrl":"pt/calls"}}},{"menuItem":{"en":{"fm":{"title":"FAQs","style":"faq"},"siteLanguage":"en","prettyUrl":"en/faqs"},"fr":{"fm":{"title":"FAQs","style":"faq"},"siteLanguage":"fr","prettyUrl":"fr/faqs"},"pt":{"fm":{"title":"FAQs","style":"faq"},"siteLanguage":"pt","prettyUrl":"pt/faqs"}}}]};
             GBIF.site.languages = {"languages":{"en":"English","fr":"Français","pt":"Português"},"list":["en","fr","pt"]};
 			GBIF.siteLanguage = 'pt';
             GBIF.i18n = {"siteName":{"en":"BID","fr":"BID","pt":"BID"},"skipLink":{"en":"Skip to main content","fr":"Passer au contenu principal","pt":"Ir para o conteúdo principal"},"languageSelector_title":{"en":"Select language","fr":"Choisir la langue","pt":"Selecione o idioma"},"searchPlaceholder":{"en":"Search...","fr":"Chercher...","pt":"Pesquisar..."}};

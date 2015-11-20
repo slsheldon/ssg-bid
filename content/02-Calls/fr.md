@@ -1,5 +1,6 @@
 ---
 title: Appel
+style: calls
 ---
 # Appel à propositions de projets
 

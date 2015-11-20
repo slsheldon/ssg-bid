@@ -1,5 +1,6 @@
 ---
 title: Calls
+style: calls
 ---
 # Call for proposals
 

@@ -29,7 +29,6 @@
                 <a href="#" class="button toggle toggle-nav icon-menu" role="button" aria-label="Toggle Navigation">
                 </a>
 				<div class="brandBanner"></div>
-
 				<div class="site-navigation">
 					<span class="toggle toggle-nav" role="button">
 					</span>
@@ -42,10 +41,13 @@
 					<div class="login">
 						LOGIN
 					</div>
-					<div class="search">
-						SEARCH
+					<div id="search" class="search">
+                        <form class="search-form">
+                            <input class="search-input" type="search" placeholder="Search..."/>
+                            <button class="search-submit" type="submit">Search</button>
+                        </form>
 					</div>
-					<nav class="navigation-main">
+					<nav class="navigation-main" id="navigation-main">
 	<ul>
 		<li >
             
@@ -109,7 +111,7 @@
 <nav class="languageSelector" id="languageSelector" title="Select language">
 	
         
-        <a href="#" class="icon-earth"></a>
+        <a href="#"><span class="icon-earth"></span><span class="languageSelector-description">Select language<span></a>
         <ul>
         
             <li>
@@ -133,6 +135,9 @@
 	
 </nav>
 
+                    <div class="info">
+                        <a href="http://gbif.org"><span class="icon-gbif"></span><span class="info-description">GBIF.org</span></a>
+                    </div>
 					<div class="share">
 						SHARE
 					</div>
@@ -140,19 +145,16 @@
 			</section>
 			
 			<main id="main">
-				<!--<aside class="context-options">-->
-					<!--filters go here-->
-				<!--</aside>-->
 				<section>
 					<div class="content">
-						<article >
+						<article  class="faq" >
 	<!--<div class="article--share">Share</div>-->
     <section
             
                 class="block block-first"
             >
         <div class="block-content">
-	    <h1>Frequently Asked Questions sldjkfh lksjhd flkjsh dflkjh<a name="frequently-asked-questions-sldjkfh-lksjhd-flkjsh-dflkjh" class="anchor icon-link" href="#frequently-asked-questions-sldjkfh-lksjhd-flkjsh-dflkjh"></a></h1></div></section><section class="block"><div class="block-content"><p>This regularly updated list of FAQs on BID calls for proposals includes responses to questions sent to <a href="mailto:bid@gbif.org">bid@gbif.org</a>.</p>
+	    <h1>Frequently Asked Questions<a name="frequently-asked-questions" class="anchor icon-link" href="#frequently-asked-questions"></a></h1></div></section><section class="block"><div class="block-content"><p>This regularly updated list of FAQs on BID calls for proposals includes responses to questions sent to <a href="mailto:bid@gbif.org">bid@gbif.org</a>.</p>
 <h2>On forming consortia and partnerships<a name="on-forming-consortia-and-partnerships" class="anchor icon-link" href="#on-forming-consortia-and-partnerships"></a></h2><h4>What are the minimum and maximum number of partners in a regional consortium?<a name="what-are-the-minimum-and-maximum-number-of-partners-in-a-regional-consortium-" class="anchor icon-link" href="#what-are-the-minimum-and-maximum-number-of-partners-in-a-regional-consortium-"></a></h4><p>A minimum of three partners is required in the regional consortium. These three partners must be legal entities from three different African ACP countries. There is no upper limit for the number of consortium members.</p>
 <h4>Can private companies be involved as partners in any of the BID grants?<a name="can-private-companies-be-involved-as-partners-in-any-of-the-bid-grants-" class="anchor icon-link" href="#can-private-companies-be-involved-as-partners-in-any-of-the-bid-grants-"></a></h4><p>The call for proposals states the following: “Applicants must be legal entities located in an African ACP country (see Annex A, Section 1). Such entities include national government agencies, GBIF Participant nodes, natural history museums and collections, research institutes, universities, and NGOs.”. In addition it states that: “All BID funded activities must be not-for-profit”.</p>
 <p>All these parties, mentioned above, can be partners in a national biodiversity data mobilization grant or consortium partners in a regional biodiversity data mobilization.</p>
@@ -178,14 +180,52 @@ The BID programme focuses on mobilizing existing biodiversity data, rather than 
 				</section>
 			</main>
 		</div>
+        
+<div id="popup" class="popup">
+    <a href="#" class="popup-close icon-cross"></a>
+    <div class="popup-languages">
+        <p>This site is available in more languages </p>
+
+        
+        
+        <ul>
+            
+            <li>
+                <a href="/en/faqs"  class="active" >English</a>
+            </li>
+            
+    
+        
+            <li>
+                <a href="/fr/faqs" >Français</a>
+            </li>
+            
+    
+        
+            <li>
+                <a href="/pt/faqs" >Português</a>
+            </li>
+            
+        </ul>
+        
+    
+    </div>
+
+    <div>
+        <p>
+            Lorem ipsum cookies
+        </p>
+    </div>
+</div>
+
         <div class="overlay is-visible"></div>
 		<script>
 			var GBIF = GBIF || {};
             GBIF.page = GBIF.page || {};
             GBIF.site = GBIF.site || {};
-            GBIF.page.meta = {"fm":{"title":"FAQs"},"siteLanguage":"en","prettyUrl":"en/faqs"};
+            GBIF.page.meta = {"fm":{"title":"FAQs","style":"faq"},"siteLanguage":"en","prettyUrl":"en/faqs"};
             GBIF.page.versions = {"en":"en/faqs","fr":"fr/faqs","pt":"pt/faqs"};
-            GBIF.site.navigation = {"menuItem":{"en":{"fm":{"title":"Home","image":"/images/pattern-01.png","style":"home"},"siteLanguage":"en","prettyUrl":"en"},"fr":{"fm":{"title":"Home","image":"/images/pattern-01.png","style":"home"},"siteLanguage":"fr","prettyUrl":"fr"},"pt":{"fm":{"title":"Home","image":"/images/pattern-01.png","style":"home"},"siteLanguage":"pt","prettyUrl":"pt"}},"children":[{"menuItem":{"en":{"fm":{"title":"About","style":"about"},"siteLanguage":"en","prettyUrl":"en/about"},"fr":{"fm":{"title":"About","style":"about"},"siteLanguage":"fr","prettyUrl":"fr/about"},"pt":{"fm":{"title":"About","style":"about"},"siteLanguage":"pt","prettyUrl":"pt/about"}}},{"menuItem":{"en":{"fm":{"title":"Calls"},"siteLanguage":"en","prettyUrl":"en/calls"},"fr":{"fm":{"title":"Appel"},"siteLanguage":"fr","prettyUrl":"fr/calls"},"pt":{"fm":{"title":"Convite"},"siteLanguage":"pt","prettyUrl":"pt/calls"}}},{"menuItem":{"en":{"fm":{"title":"FAQs"},"siteLanguage":"en","prettyUrl":"en/faqs"},"fr":{"fm":{"title":"FAQs"},"siteLanguage":"fr","prettyUrl":"fr/faqs"},"pt":{"fm":{"title":"FAQs"},"siteLanguage":"pt","prettyUrl":"pt/faqs"}}}]};
+            GBIF.site.navigation = {"menuItem":{"en":{"fm":{"title":"Home","image":"/images/pattern-01.png","style":"home"},"siteLanguage":"en","prettyUrl":"en"},"fr":{"fm":{"title":"Home","image":"/images/pattern-01.png","style":"home"},"siteLanguage":"fr","prettyUrl":"fr"},"pt":{"fm":{"title":"Home","image":"/images/pattern-01.png","style":"home"},"siteLanguage":"pt","prettyUrl":"pt"}},"children":[{"menuItem":{"en":{"fm":{"title":"About","style":"about"},"siteLanguage":"en","prettyUrl":"en/about"},"fr":{"fm":{"title":"About","style":"about"},"siteLanguage":"fr","prettyUrl":"fr/about"},"pt":{"fm":{"title":"About","style":"about"},"siteLanguage":"pt","prettyUrl":"pt/about"}}},{"menuItem":{"en":{"fm":{"title":"Calls","style":"calls"},"siteLanguage":"en","prettyUrl":"en/calls"},"fr":{"fm":{"title":"Appel","style":"calls"},"siteLanguage":"fr","prettyUrl":"fr/calls"},"pt":{"fm":{"title":"Convite","style":"calls"},"siteLanguage":"pt","prettyUrl":"pt/calls"}}},{"menuItem":{"en":{"fm":{"title":"FAQs","style":"faq"},"siteLanguage":"en","prettyUrl":"en/faqs"},"fr":{"fm":{"title":"FAQs","style":"faq"},"siteLanguage":"fr","prettyUrl":"fr/faqs"},"pt":{"fm":{"title":"FAQs","style":"faq"},"siteLanguage":"pt","prettyUrl":"pt/faqs"}}}]};
             GBIF.site.languages = {"languages":{"en":"English","fr":"Français","pt":"Português"},"list":["en","fr","pt"]};
 			GBIF.siteLanguage = 'en';
             GBIF.i18n = {"siteName":{"en":"BID","fr":"BID","pt":"BID"},"skipLink":{"en":"Skip to main content","fr":"Passer au contenu principal","pt":"Ir para o conteúdo principal"},"languageSelector_title":{"en":"Select language","fr":"Choisir la langue","pt":"Selecione o idioma"},"searchPlaceholder":{"en":"Search...","fr":"Chercher...","pt":"Pesquisar..."}};

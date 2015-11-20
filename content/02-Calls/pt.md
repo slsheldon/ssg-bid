@@ -1,5 +1,6 @@
 ---
 title: Convite
+style: calls
 ---
 # Convite à apresentação de propostas 
 
