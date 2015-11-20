@@ -1,6 +1,5 @@
 ---
 title: Home
-imageX: http://static3.depositphotos.com/1000980/122/v/950/depositphotos_1221309-African-pattern.jpg
 image: /images/pattern-01.png
 style: home
 ---

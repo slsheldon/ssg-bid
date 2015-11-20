@@ -15,7 +15,10 @@ languageSelector_title:
   fr: Choisir la langue
   pt: Selecione o idioma
 
-
+searchPlaceholder:
+  en: Search...
+  fr: Chercher...
+  pt: Pesquisar...
 
 
 # The format is
