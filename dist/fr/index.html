@@ -1,173 +1,387 @@
 <!DOCTYPE html>
-<!--[if lt IE 7 ]> <html class="ie6"> <![endif]-->
-<!--[if IE 7 ]>    <html class="ie7"> <![endif]-->
-<!--[if IE 8 ]>    <html class="ie8"> <![endif]-->
-<!--[if IE 9 ]>    <html class="ie9"> <![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!-->
-<html class="">
-<!--<![endif]-->
-	<head>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<meta name="apple-mobile-web-app-status-bar-style" content="black" />
-		<meta name="apple-mobile-web-app-capable" content="yes" />
-		<title></title>
-		<link rel="stylesheet" type="text/css" href="/css/index.css">
-		<!--[if lt IE 9]>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/es5-shim/4.2.0/es5-shim.js"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/aight/1.2.2/aight.min.js"></script>
-		<![endif]-->
-	</head>
 
-	<body lang="fr">
-		<div class="page-wrapper">
-			<section class="site-intro">
-				<a class="skip" rel="nofollow" href="#main">Passer au contenu principal</a>
-                <a href="#" class="button toggle toggle-nav icon-menu" role="button" aria-label="Toggle Navigation">
+<!--[if !IE]> -->
+<html lang="en" class="not_ie">
+<!-- <![endif]-->
+<!--[if IE]>
+<html lang="en" class="ie">
+<![endif]-->
+
+<head>
+    <meta name="viewport" content="width = device-width, initial-scale = 1">
+
+
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png?v=M44RdwqkEg_v2">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png?v=M44RdwqkEg_v2">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png?v=M44RdwqkEg_v2">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png?v=M44RdwqkEg_v2">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png?v=M44RdwqkEg_v2">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png?v=M44RdwqkEg_v2">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png?v=M44RdwqkEg_v2">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png?v=M44RdwqkEg_v2">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png?v=M44RdwqkEg_v2">
+<link rel="icon" type="image/png" href="/favicon-32x32.png?v=M44RdwqkEg_v2" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-194x194.png?v=M44RdwqkEg_v2" sizes="194x194">
+<link rel="icon" type="image/png" href="/favicon-96x96.png?v=M44RdwqkEg_v2" sizes="96x96">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png?v=M44RdwqkEg_v2" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-16x16.png?v=M44RdwqkEg_v2" sizes="16x16">
+<link rel="manifest" href="/manifest.json?v=M44RdwqkEg_v2">
+<link rel="mask-icon" href="/safari-pinned-tab.svg?v=M44RdwqkEg_v2" color="#4c9e45">
+<link rel="shortcut icon" href="/favicon.ico?v=M44RdwqkEg_v2">
+<meta name="msapplication-TileColor" content="#00a300">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png?v=M44RdwqkEg_v2">
+<meta name="theme-color" content="#4c9e45">
+
+<title></title>
+<link rel="stylesheet" type="text/css" href="/css/index.css">
+    <title>GBIF</title>
+</head>
+<body>
+
+
+
+<div id="page-wrapper" class="page-wrapper">
+    <a class="skip" rel="nofollow" href="#main">Passer au contenu principal</a>
+    <div class="siteCanvas" id="siteCanvas">
+        <header class="SiteHeader" id="SiteHeader">
+    <div>
+        <div class="SiteHeader__mobileOptions">
+            <div class="navbar_action">
+                <a href="#" class="actionIcon gb-icon-menu site__menuToggle btn">
+                    <span>Menu</span>
                 </a>
-				<div class="brandBanner"></div>
-				<div class="site-navigation">
-					<span class="toggle toggle-nav" role="button">
-					</span>
-					<div class="brand">
-						<a href="/fr">
-                            <div title="logo"></div>
-							<h1>BID</h1>
-						</a>
-					</div>
-					<div class="login">
-						LOGIN
-					</div>
-					<div id="search" class="search">
-                        <form class="search-form">
-                            <input class="search-input" type="search" placeholder="Chercher..."/>
-                            <button class="search-submit" type="submit">Search</button>
-                        </form>
-					</div>
-					<nav class="navigation-main" id="navigation-main">
-	<ul>
-		<li  class="isActive" >
-            
-            <a href="/fr">Home</a>
-            
+            </div>
+            <div class="navbar_action">
+                <a href="/#" class="actionIcon gb-icon-logo home">
+                    <span>BID</span>
+                </a>
+            </div>
+            <div class="navbar_action">
+                <a href="#" class="actionIcon gb-icon-search site__searchToggle btn">
+                    <span>Search</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</header>
 
-			
+<nav id="nav" class="SiteNav " role="navigation">
+    <div class="ServiceMenu">
+        <div class="ServiceMenu__teaser">
+        </div>
+        <ul>
+            <li class="ServiceMenu__search">
+                <a href="#" class="gb-icon-search site__searchToggle">Search</a>
+            </li>
+            
+<li class="ServiceMenu__language isCategory">
+    
+    
+    <a href="#" class="gb-icon-global" title="Choisir la langue">Français</a>
+    <ul>
+    
+        <li>
+            <a href="/en" >English</a>
+        </li>
+    
+    
+    
+        <li>
+            <a href="/fr"  class="isActive" >Français</a>
+        </li>
+    
+    
+    
+        <li>
+            <a href="/pt" >Português</a>
+        </li>
+    
+    </ul>
+    
+    
+</li>
+
+        </ul>
+    </div>
+
+
+    <div class="MainMenu">
+        
+        <a href="/fr" class="gb-icon-home home"><span>Accueil</span></a>
+        
+        
+        
+        <ul>
+            
+            
+            <li class=" 
+                        
+                        
+                        ">
+
+                
+                <a href="/fr/about">
+                    About
+                </a>
+                
+
+
+            </li>
+            
+            
+        
+        
+            
+            <li class=" 
+                        
+                        isCategory
+                        
+                        
+                        isCategory isMega
+                        
+                        ">
+
+                
+                <a href="#">
+                    Appel
+                </a>
+                
                 
                 <ul>
-                
                     
-                        <li >
+                    
+                    <li class=" 
+                        
+                        isCategory
+                        
+                        
+                        ">
 
+                        
+                        <a href="#">
+                            Appel – Afrique, 2015
+                        </a>
+                        
+                        
+                        <ul>
                             
-                                <a href="/fr/about">
-                                    About
+                            
+                            <li >
+                                
+                                
+                                <a href="/fr/calls/africa-5/regional-grants">
+                                    Subventions régionales – Afrique subsaharienne, 2015
                                 </a>
+                                
+
+                            </li>
                             
-
-
-                        </li>
-                    
-                
-            
-                
-                    
-                        <li >
-
                             
-                                <a href="/fr/calls">
-                                    Appel
+                        
+                        
+                            
+                            <li >
+                                
+                                
+                                <a href="/fr/calls/africa-5/national-grants">
+                                    Subventions nationales – Afrique subsaharienne, 2015
                                 </a>
+                                
+
+                            </li>
                             
-
-
-                        </li>
-                    
-                
-            
-                
-                    
-                        <li >
-
                             
-                                <a href="/fr/faqs">
-                                    FAQs
+                        
+                        
+                            
+                            <li >
+                                
+                                
+                                <a href="/fr/calls/africa-5/small-grants">
+                                    Subventions régionales – Afrique subsaharienne, 2015
                                 </a>
+                                
+
+                            </li>
                             
+                            
+                        </ul>
+                        
+                        
+                        
 
 
-                        </li>
+                    </li>
+                    
                     
                 
+                
+                    
+                    <li class=" 
+                        
+                        isCategory
+                        
+                        
+                        ">
+
+                        
+                        <a href="#">
+                            Prochains appels ?
+                        </a>
+                        
+                        
+                        <ul>
+                            
+                            
+                            <li >
+                                
+                                
+                                <a href="/fr/calls/upcoming-calls/caribbean-6">
+                                    Appel à propositions - Caraïbes 2016
+                                </a>
+                                
+
+                            </li>
+                            
+                            
+                        
+                        
+                            
+                            <li >
+                                
+                                
+                                <a href="/fr/calls/upcoming-calls/pacific-6">
+                                    Appel à propositions – Pacifique, 2016
+                                </a>
+                                
+
+                            </li>
+                            
+                            
+                        
+                        
+                            
+                            <li >
+                                
+                                
+                                <a href="/fr/calls/upcoming-calls/africa-7">
+                                    Appel à propositions – Afrique subsaharienne, 2017
+                                </a>
+                                
+
+                            </li>
+                            
+                            
+                        </ul>
+                        
+                        
+                        
+
+
+                    </li>
+                    
+                    
                 </ul>
                 
+                
+                
+
+
+            </li>
             
-		</li>
-	</ul>
-</nav>
-					
-<nav class="languageSelector" id="languageSelector" title="Choisir la langue">
-	
+            
         
-        <a href="#"><span class="icon-earth"></span><span class="languageSelector-description">Choisir la langue<span></a>
-        <ul>
         
-            <li>
-                <a href="/en" >English</a>
+            
+            <li class=" 
+                        
+                        
+                        ">
+
+                
+                <a href="/fr/faq">
+                    FAQ
+                </a>
+                
+
+
             </li>
-        
-	
-        
-            <li>
-                <a href="/fr"  class="active" >Français</a>
-            </li>
-        
-	
-        
-            <li>
-                <a href="/pt" >Português</a>
-            </li>
-        
+            
+            
         </ul>
         
-	
+        
+    </div>
+    <div  class="SiteNav__info">
+        <ul>
+            <li>
+                <a href="http://gbif.org" class="gb-icon-logo"><span class="icon-gbif"></span><span class="info-description">GBIF.org</span></a>
+            </li>
+        </ul>
+    </div>
 </nav>
+        <div class="Search 
+            " id="site_search">
+    <div class="Search__content" id="search">
+        <form>
+            <input type="text" placeholder="Chercher..." name="search" class="search-input">
+            <button type="submit" class="gb-icon-search"><span>Chercher...</span></button>
+        </form>
+        <div id="Search__feedback">
+	        <div class="Search__results">
+	        </div>
+            <div class="Search--message">undefined</div>
+    	</div>
+        <script type="text/html" id="searchResultTemlpate">
+        	
+        	<a href="{{href}}"><h2>{{title}}</h2><span>{{category}}</span><p>{{desc}}</p></a>
+        	
+		</script>
+    </div>
+</div>
 
-                    <div class="info">
-                        <a href="http://gbif.org"><span class="icon-gbif"></span><span class="info-description">GBIF.org</span></a>
-                    </div>
-					<div class="share">
-						SHARE
-					</div>
-				</div>
-			</section>
-			
-			<main id="main">
-				<section>
-					<div class="content">
-						<article  class="home" >
-	<!--<div class="article--share">Share</div>-->
-    <section
+        <main class="main" role="main" id="main">
+
             
-                style="background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.4),  rgba(255, 255, 255, 0.4)), url(/images/pattern-01.png)" class="block block-first hasImage"
-            >
+
+
+            <div class="Site__contentArea  article ">
+                
+                <div class="Site__contentArea__main 
+                             ">
+                    <article  class="article" >
+	<!--<div class="article--share">Share</div>-->
+    <section class="block block-first">
         <div class="block-content">
-	    <h1>Biodiversity Information for Development<a name="biodiversity-information-for-development" class="anchor icon-link" href="#biodiversity-information-for-development"></a></h1></div></section><section class="block"><div class="block-content"><p>Biodiversity Information for Development (BID) is a multi-year, €3.9 million programme funded by the <a href="http://europa.eu">European Union</a> and led by GBIF with the aim of increasing the amount of biodiversity information available in the <a href="http://#">‘ACP’ nations of sub-Saharan Africa, the Caribbean and the Pacific</a>.</p>
-<div class="action-items"><div class="action-item"><a href="about/"><h2>About</h2></a></div><div class="action-item"><a href="calls"><h2>Call for proposals from sub-Saharan Africa</h2><span class="action-comment">deadline 20 Nov 2015</span></a></div><div class="action-item"><a href="faqs/"><h2>Frequently Asked Questions</h2></a></div></div><h2>Latest news<a name="latest-news" class="anchor icon-link" href="#latest-news"></a></h2><div class="rssFeed" data-feed="/raw/bid.json"></div><blockquote>
-<p><em>This programme is funded by the <a href="http://www.europa.eu">European Union</a></em>
+	    <h1 id ="bid:-l&#39;-information-sur-la-biodiversité-pour-le-développement" class="anchor">BID: l&#39; Information sur la Biodiversité pour le Développement</h1></div></section><section class="block"><div class="block-content"><p>Financé par <a href="http://europa.eu">l&#39; Union européenne</a> et mené par le GBIF, BID: l&#39; Information sur la Biodiversité pour le Développement est un nouveau programme pluriannuel visant à augmenter la disponibilité et l’utilisation d&#39;informations sur la biodiversité pour la recherche et la prise de décision dans <a href="https://ec.europa.eu/europeaid/regions/african-caribbean-and-pacific-acp-region_en">les pays ACP (Afrique subsaharienne, Caraïbes et Pacifique)</a>.</p>
+<div class="action-items"><div class="action-item"><a href="about/"><h2>About</h2></a></div><div class="action-item"><a href="calls/afrique-2015"><h2>Appel à propositions des Afrique subsaharienne</h2><span class="action-comment">deadline xx Feb 2016</span></a></div><div class="action-item"><a href="faqs/"><h2>Frequently Asked Questions</h2></a></div></div><h2 id ="latest-news" class="anchor">Latest news</h2><div class="rssFeed" data-feed="/raw/bid.json"></div><blockquote>
+<p><em>Ce programme est financé par <a href="http://www.europa.eu">l&#39;Union européenne</a></em>
 <img src="/images/flag-yellow-low.jpg" alt="Flag of the European Union"></p>
 </blockquote>
 
         </div>
     </section>
 </article>
-					</div>
-				</section>
-			</main>
-		</div>
-        
+
+                    <footer class="Site__footer">
+                        <p>jshgdf sdfg kjhsgd</p>
+                        <p>jshgdf sdfg kjhsgd</p>
+                        <p>jshgdf sdfg kjhsgd</p>
+                    </footer>
+
+                </div>
+
+            </div>
+            <div class="overlay overlayFilter"></div>
+            <div class="overlay overlayMobileMenu"></div>
+        </main>
+
+    </div>
+</div>
+
+
+
+
 <div id="popup" class="popup">
     <a href="#" class="popup-close icon-cross"></a>
     <div class="popup-languages">
@@ -181,13 +395,13 @@
                 <a href="/en" >English</a>
             </li>
             
-    
+        
         
             <li>
                 <a href="/fr"  class="active" >Français</a>
             </li>
             
-    
+        
         
             <li>
                 <a href="/pt" >Português</a>
@@ -195,7 +409,7 @@
             
         </ul>
         
-    
+        
     </div>
 
     <div>
@@ -205,20 +419,21 @@
     </div>
 </div>
 
-        <div class="overlay is-visible"></div>
-		<script>
-			var GBIF = GBIF || {};
-            GBIF.page = GBIF.page || {};
-            GBIF.site = GBIF.site || {};
-            GBIF.page.meta = {"fm":{"title":"Home","image":"/images/pattern-01.png","style":"home"},"siteLanguage":"fr","prettyUrl":"fr"};
-            GBIF.page.versions = {"en":"en","fr":"fr","pt":"pt"};
-            GBIF.site.navigation = {"menuItem":{"en":{"fm":{"title":"Home","image":"/images/pattern-01.png","style":"home"},"siteLanguage":"en","prettyUrl":"en"},"fr":{"fm":{"title":"Home","image":"/images/pattern-01.png","style":"home"},"siteLanguage":"fr","prettyUrl":"fr"},"pt":{"fm":{"title":"Home","image":"/images/pattern-01.png","style":"home"},"siteLanguage":"pt","prettyUrl":"pt"}},"children":[{"menuItem":{"en":{"fm":{"title":"About","style":"about"},"siteLanguage":"en","prettyUrl":"en/about"},"fr":{"fm":{"title":"About","style":"about"},"siteLanguage":"fr","prettyUrl":"fr/about"},"pt":{"fm":{"title":"About","style":"about"},"siteLanguage":"pt","prettyUrl":"pt/about"}}},{"menuItem":{"en":{"fm":{"title":"Calls","style":"calls"},"siteLanguage":"en","prettyUrl":"en/calls"},"fr":{"fm":{"title":"Appel","style":"calls"},"siteLanguage":"fr","prettyUrl":"fr/calls"},"pt":{"fm":{"title":"Convite","style":"calls"},"siteLanguage":"pt","prettyUrl":"pt/calls"}}},{"menuItem":{"en":{"fm":{"title":"FAQs","style":"faq"},"siteLanguage":"en","prettyUrl":"en/faqs"},"fr":{"fm":{"title":"FAQs","style":"faq"},"siteLanguage":"fr","prettyUrl":"fr/faqs"},"pt":{"fm":{"title":"FAQs","style":"faq"},"siteLanguage":"pt","prettyUrl":"pt/faqs"}}}]};
-            GBIF.site.languages = {"languages":{"en":"English","fr":"Français","pt":"Português"},"list":["en","fr","pt"]};
-			GBIF.siteLanguage = 'fr';
-            GBIF.i18n = {"siteName":{"en":"BID","fr":"BID","pt":"BID"},"skipLink":{"en":"Skip to main content","fr":"Passer au contenu principal","pt":"Ir para o conteúdo principal"},"languageSelector_title":{"en":"Select language","fr":"Choisir la langue","pt":"Selecione o idioma"},"searchPlaceholder":{"en":"Search...","fr":"Chercher...","pt":"Pesquisar..."}};
-		</script>
-		<script src="/javascript/script.js"></script>
-	</body>
 
+
+<script>
+    var GBIF = GBIF || {};
+    GBIF.page = GBIF.page || {};
+    GBIF.site = GBIF.site || {};
+    GBIF.page.meta = {"fm":{"title":"Accueil"},"siteLanguage":"fr","contentLanguage":"fr","prettyUrl":"fr"};
+    GBIF.page.versions = {"en":"en","fr":"fr","pt":"pt"};
+    GBIF.site.navigation = {"menuItem":{"en":{"fm":{"title":"Home"},"siteLanguage":"en","contentLanguage":"en","prettyUrl":"en"},"fr":{"fm":{"title":"Accueil"},"siteLanguage":"fr","contentLanguage":"fr","prettyUrl":"fr"},"pt":{"fm":{"title":"Inicial"},"siteLanguage":"pt","contentLanguage":"pt","prettyUrl":"pt"}},"children":[{"menuItem":{"en":{"fm":{"title":"About"},"siteLanguage":"en","contentLanguage":"en","prettyUrl":"en/about"},"fr":{"fm":{"title":"About"},"siteLanguage":"fr","contentLanguage":"en","prettyUrl":"fr/about"},"pt":{"fm":{"title":"About"},"siteLanguage":"pt","contentLanguage":"en","prettyUrl":"pt/about"}}},{"menuItem":{"en":{"fm":{"title":"Calls for proposals","type":"menu only"},"siteLanguage":"en","contentLanguage":"en","prettyUrl":"en/calls"},"fr":{"fm":{"title":"Appel","type":"menu only"},"siteLanguage":"fr","contentLanguage":"fr","prettyUrl":"fr/calls"},"pt":{"fm":{"title":"Convite à apresentação de propostas","type":"menu only"},"siteLanguage":"pt","contentLanguage":"pt","prettyUrl":"pt/calls"}},"children":[{"menuItem":{"en":{"fm":{"title":"Sub-Saharan Africa, 2015","type":"menu only"},"siteLanguage":"en","contentLanguage":"en","prettyUrl":"en/calls/africa-5"},"fr":{"fm":{"title":"Appel – Afrique, 2015","type":"menu only"},"siteLanguage":"fr","contentLanguage":"fr","prettyUrl":"fr/calls/africa-5"},"pt":{"fm":{"title":"Convite à apresentação de propostas – África Subsariana, 2015","type":"menu only"},"siteLanguage":"pt","contentLanguage":"pt","prettyUrl":"pt/calls/africa-5"}},"children":[{"menuItem":{"en":{"fm":{"title":"Regional grants","category":"Sub-Saharan Africa, 2015","toc":true},"siteLanguage":"en","contentLanguage":"en","prettyUrl":"en/calls/africa-5/regional-grants"},"fr":{"fm":{"title":"Subventions régionales – Afrique subsaharienne, 2015"},"siteLanguage":"fr","contentLanguage":"fr","prettyUrl":"fr/calls/africa-5/regional-grants"},"pt":{"fm":{"title":"Subvenções regionais – África Subsariana, 2015"},"siteLanguage":"pt","contentLanguage":"pt","prettyUrl":"pt/calls/africa-5/regional-grants"}}},{"menuItem":{"en":{"fm":{"title":"National grants"},"siteLanguage":"en","contentLanguage":"en","prettyUrl":"en/calls/africa-5/national-grants"},"fr":{"fm":{"title":"Subventions nationales – Afrique subsaharienne, 2015"},"siteLanguage":"fr","contentLanguage":"fr","prettyUrl":"fr/calls/africa-5/national-grants"},"pt":{"fm":{"title":"Subvenções nacionais – África Subsariana, 2015"},"siteLanguage":"pt","contentLanguage":"pt","prettyUrl":"pt/calls/africa-5/national-grants"}}},{"menuItem":{"en":{"fm":{"title":"Small grants"},"siteLanguage":"en","contentLanguage":"en","prettyUrl":"en/calls/africa-5/small-grants"},"fr":{"fm":{"title":"Subventions régionales – Afrique subsaharienne, 2015"},"siteLanguage":"fr","contentLanguage":"fr","prettyUrl":"fr/calls/africa-5/small-grants"},"pt":{"fm":{"title":"Pequenas bolsas – África Subsariana, 2015"},"siteLanguage":"pt","contentLanguage":"pt","prettyUrl":"pt/calls/africa-5/small-grants"}}}]},{"menuItem":{"en":{"fm":{"title":"Upcoming calls","type":"menu only"},"siteLanguage":"en","contentLanguage":"en","prettyUrl":"en/calls/upcoming-calls"},"fr":{"fm":{"title":"Prochains appels ?","type":"menu only"},"siteLanguage":"fr","contentLanguage":"fr","prettyUrl":"fr/calls/upcoming-calls"},"pt":{"fm":{"title":"Chamadas próximos ?","type":"menu only"},"siteLanguage":"pt","contentLanguage":"pt","prettyUrl":"pt/calls/upcoming-calls"}},"children":[{"menuItem":{"en":{"fm":{"title":"Caribbean, 2016"},"siteLanguage":"en","contentLanguage":"en","prettyUrl":"en/calls/upcoming-calls/caribbean-6"},"fr":{"fm":{"title":"Appel à propositions - Caraïbes 2016"},"siteLanguage":"fr","contentLanguage":"fr","prettyUrl":"fr/calls/upcoming-calls/caribbean-6"},"pt":{"fm":{"title":"Convite à apresentação de propostas - CaraíbasCaribe, 2016"},"siteLanguage":"pt","contentLanguage":"pt","prettyUrl":"pt/calls/upcoming-calls/caribbean-6"}}},{"menuItem":{"en":{"fm":{"title":"Pacific, 2016"},"siteLanguage":"en","contentLanguage":"en","prettyUrl":"en/calls/upcoming-calls/pacific-6"},"fr":{"fm":{"title":"Appel à propositions – Pacifique, 2016"},"siteLanguage":"fr","contentLanguage":"fr","prettyUrl":"fr/calls/upcoming-calls/pacific-6"},"pt":{"fm":{"title":"Convite à apresentação de propostas – Pacífico, 2016"},"siteLanguage":"pt","contentLanguage":"pt","prettyUrl":"pt/calls/upcoming-calls/pacific-6"}}},{"menuItem":{"en":{"fm":{"title":"Sub-Saharan Africa, 2017"},"siteLanguage":"en","contentLanguage":"en","prettyUrl":"en/calls/upcoming-calls/africa-7"},"fr":{"fm":{"title":"Appel à propositions – Afrique subsaharienne, 2017"},"siteLanguage":"fr","contentLanguage":"fr","prettyUrl":"fr/calls/upcoming-calls/africa-7"},"pt":{"fm":{"title":"Convite à apresentação de propostas - África sub-Sahariana, 2017"},"siteLanguage":"pt","contentLanguage":"pt","prettyUrl":"pt/calls/upcoming-calls/africa-7"}}}]}]},{"menuItem":{"en":{"fm":{"title":"FAQs","toc":true},"siteLanguage":"en","contentLanguage":"en","prettyUrl":"en/faq"},"fr":{"fm":{"title":"FAQ"},"siteLanguage":"fr","contentLanguage":"fr","prettyUrl":"fr/faq"},"pt":{"fm":{"title":"FAQ"},"siteLanguage":"pt","contentLanguage":"pt","prettyUrl":"pt/faq"}}}]};
+    GBIF.site.languages = {"en":{"name":"English"},"fr":{"name":"Français"},"pt":{"name":"Português"},"list":["en","fr","pt"]};
+    GBIF.siteLanguage = 'fr';
+    GBIF.i18n = {"siteName":{"en":"BID","fr":"BID","pt":"BID"},"skipLink":{"en":"Skip to main content","fr":"Passer au contenu principal","pt":"Ir para o conteúdo principal"},"languageSelector_title":{"en":"Select language","fr":"Choisir la langue","pt":"Selecione o idioma"},"searchPlaceholder":{"en":"Search...","fr":"Chercher...","pt":"Pesquisar..."}};
+    GBIF.toc = [{"content":"BID: l' Information sur la Biodiversité pour le Développement","slug":"bid--l--information-sur-la-biodiversit--pour-le-d-veloppement","lvl":1,"i":0,"seen":0},{"content":"Latest news","slug":"latest-news","lvl":2,"i":1,"seen":0}];
+</script>
+<script src="/javascript/script.js"></script>
+
+</body>
 </html>
-

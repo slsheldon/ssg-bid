@@ -22,8 +22,5 @@ module.exports = {
     stylus: {
         src: src + '/stylus/**/*.styl',
         entries: [src + '/stylus/index.styl']
-    },
-    customTemplates: {
-        src: src + '/templates/'
     }
 };

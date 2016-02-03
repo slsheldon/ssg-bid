@@ -1,31 +1,21 @@
-main >section >.content >article.about>section.block-first
-	background-color secondary-color
-main >section >.content >article.calls>section.block-first
-	background-color tertiary-color
-main >section >.content >article.faq>section.block-first
-	background-color accent-color
+//Order mega menu in two columns
++isAbove($laptop) {
+	.SiteNav > div > ul > li.isCategory.isMega > ul > li {
+		lost-column 1 / 2
+	}
+}
 
-main >section >.content >article.home>section
-	background-size: 60%
-	>div
-		max-width laptop
-	&.block-first
-		>div
-			padding 10em 0
-			margin 0
-			max-width none
-			h1
-				padding: 0.5em 20px
-				background color-dark
-				color paper-color
+.Site__contentArea.article article .block-first {
+	h1 {
+		margin 0
+		padding vr-block(1.5)
+	}
+}
 
-@media (min-width tablet)
-	main >section >.content >article.home>section.block-first
-		background-size: 40%
-
-.ie8 main >section >.content >article.home>section.block-first
-	h1
-		background none
-		color color-dark
-	>div
-		padding 5em 0
++isAbove($laptop) {
+	.Site__contentArea.article article .block-first {
+		h1 {
+			padding vr-block(3)
+		}
+	}
+}

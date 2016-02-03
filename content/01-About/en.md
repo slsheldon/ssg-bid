@@ -1,6 +1,5 @@
 ---
 title: About
-style: about
 ---
 
 # About BID
@@ -31,3 +30,6 @@ Making biodiversity information more readily available for specific policy-relev
 + The use of the mobilized biodiversity data promoted through engagement with the scientific and policy communities
 + Identification and analysis of examples of the use of targeted biodiversity information in decision-making
 + Achievements of project interventions recognized by international science-policy initiatives
+
+>*This programme is funded by the [European Union](http://www.europa.eu)*
+>![Flag of the European Union](/images/flag-yellow-low.jpg)
