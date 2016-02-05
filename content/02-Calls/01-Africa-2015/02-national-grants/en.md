@@ -131,5 +131,7 @@ National grants must include at least one activity contributing to each of three
 
 -----------
 
->*This programme is funded by the [European Union](http://www.europa.eu)*
->![Flag of the European Union](/images/flag-yellow-low.jpg)
+```styledYaml
+html:
+- path: eufund.html
+```

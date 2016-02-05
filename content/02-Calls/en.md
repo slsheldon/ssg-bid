@@ -17,5 +17,7 @@ GBIF will issue calls for proposals from [ACP countries](https://ec.europa.eu/eu
 
 Sign up for the [BID mailing list](http://#) to receive timely updates.
 
->*This programme is funded by the [European Union](http://www.europa.eu)*
->![Flag of the European Union](/images/flag-yellow-low.jpg)
+```styledYaml
+html:
+- path: eufund.html
+```

@@ -1,5 +1,6 @@
 ---
 title: Home
+style: home article
 ---
 Biodiversity Information for Development
 ===================
@@ -28,6 +29,7 @@ rss:
 - url: /raw/bid.json
 ```
 
-
->*This programme is funded by the [European Union](http://www.europa.eu)*
->![Flag of the European Union](/images/flag-yellow-low.jpg)
+```styledYaml
+html:
+- path: eufund.html
+```

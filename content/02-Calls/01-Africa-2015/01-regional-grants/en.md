@@ -115,5 +115,7 @@ Regional grants must include activities contributing to each of three component 
 + Applying biodiversity data in decision-making processes.
 + Documenting use cases and sharing them with partners in the region.  
 
->*This programme is funded by the [European Union](http://www.europa.eu)*
->![Flag of the European Union](/images/flag-yellow-low.jpg)
+```styledYaml
+html:
+- path: eufund.html
+```

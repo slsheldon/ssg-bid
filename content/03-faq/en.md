@@ -4,7 +4,7 @@ toc: true
 ---
 
 
-# Frequently Asked Questions sldjkfh lksjhd flkjsh dflkjh
+# Frequently Asked Questions
 
 This regularly updated list of FAQs on BID calls for proposals includes responses to questions sent to [bid@gbif.org](mailto:bid@gbif.org).
 
@@ -58,5 +58,7 @@ Yes, the survey has been extended and is still open.  Surveys may be filled out 
 
 The survey may be filled at any time before submission of the concept note.
 
->*This programme is funded by the [European Union](http://www.europa.eu)*
->![Flag of the European Union](/images/flag-yellow-low.jpg)
+```styledYaml
+html:
+- path: eufund.html
+```

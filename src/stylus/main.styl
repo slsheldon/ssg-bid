@@ -5,10 +5,27 @@
 	}
 }
 
-.Site__contentArea.article article .block-first {
-	h1 {
-		margin 0
-		padding vr-block(1.5)
+.Site__contentArea.article article{
+	background #eee
+
+	.block-content {
+		background #fff
+		padding vr-block(1) vr-block(2)
+		margin vr-block(1) auto
+	}
+	.block-first {
+		background none
+		h1 {
+			/*margin 0*/
+			padding vr-block(1.5)
+		}
+		.block-content {
+			background $articleHeader_bg
+			margin 0 auto
+		}
+		+.block>.block-content {
+			margin 0 auto
+		}
 	}
 }
 
@@ -16,6 +33,30 @@
 	.Site__contentArea.article article .block-first {
 		h1 {
 			padding vr-block(3)
+		}
+	}
+}
+
+
+.eufunding {
+	margin vr-block(1) 0
+	img, p {
+		margin auto
+		text-align center
+	}
+}
+
+.Site__footer {
+	background none
+	border-color $Terracotta
+}
+
+.home.article {
+	.block-first {
+		.block-content {
+			background-image url('https://images.unsplash.com/photo-1437356934129-02f4dc0872ae')
+			background-size cover
+			background-position center
 		}
 	}
 }

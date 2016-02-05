@@ -4,7 +4,7 @@ var gulp = require('gulp'),
 
 global.rootRequire = function(name) {
     return require(__dirname + '/' + name);
-}
+};
 
 gulp.task('development', developmentTask);
 

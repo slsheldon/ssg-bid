@@ -32,5 +32,7 @@ All BID funded activities must be not-for-profit. BID programme funds may be use
 9. Applicants must provide plans to ensure sustainability of activities after project support from BID concludes.
 10. All data mobilized through the BID grants, as well as any other products of the projects, such as training material, must be made available under a [CC-BY license or CC0 license](http://www.gbif.org/newsroom/news/data-licensing-and-endorsement).
 
->*This programme is funded by the [European Union](http://www.europa.eu)*
->![Flag of the European Union](/images/flag-yellow-low.jpg)
+```styledYaml
+html:
+- path: eufund.html
+```

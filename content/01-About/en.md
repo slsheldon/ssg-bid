@@ -31,5 +31,8 @@ Making biodiversity information more readily available for specific policy-relev
 + Identification and analysis of examples of the use of targeted biodiversity information in decision-making
 + Achievements of project interventions recognized by international science-policy initiatives
 
->*This programme is funded by the [European Union](http://www.europa.eu)*
->![Flag of the European Union](/images/flag-yellow-low.jpg)
+
+```styledYaml
+html:
+- path: eufund.html
+```
