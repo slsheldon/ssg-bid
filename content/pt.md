@@ -1,5 +1,6 @@
 ---
 title: Inicial
+style: home article
 ---
 BID: Informação sobre Biodiversidade para o Desenvolvimento
 ===================
@@ -13,7 +14,6 @@ actions:
     url: about/
     type: link
   - title: Apresentação de propostas da África Subsariana
-    comment: deadline xx Feb 2016
     url: calls/africa-2015
     type: link
   - title: Frequently Asked Questions
@@ -26,9 +26,14 @@ Latest news
 
 ```styledYaml
 rss:
-- url: /raw/bid.json
+- url: http://www.gbif.org/newsroom/news/json/bid/pt
 ```
 
 
->*Este programa é financiado pela [União Europeia](http://www.europa.eu)*
->![Flag of the European Union](/images/flag-yellow-low.jpg)
+
+------
+
+```styledYaml
+html:
+- path: eufund_pt.html
+```

@@ -5,6 +5,21 @@ siteName:
   fr: BID
   pt: BID
 
+NavSearch:
+  en: Search
+  fr: Chercher
+  pt: Pesquisar
+
+NavMenu:
+  en: Menu
+  fr: Menu
+  pt: Cardápio
+
+searchPlaceholder:
+  en: Search...
+  fr: Chercher...
+  pt: Pesquisar...
+
 skipLink:
   en: Skip to main content
   fr: Passer au contenu principal
@@ -15,10 +30,16 @@ languageSelector_title:
   fr: Choisir la langue
   pt: Selecione o idioma
 
-searchPlaceholder:
-  en: Search...
-  fr: Chercher...
-  pt: Pesquisar...
+translationNotAvailable:
+  en: This text is not available in english
+  fr: This text is not available in ls dkfjghlskjdhf ljgs
+  pt: This text is not available in ls dkfjghlskjdhf ljgs
+
+cannotFindInformation:
+  en: Cannot find what you are looking for? Feel free to contact us.
+  fr: Cannot find what you are looking for? Feel free to contact us.
+  pt: Cannot find what you are looking for? Feel free to contact us.
+
 
 
 # The format is
@@ -44,6 +65,3 @@ searchPlaceholder:
 # article_date:
 #   en: Date
 #   dk: Dato
-#
-#
-# usage in templates: {{i18n.skipLink[meta.siteLanguage]}}

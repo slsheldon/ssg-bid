@@ -17,6 +17,15 @@ $Terracotta = rgb(214,111,39);  // Terracotta
 $Mist = rgb(232, 232, 232) 		// mist
 
 /* SITE SPECIFIC COLORS */
+
+//complementary colors
+
+$BlueLagoon = #007F89
+$DustBlue = #8CC6D0 //#7FCFDA //#71C9D6
+$SpringGreen = #DBEA2B
+$SpicyMix = #87554C
+$Casablanca = #F7C169 //#EFB279 //#FABB48
+
 $c_main = $Mist//#67A05D
 $c_sec = #F5CC27
 $_accent = $purple
@@ -26,9 +35,9 @@ $ink = #333
 /*Navigation-bar variables*/
 $navbar_height = vr-block(3)
 $navbar_borderWidth = vr-block(0.25)
-$navbar_bg = $OrangePeel
-$navbar_BorderColor = #333//$Terracotta
-$navbar_textColor = #555//$Terracotta
+$navbar_bg = $Casablanca//$NeonCarrot
+$navbar_BorderColor = $SpicyMix//$BlueLagoon
+$navbar_textColor = #444//$Terracotta
 $navbar_textColor_hover = darken($Terracotta, 20%)
 $navbar_dropdown_bg = white
 $navbar_dropdown_megaColor = $Terracotta
@@ -36,13 +45,15 @@ $navbar_dropdown_color = #333
 $navbar_horizontal_color = $c_main
 $navbar_dropdown_triangle_color = $navbar_BorderColor
 
-$logo_color := $Terracotta
+$logo_color = $Terracotta
+
+$LinkBorderColor = $OrangePeel
 
 /* DRAWERS */
 $drawer-width = 300px
 $nav_drawer_bg = #444
 $nav_drawer_color = #ddd
-$nav_drawer_image = "/images/drawer.jpg"
+$nav_drawer_image = "/images/africarising.jpg"
 
 $toc_drawer_bg = $content_bg
 $toc_drawer_color = $ink
@@ -50,6 +61,12 @@ $toc_h2_underline_color = $OrangePeel
 $toc_toggle_bg = #333
 $toc_toggle_color = $Mist
 $toc_drawer_button_height = vr-block(2)
+
+//Footer
+/*$footer_bg = $navbar_bg*/
+/*$footer_color = $navbar_textColor*/
+/*$footer_border_width = $navbar_borderWidth*/
+/*$footer_border_color = $navbar_BorderColor*/
 
 //TranslationNotification
 $translationNotification_bg = #444
@@ -71,7 +88,7 @@ $header-color       = #111
 $html-font-size		= 15px
 
 /* LOGO */
-siteLogo = url(/images/logo_white.png) //url(/images/BID-v2.png)
+$site-logo-content := $icon-string-bid
 
 /* COLORS */
 $primary-color = rgb(123, 194, 212)//lighten(Plum, 30%) //rgb(123, 194, 212)
@@ -82,12 +99,23 @@ $LightnessBreak = 70%
 $paper-color = $color-bright
 $background-color = $paper-color//#F1F1F1
 $ink-color = $color-dark
-$link-bg-color = $OrangePeel
+$link-bg-color = $BlueLagoon//$OrangePeel
 $button-bg-color = $Black //primary-color //rgb(80,158,47)
-$button-color = tomato
-$popupBorderColor = pink
+$button-color = $BlueLagoon
+$popupBorderColor = $BlueLagoon
 
 $articleHeader_textColor = white//darken($Terracotta, 50%) //white
 $articleHeader_weight = bold
-$articleHeader_bg = #A0D0E0
+$articleHeader_bg = $DustBlue //#A0D0E0
 $articleHeader_border = none
+
+//search
+$search_result_bg = #eee
+$search_result__header_bg = #eee
+$search_result_color = #222
+$search_result_border_color = $DustBlue
+
+//signup
+$signup_bg = #eee//$SpringGreen
+$signup_color = #333
+$signup_border_color = none//$SpringGreen

@@ -1,46 +1,62 @@
-actionBg = black
-actionColor = white
-actionPadding = 20px
+$actionBg = #333 //$SpringGreen
+$actionColor = #ddd//#444
+$actionCommentColor = #888
+$actionPadding = 20px
+$actionBorderColor = $OrangePeel
 
-.action-items
-	margin: 1em 0
-	.action-item
+.action-items {
+	margin 1em 0
+	.action-item {
 		position relative
-		background: actionBg
-		padding: actionPadding
-		margin: 10px 0
-		color: actionColor
-		a
+		background $actionBg
+		padding $actionPadding
+		margin 10px 0
+		color $actionColor
+		border-left $borderWidth solid $actionBg
+		a {
 			text-decoration none
-			border: none
+			border none
 			background-color none
-			&:hover
+			&:hover {
 				background none
-		span.action-pdf
+			}
+		}
+		span.action-pdf {
 			font-size 1.5em
 			position absolute
-			+h2
+			+ h2 {
 				padding-left 2em
-		span.action-comment
-			color black
+			}
+		}
+		span.action-comment {
+			color $actionCommentColor
 			display block
 			text-align right
 			font-size 0.8em
 			position absolute
-			right actionPadding
+			right $actionPadding
 			top 5px
-		h2
+		}
+		h2 {
 			font-size 1.0em
 			display inline-block
-		border-left borderWidth solid actionBg
-		&:hover
-			border-left-color link-bg-color
+			margin 0
+			line-height 1
+		}
+		&:hover {
+			border-left-color $actionBorderColor
+		}
+	}
+}
 
-@media (min-width 500px)
-	.action-items
-		display: flex
-		flex-wrap: wrap
++isAbove($laptop) {
+	.action-items {
+		display flex
+		flex-wrap wrap
 		justify-content flex-start
-		.action-item
-			flex: 0 1 auto
-			margin: 5px
+		.action-item {
+			flex 0 1 auto
+			margin 5px
+		}
+	}
+}
