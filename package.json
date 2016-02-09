@@ -11,9 +11,9 @@
     "bid"
   ],
   "author": "gbif",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "dependencies": {
     "gulp": "^3.9.0",
-    "gbif-ssg": "git+http://github.com/gbif/ssg.git#a64e8624ccc66c5cfb532d71624d55e609206949"
+    "gbif-ssg": "git+http://github.com/gbif/ssg.git#07b5a4e34f075f36e7b8695d929cf42faccee659"
   }
 }

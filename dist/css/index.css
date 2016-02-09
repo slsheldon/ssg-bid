@@ -1,3 +1,4 @@
+/*@import "../../../ssg/src/stylus" //usefull for testing*/
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -1630,7 +1631,6 @@ main {
   text-decoration: none;
   border-bottom: dotted 1px #444;
 }
-/*@import "../../node_modules/gbif-ssg/src/stylus"*/
 @media screen and (min-width: 901px) {
   .SiteNav > div > ul > li.isCategory.isMega > ul > li {
     width: calc(99.99% * 1/2 - (30px - 30px * 1/2));
@@ -1830,7 +1830,7 @@ main {
   background: #eee;
   padding: 0.75rem 0.375rem 0 0.375rem;
   margin-bottom: 1.5rem;
-  color: #333;
+  color: #555;
   border: solid 0.375rem none;
 }
 .article .block-content .NewsletterSignup a {
@@ -1897,98 +1897,4 @@ main {
 .article .block-content .NewsletterSignup h3,
 .article .block-content .NewsletterSignup p {
   margin: 0.375rem;
-}
-
-/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
-
-/* Tomorrow Comment */
-.hljs-comment {
-  color: #8e908c;
-}
-
-/* Tomorrow Red */
-.hljs-variable,
-.hljs-attribute,
-.hljs-tag,
-.hljs-regexp,
-.ruby .hljs-constant,
-.xml .hljs-tag .hljs-title,
-.xml .hljs-pi,
-.xml .hljs-doctype,
-.html .hljs-doctype,
-.css .hljs-id,
-.css .hljs-class,
-.css .hljs-pseudo {
-  color: #c82829;
-}
-
-/* Tomorrow Orange */
-.hljs-number,
-.hljs-preprocessor,
-.hljs-pragma,
-.hljs-built_in,
-.hljs-literal,
-.hljs-params,
-.hljs-constant {
-  color: #f5871f;
-}
-
-/* Tomorrow Yellow */
-.ruby .hljs-class .hljs-title,
-.css .hljs-rule .hljs-attribute {
-  color: #eab700;
-}
-
-/* Tomorrow Green */
-.hljs-string,
-.hljs-value,
-.hljs-inheritance,
-.hljs-header,
-.hljs-name,
-.ruby .hljs-symbol,
-.xml .hljs-cdata {
-  color: #718c00;
-}
-
-/* Tomorrow Aqua */
-.hljs-title,
-.css .hljs-hexcolor {
-  color: #3e999f;
-}
-
-/* Tomorrow Blue */
-.hljs-function,
-.python .hljs-decorator,
-.python .hljs-title,
-.ruby .hljs-function .hljs-title,
-.ruby .hljs-title .hljs-keyword,
-.perl .hljs-sub,
-.javascript .hljs-title,
-.coffeescript .hljs-title {
-  color: #4271ae;
-}
-
-/* Tomorrow Purple */
-.hljs-keyword,
-.javascript .hljs-function {
-  color: #8959a8;
-}
-
-.hljs {
-  display: block;
-  overflow-x: auto;
-  background: white;
-  color: #4d4d4c;
-  padding: 0.5em;
-  -webkit-text-size-adjust: none;
-}
-
-.coffeescript .javascript,
-.javascript .xml,
-.tex .hljs-formula,
-.xml .javascript,
-.xml .vbscript,
-.xml .css,
-.xml .hljs-cdata {
-  opacity: 0.5;
 }
