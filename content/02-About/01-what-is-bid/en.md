@@ -1,8 +1,10 @@
 ---
-title: About
+title: What is BID
 ---
 
-# About BID
+# What is BID
+
+Biodiversity Information for Development (BID) is a multi-year, €3.9 million programme funded by the [European Union](http://europa.eu) and led by GBIF with the aim of increasing the amount of biodiversity information available in the [‘ACP’ nations of sub-Saharan Africa, the Caribbean and the Pacific](https://ec.europa.eu/europeaid/regions/african-caribbean-and-pacific-acp-region_en).
 
 Funding from BID will support capacity enhancement activities and projects to mobilize biodiversity data and strengthen national or regional biodiversity information facilities in these regions. BID will focus on data that supports policy needs in the region, particularly in connection with protected areas, threatened species and invasive alien species.
 
