@@ -3,7 +3,7 @@ require('shelljs/global');
 function installPackages() {
     console.log('Not content only. Install from npm');
     rm('-rf', 'node_modules/*');
-    //exec('npm install');
+    exec('npm install');
 }
 function isContentFile(file) {
     return file.startsWith('content/');
