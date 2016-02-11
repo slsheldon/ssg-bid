@@ -16,6 +16,7 @@ If you have been invited to submit a full proposal, find complete information ab
 GBIF will issue calls for proposals from [ACP countries](https://ec.europa.eu/europeaid/regions/african-caribbean-and-pacific-acp-region_en) in the Caribbean and Pacific Islands during Q2 of 2016, with a second and final call for Africa ACP countries planned in 2017.
 
 
+
 Latest news
 -------------------
 
