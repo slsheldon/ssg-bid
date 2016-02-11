@@ -1,3 +1,13 @@
+//custom colors
+$DarkGreen = #7BBD6F//#007F89
+$SpringGreen = #A6DE9C //#8CC6D0 //#7FCFDA //#71C9D6
+//$SpringGreen = #DBEA2B
+$SpicyMix = #87554C
+$Casablanca = #F7C169 //#EFB279 //#FABB48
+
+$bid_secondaryColor = $SpringGreen
+$bid_secondaryColor_dark = $DarkGreen
+
 /* BREAK POINTS*/
 // mobile : 0px; //mobile first, no support for wearables
 $tablet = 768px
@@ -20,12 +30,6 @@ $Mist = rgb(232, 232, 232) 		// mist
 
 //complementary colors
 
-$BlueLagoon = #007F89
-$DustBlue = #8CC6D0 //#7FCFDA //#71C9D6
-$SpringGreen = #DBEA2B
-$SpicyMix = #87554C
-$Casablanca = #F7C169 //#EFB279 //#FABB48
-
 $c_main = $Mist//#67A05D
 $c_sec = #F5CC27
 $_accent = $purple
@@ -35,9 +39,9 @@ $ink = #333
 /*Navigation-bar variables*/
 $navbar_height = vr-block(3)
 $navbar_borderWidth = vr-block(0.25)
-$navbar_bg = $Casablanca//$NeonCarrot
-$navbar_BorderColor = $SpicyMix//$BlueLagoon
-$navbar_textColor = #444//$Terracotta
+$navbar_bg = $Casablanca
+$navbar_BorderColor = $SpicyMix
+$navbar_textColor = #444
 $navbar_textColor_hover = darken($Terracotta, 20%)
 $navbar_dropdown_bg = white
 $navbar_dropdown_megaColor = $Terracotta
@@ -99,23 +103,23 @@ $LightnessBreak = 70%
 $paper-color = $color-bright
 $background-color = $paper-color//#F1F1F1
 $ink-color = $color-dark
-$link-bg-color = $BlueLagoon//$OrangePeel
-$button-bg-color = $Black //primary-color //rgb(80,158,47)
-$button-color = $BlueLagoon
-$popupBorderColor = $BlueLagoon
+$link-bg-color = $bid_secondaryColor_dark
+$button-bg-color = $Black
+$button-color = $bid_secondaryColor_dark
+$popupBorderColor = $bid_secondaryColor_dark
 
-$articleHeader_textColor = white//darken($Terracotta, 50%) //white
+$articleHeader_textColor = white
 $articleHeader_weight = bold
-$articleHeader_bg = $DustBlue //#A0D0E0
+$articleHeader_bg = #A6DE9C
 $articleHeader_border = none
 
 //search
 $search_result_bg = #eee
 $search_result__header_bg = #eee
 $search_result_color = #222
-$search_result_border_color = $DustBlue
+$search_result_border_color = $bid_secondaryColor
 
 //signup
-$signup_bg = #eee//$SpringGreen
-$signup_color = #555
-$signup_border_color = none//$SpringGreen
+$signup_bg = #444
+$signup_color = #ddd
+$signup_border_color = none

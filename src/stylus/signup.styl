@@ -1,6 +1,12 @@
+$signup_form_margin = 0.25
+$smallArticlePadding = 1
+$largeArticlePadding = 2
+
 .article .block-content .NewsletterSignup {
 	background $signup_bg
-	padding vr-block(.5) vr-block(.25) 0 vr-block(.25)
+	padding vr-block(.5) vr-block($smallArticlePadding - $signup_form_margin) 0 vr-block($smallArticlePadding - $signup_form_margin)
+	margin-left -(vr-block($smallArticlePadding))
+	margin-right -(vr-block($smallArticlePadding))
 	margin-bottom vr-block(1)
 	color $signup_color
 	border solid vr-block(.25) $signup_border_color
@@ -55,3 +61,10 @@
 	}
 }
 
++isAbove($laptop){
+	.article .block-content .NewsletterSignup {
+		padding vr-block(.5) vr-block($largeArticlePadding - $signup_form_margin) 0 vr-block($largeArticlePadding - $signup_form_margin)
+		margin-left -(vr-block($largeArticlePadding))
+		margin-right -(vr-block($largeArticlePadding))
+	}
+}
