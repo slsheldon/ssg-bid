@@ -1,7 +1,8 @@
 function installPackages() {
     console.log('Not content only. Install from npm');
+    console.log(__dirname);
     const exec = require('child_process').exec;
-    const child = exec('rm -rf node_modules; npm install;', function (error, stdout, stderr){
+    const child = exec('rm -rf ' + __dirname + '/node_modules; npm install;', function (error, stdout, stderr){
         if (error !== null) {
             console.log('exec error: ' + error);
         }
