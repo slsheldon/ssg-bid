@@ -9,6 +9,7 @@ Biodiversity Information for Development (BID) is a multi-year, €3.9 million p
 The deadline for submitting initial concept notes from sub-Saharan Africa was 20 November 2015. GBIF and the BID evaluation panel have provided feedback and recommendations to applicants invited to prepare full proposals. Those proposals are due xx Feb 2016, and GBIF will announce the selected projects in March/April 2016.
 
 If you have been invited to submit a full proposal, find complete information about grant types here:
+x
 + [Regional grants](/en/calls/africa-2015/regional-grants)
 + [National grants](/en/calls/africa-2015/national-grants)
 + [Small grants](/en/calls/africa-2015/small-grants)
