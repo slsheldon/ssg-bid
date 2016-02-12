@@ -14,7 +14,6 @@
   "license": "Apache-2.0",
   "dependencies": {
     "gbif-ssg": "gbif/ssg.git#b034dbca5c7634c30610950e0784cc3c9b73356e",
-    "gulp": "^3.9.0",
-    "shelljs": "^0.6.0"
+    "gulp": "^3.9.0"
   }
 }
