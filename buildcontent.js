@@ -1,3 +1,7 @@
+//This is used in Jenkins. The idea is to only install packages when needed.
+// Installing packages is slow and when content creators work it is annoying having to wait 4 minuttes to see a change
+//This way we only reinstall dependencies if package.json or npm-shrinkwrap-json is changed.
+
 function installPackages() {
     console.log('Not content only. Install from npm');
     const exec = require('child_process').exec;
