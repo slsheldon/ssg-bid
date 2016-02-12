@@ -1,4 +1,4 @@
-require('shelljs/global');
+require('shelljs');
 
 function installPackages() {
     console.log('Not content only. Install from npm');
@@ -6,7 +6,7 @@ function installPackages() {
     exec('npm install');
 }
 function isContentFile(file) {
-    return file.startsWith('content/');
+    return file != 'package.json' && file != 'npm-shrinkwrap.json';
 }
 
 function isContentFiles(files) {
