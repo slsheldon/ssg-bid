@@ -1,9 +1,9 @@
-require('shelljs');
+var shell = require('shelljs');
 
 function installPackages() {
     console.log('Not content only. Install from npm');
-    rm('-rf', 'node_modules/*');
-    exec('npm install');
+    shell.rm('-rf', 'node_modules/*');
+    shell.exec('npm install');
 }
 function isContentFile(file) {
     return file != 'package.json' && file != 'npm-shrinkwrap.json';
