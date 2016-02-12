@@ -1,9 +1,12 @@
-var shell = require('shelljs');
-
 function installPackages() {
     console.log('Not content only. Install from npm');
-    shell.rm('-rf', 'node_modules/*');
-    shell.exec('npm install');
+    const exec = require('child_process').exec;
+    const child = exec('rm -rf node_modules; npm install;', function (error, stdout, stderr){
+        if (error !== null) {
+            console.log('exec error: ' + error);
+        }
+        process.exit();
+    });
 }
 function isContentFile(file) {
     return file != 'package.json' && file != 'npm-shrinkwrap.json';
