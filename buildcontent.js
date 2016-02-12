@@ -2,7 +2,8 @@ var shell = require('shelljs');
 
 function installPackages() {
     console.log('Not content only. Install from npm');
-    shell.rm('-rf', 'node_modules/*');
+    //shell.rm('-rf', 'node_modules/*');
+    shell.exec('rm -rf node_modules');
     shell.exec('npm install');
 }
 function isContentFile(file) {
