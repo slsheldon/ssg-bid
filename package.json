@@ -13,7 +13,8 @@
   "author": "gbif",
   "license": "Apache-2.0",
   "dependencies": {
-    "gbif-ssg": "gbif/ssg.git#b034dbca5c7634c30610950e0784cc3c9b73356e",
+    "bower": "^1.7.7",
+    "gbif-ssg": "gbif/ssg.git#74d15069e703e104d1a4a8230887d12bf6f1972f",
     "gulp": "^3.9.0"
   }
 }

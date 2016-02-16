@@ -135,6 +135,6 @@ Desenvolver um plano estratégico para o sistema de informação sobre a biodive
 ------
 
 ```styledYaml
-html:
+templates:
 - path: eufund_pt.html
 ```

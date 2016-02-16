@@ -24,6 +24,6 @@ contacts:
 ---------
 
 ```styledYaml
-html:
+templates:
 - path: eufund.html
 ```

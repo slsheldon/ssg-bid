@@ -123,6 +123,6 @@ Existem duas categorias de tipos de atividade elegível para pequenas bolsas, se
 ------
 
 ```styledYaml
-html:
+templates:
 - path: eufund_pt.html
 ```

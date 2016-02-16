@@ -42,6 +42,6 @@ Making biodiversity information more readily available for specific policy-relev
 --------
 
 ```styledYaml
-html:
+templates:
 - path: eufund.html
 ```

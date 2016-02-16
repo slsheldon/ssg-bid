@@ -8,13 +8,13 @@ GBIF expects to issue a second call for proposals for [ACP countries from sub-Sa
 
 
 ```styledYaml
-html:
+templates:
 - path: signup/signup_en.html
 ```
 
 ---------
 
 ```styledYaml
-html:
+templates:
 - path: eufund.html
 ```

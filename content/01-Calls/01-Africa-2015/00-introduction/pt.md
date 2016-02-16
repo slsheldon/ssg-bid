@@ -36,6 +36,6 @@ Todas as candidaturas a subvenções do programa BID devem cumprir os critérios
 ------
 
 ```styledYaml
-html:
+templates:
 - path: eufund_pt.html
 ```

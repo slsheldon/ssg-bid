@@ -8,7 +8,7 @@ GBIF expects to issue a call for proposals for the [ACP countries in the Pacific
 
 
 ```styledYaml
-html:
+templates:
 - path: signup/signup_en.html
 ```
 
@@ -16,6 +16,6 @@ html:
 ---------
 
 ```styledYaml
-html:
+templates:
 - path: eufund.html
 ```

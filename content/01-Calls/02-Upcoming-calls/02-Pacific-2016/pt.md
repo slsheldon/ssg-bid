@@ -12,6 +12,6 @@ Inscreva-se no [lista de e-mail BID](http://#)para receber atualizações em tem
 ------
 
 ```styledYaml
-html:
+templates:
 - path: eufund_pt.html
 ```

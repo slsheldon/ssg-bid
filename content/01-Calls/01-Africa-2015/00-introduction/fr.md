@@ -34,6 +34,6 @@ Toutes les demandes de subvention BID doivent être conformes aux critères gén
 ------
 
 ```styledYaml
-html:
+templates:
 - path: eufund_fr.html
 ```

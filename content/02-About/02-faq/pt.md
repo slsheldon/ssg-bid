@@ -11,6 +11,6 @@ Esta página está disponível apenas em Inglês. Você pode consultar a lista d
 ------
 
 ```styledYaml
-html:
+templates:
 - path: eufund_pt.html
 ```

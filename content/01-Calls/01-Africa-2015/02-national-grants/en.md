@@ -134,6 +134,6 @@ National grants must include at least one activity contributing to each of three
 -----------
 
 ```styledYaml
-html:
+templates:
 - path: eufund.html
 ```

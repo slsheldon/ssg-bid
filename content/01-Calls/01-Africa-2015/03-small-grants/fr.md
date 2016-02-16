@@ -121,6 +121,6 @@ Deux catégories de types d'activités sont éligibles pour les petites subventi
 ------
 
 ```styledYaml
-html:
+templates:
 - path: eufund_fr.html
 ```

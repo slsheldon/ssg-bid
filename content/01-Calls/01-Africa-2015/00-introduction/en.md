@@ -39,6 +39,6 @@ All BID funded activities must be not-for-profit. BID programme funds may be use
 
 
 ```styledYaml
-html:
+templates:
 - path: eufund.html
 ```

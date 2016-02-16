@@ -2,25 +2,18 @@
  Build configurations specifying where various folders are located and build to.
  This is not intended to be modified by editors
  */
-var dest = './dist',
-    src = './src';
+var src = './src';
 
 module.exports = {
-    dest: dest,
-    languageFile: './content/languages.yml',
-    content: './content/**/*.md',
-    images: {
-        src: './images/**'
-    },
-    raw: {
-        src: src + '/raw/**/*.*',
-        dest: dest + '/raw'
-    },
-    customJavascript: {
-        src: [src + '/js/myscript.js']
+    javascript: {
+        src: ['./bower_components/gbif-ssg/bower_build/script.js',
+            src + '/js/**/*.js']
     },
     stylus: {
-        src: src + '/stylus/**/*.styl',
         entries: [src + '/stylus/index.styl']
+    },
+    fonts: {
+        iconsSrc: ['./bower_components/gbif-ssg/bower_build/icons/**/*.svg', src + '/icons/**/*.*'],
+        template: './bower_components/gbif-ssg/bower_build/icons/fonttemplate.styl'
     }
 };

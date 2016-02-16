@@ -7,13 +7,13 @@ GBIF expects to issue a call for proposals for the [Caribbean ACP countries](htt
 
 
 ```styledYaml
-html:
+templates:
 - path: signup/signup_en.html
 ```
 
 ---------
 
 ```styledYaml
-html:
+templates:
 - path: eufund.html
 ```

@@ -21,19 +21,20 @@ Latest news
 -------------------
 
 ```styledYaml
-html:
+templates:
 - path: signup/signup_en.html
 ```
 
 
 ```styledYaml
-rss:
-- url: http://www.gbif.org/newsroom/news/json/bid/en
+templates:
+- path: rss/rss_en.html
+  url: http://www.gbif.org/newsroom/news/json/bid/en
 ```
 ---------
 
 
 ```styledYaml
-html:
+templates:
 - path: eufund.html
 ```

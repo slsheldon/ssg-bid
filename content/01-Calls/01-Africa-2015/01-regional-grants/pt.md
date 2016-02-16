@@ -132,6 +132,6 @@ As subvenções regionais devem incluir atividades que contribuam para cada uma 
 ------
 
 ```styledYaml
-html:
+templates:
 - path: eufund_pt.html
 ```

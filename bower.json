@@ -1,0 +1,26 @@
+{
+  "name": "ssg-bid",
+  "homepage": "https://github.com/gbif/ssg-bid",
+  "authors": [
+    "GBIF <info@gbif.org>"
+  ],
+  "description": "An information site about the BID project - funded by EU",
+  "main": "gulpfile.js",
+  "moduleType": [],
+  "keywords": [
+    "gbif",
+    "bid"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gbif-ssg": "git://github.com/gbif/ssg.git#74d15069e703e104d1a4a8230887d12bf6f1972f"
+  }
+}

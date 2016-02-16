@@ -132,6 +132,6 @@ Regional grants must include activities contributing to each of three component 
 ---------
 
 ```styledYaml
-html:
+templates:
 - path: eufund.html
 ```

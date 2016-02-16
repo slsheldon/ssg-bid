@@ -21,6 +21,6 @@ Sign up for the [BID mailing list](http://#) to receive timely updates.
 ---------
 
 ```styledYaml
-html:
+templates:
 - path: eufund.html
 ```

@@ -11,6 +11,6 @@ Inscrivez-vous à la [liste de diffusion BID](http://#) pour recevoir des mises 
 ------
 
 ```styledYaml
-html:
+templates:
 - path: eufund_fr.html
 ```

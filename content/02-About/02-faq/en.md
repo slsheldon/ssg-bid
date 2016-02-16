@@ -69,6 +69,6 @@ The survey may be filled at any time before submission of the concept note.
 
 
 ```styledYaml
-html:
+templates:
 - path: eufund.html
 ```

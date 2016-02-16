@@ -133,6 +133,6 @@ Les subventions régionales doivent comprendre au moins une activité qui contri
 ------
 
 ```styledYaml
-html:
+templates:
 - path: eufund_fr.html
 ```

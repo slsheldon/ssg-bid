@@ -134,6 +134,6 @@ Les subventions nationales doivent comprendre au moins une activité qui contrib
 ------
 
 ```styledYaml
-html:
+templates:
 - path: eufund_fr.html
 ```

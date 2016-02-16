@@ -10,6 +10,6 @@ Cette page est seulement disponible en anglais. Vous pouvez consulter la liste d
 ------
 
 ```styledYaml
-html:
+templates:
 - path: eufund_fr.html
 ```
