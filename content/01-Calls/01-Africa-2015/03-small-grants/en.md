@@ -1,6 +1,8 @@
 ---
 title: Small grants
 description: Small grants for Sub-Saharan Africa, 2015
+category: Calls
+subCategory: Sub-Saharan Africa, 2015
 ---
 # Small grants
 

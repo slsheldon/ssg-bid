@@ -1,5 +1,7 @@
 ---
 title: Introduction
+category: Calls
+subCategory: Sub-Saharan Africa, 2015
 ---
 # Call for proposals
 

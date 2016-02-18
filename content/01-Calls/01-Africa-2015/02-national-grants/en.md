@@ -1,6 +1,8 @@
 ---
 title: National grants
 description: National grants for Sub-Saharan Africa, 2015
+category: Calls
+subCategory: Sub-Saharan Africa, 2015
 ---
 # National grants
 

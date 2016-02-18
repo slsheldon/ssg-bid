@@ -27,12 +27,13 @@
 		background none
 		h1 {
 			/*margin 0*/
-			padding vr-block(.5)
-			text-shadow 0px 0px 3px rgba(0,0,0,0.4)
+			/*padding vr-block(.5)*/
+			//text-shadow 0px 0px 3px rgba(0,0,0,0.4)
 		}
 		.block-content {
 			background-color $articleHeader_bg
 			margin 0 auto
+			padding-bottom 0
 		}
 		+.block>.block-content {
 			margin 0 auto
@@ -44,24 +45,32 @@
 	.Site__contentArea.article article{
 		.block-first {
 			h1 {
-				padding vr-block(1.5)
+				//padding vr-block(1.5)
 			}
 		}
 		.block-content {
-			padding vr-block(1) vr-block(2)
+			//padding vr-block(1) vr-block(2)
 		}
 	}
 }
 
 
-$home_overlay_opacity = 0.7
-$home_overlay_color = alpha($articleHeader_bg, $home_overlay_opacity)//rgba(140,198,208, $home_overlay_opacity)
+$home_overlay_opacity = 0.3
+$home_overlay_color = alpha(white, $home_overlay_opacity)//rgba(140,198,208, $home_overlay_opacity)
 .home.article {
 	.block-first {
 		.block-content {
-			background-image linear-gradient(to right, $home_overlay_color,  $home_overlay_color), url('/images/africarising.jpg')
+			//background-image linear-gradient(to right, $home_overlay_color,  $home_overlay_color), url('/images/africarising.jpg')
+			//background-image linear-gradient(to right, $home_overlay_color,  $home_overlay_color), url('https://upload.wikimedia.org/wikipedia/commons/2/2e/Wbeest_Mara.jpg')
 			background-size cover
 			background-position center
+		}
+	}
+
+	.block:nth-of-type(3) {
+		.block-content {
+			padding-bottom 0
+			padding-top 0
 		}
 	}
 }

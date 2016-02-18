@@ -1,13 +1,14 @@
 .Site__contentArea.article .rssFeed {
 	margin 0
+	margin-bottom vr-block(1)
 	article {
-		background $rssFeedBg
+		background-color $rssFeedBg
 		padding vr-block(1)
-		border-left vr-block(.25) solid $rssFeedBorderColor
 		margin vr-block(0.5) 0
 		color $rssFeedColor
+		transition background-color 300ms ease
 		&:hover {
-			border-left-color $rssFeedBorderColorHover
+			background-color $rssFeedBorderColorHover
 		}
 		h3 {
 			font-size 1.2em
@@ -35,9 +36,19 @@
 		flex-wrap wrap
 		justify-content space-around
 		margin -(vr-block(0.25))
+		margin-bottom vr-block(1)
 		article {
 			flex 1 1 300px
 			margin vr-block(0.25)
+		}
+	}
+}
+
+.home.article {
+	.block:nth-of-type(3) {
+		background none
+		.block-content {
+			margin 0
 		}
 	}
 }

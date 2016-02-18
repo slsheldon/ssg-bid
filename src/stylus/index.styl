@@ -11,7 +11,34 @@ $bid_secondaryColor_dark = $DarkGreen
 @import "../../node_modules/gbif-ssg/src/stylus"
 
 
-@import "main"
+//@import "main"
 @import "rss"
 @import "signup"
 @import "eu"
+
+
+
+.SiteHeader {
+	.SiteHeader__mobileOptions .navbar_action>a>span {
+		text-shadow 0px 1px 1px darken(#D6AD61, 10%)
+	}
+}
+
+.SiteHeader__mobileOptions {
+	.home {
+		&:before {
+			padding-right 13px
+		}
+	}
+}
+
++isAbove($laptop) {
+	.SiteNav > div > ul > li.isCategory.isMega > ul > li {
+		lost-column 1 / 2
+	}
+	.SiteNav {
+		>div>ul>li>a,  >div>a>span {
+			text-shadow 0px 1px 1px darken(#D6AD61, 10%)
+		}
+	}
+}

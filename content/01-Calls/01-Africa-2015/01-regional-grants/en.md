@@ -2,6 +2,8 @@
 title: Regional grants
 description: Regional grants for Sub-Saharan Africa, 2015
 toc: true
+category: Calls
+subCategory: Sub-Saharan Africa, 2015
 ---
 # Regional grants
 
