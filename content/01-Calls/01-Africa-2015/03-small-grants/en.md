@@ -20,7 +20,7 @@ Full proposals are due xx Feb 2016, and GBIF will announce the selected projects
 
 These guidelines are available in English, [French](fr.md) and [Portuguese](pt.md), of which the English version is the authoritative version. They accompany the BID call for proposals document and concept note template for regional grants. General questions may be sent to BID@gbif.org.
  
----------
+
  
 ## General recommendations on preparing small grant proposals
 
