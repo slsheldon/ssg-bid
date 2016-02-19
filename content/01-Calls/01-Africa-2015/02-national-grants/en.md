@@ -11,7 +11,7 @@ _Sub-Saharan Africa, 2015 (closed)_
 
 National grants under the BID programme seek to establish or strengthen national biodiversity information facilities and to increase the biodiversity data available about the country to respond to national priorities.
 
------------
+
 
 ## Submission procedure
 
@@ -25,7 +25,7 @@ Full proposals are due xx Feb 2016, and GBIF will announce the selected projects
 
 Applications received late or incomplete will not be reviewed by the evaluation panel.
 
------------
+
 
 ## General recommendations on preparing national grant proposals
 
@@ -36,7 +36,7 @@ Applications received late or incomplete will not be reviewed by the evaluation 
 + **Review the [FAQ](faq).** This will be updated frequently during the project application period. Send any unanswered questions to [BID@gbif.org](mailto:bid@gbif.org).
 + **Submit as early as possible to avoid problems.** Early submission will give a chance for some follow-up to resolve any issues that arise ahead of the deadline. The deadline for submissions is a hard deadline, and projects received late or that are incomplete will not be reviewed by the evaluation panel.
 
------------
+
 
 ## Objectives
 
@@ -49,7 +49,7 @@ The overall BID programme targets two key outcomes:
 1. Enhanced capacity for effective mobilization and use of biodiversity information
 2. Enhanced availability of information resources and best practice guidance for mobilization and application of biodiversity information for key policy needs
 
------------
+
 
 ## Key documents
 
@@ -58,7 +58,7 @@ The overall BID programme targets two key outcomes:
 + [First Call for Proposals - Annex A](http://www.gbif.org/sites/default/files/gbif_project/files/BID-call-for-proposals-Annex-A.pdf) 
 + [Africa Rising declaration](http://www.gbif.org/sites/default/files/gbif_event/files/AfricaRising-Declaration-EN.pdf)
 
------------
+
 
 ## Eligibility criteria
 
@@ -75,7 +75,7 @@ In addition to complying with the general eligibility criteria for [2015 call fo
 6. All projects must include a major component of data mobilization through the GBIF network. It is expected that most BID funding is directed towards data mobilization. As a guideline for the national grants, the amount of BID funding spent on data mobilization activities should not be less than 60% of the total grant.
 7. BID funds may be used to cover up to 50% of the costs of any IT services or purchases, up to a maximum of €2,500 of any national grant. Receipts will need to be provided in financial reports.
 
------------
+
 
 ## Evaluation criteria
 
@@ -93,13 +93,13 @@ Proposals will be assessed using the following criteria:
 10. Choice and diversity of project partners, with preference given to projects that have the confirmed involvement of a diverse network of data holders and data users.
 11. Quality of project design and risk assessment; monitoring and evaluation plans will be assessed in the full proposals.
 
------------
+
 
 ## Project duration
 
 Selected projects may begin their activities in June 2016, with project activity continuing for up to two years (ending in June 2018), and with a final six-month reporting and evaluation period (ending in December 2018). All projects must end by 31 December 2018.
 
------------
+
 
 ## Funding
 
