@@ -121,3 +121,4 @@ There are two categories of eligible activity types for small grants, each prese
 templates:
 - path: eufund.html
 ```
+
