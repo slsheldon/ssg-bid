@@ -1,13 +1,15 @@
 ---
 title: Introduction
 category: Calls
-subCategory: Sub-Saharan Africa, 2015
+subCategory: Africa
+image: //www.gbif.org/sites/default/files/styles/focal_point_for_news/public/gbif_scaled_contents/news/2015-November/82567/Virunga_National_Park_DRC.jpg
+imageLicense: Virunga National Park, North Kivu, Democratic Republic of Congo. Photo by Joseph King. CC BY-NC-ND 2.0.
 ---
 # Call for proposals
 
 _Call for proposals – Sub-Saharan Africa, 2015_
 
-**NOTE: The open call for submissions is now closed**
+**Note: The open call for submissions is now closed**
 
 The deadline for submitting initial concept notes from sub-Saharan Africa was 20 November 2015. GBIF and the BID evaluation panel have provided feedback and recommendations to applicants invited to prepare full proposals.
 
@@ -20,7 +22,7 @@ This call will support projects from sub-Saharan Africa that:
 + Apply biodiversity data in support of decision-making and research
 + Develop lasting national, regional or thematic networks to support ongoing data sharing and reuse
 
--------
+
 
 ## General eligibility criteria
 
@@ -37,7 +39,7 @@ All BID funded activities must be not-for-profit. BID programme funds may be use
 9. Applicants must provide plans to ensure sustainability of activities after project support from BID concludes.
 10. All data mobilized through the BID grants, as well as any other products of the projects, such as training material, must be made available under a [CC-BY license or CC0 license](http://www.gbif.org/newsroom/news/data-licensing-and-endorsement).
 
----------
+--------
 
 
 ```styledYaml

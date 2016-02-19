@@ -1,5 +1,6 @@
 ---
 title: Contact
+category: About
 description: Do you have questions that you cannot fint the answers to? Then please contact us.
 ---
 

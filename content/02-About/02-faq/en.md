@@ -1,7 +1,7 @@
 ---
 title: FAQs
+category: About
 toc: true
-style: article faq
 ---
 
 
@@ -9,7 +9,8 @@ style: article faq
 
 This regularly updated list of FAQs on BID calls for proposals includes responses to questions sent to [bid@gbif.org](mailto:bid@gbif.org).
  
----------
+
+
  
 ## On forming consortia and partnerships
 
@@ -33,14 +34,14 @@ The call for proposals does not further specify the institution that should lead
 
 Section 6.1 of the guide ‘Establishing an Effective GBIF Participant Node’ explains the selection of an institutional location for a node. The chapter includes potential advantages and disadvantages of selecting various types of host institutions, based on their mandates. The recommendation is that the same rationale be followed in choosing the coordinator for  a national grant under the BID call for proposals.
  
----------
+
  
 ## On eligible countries
 
 ### Can institutions and agencies based in non-ACP countries be partners in the consortium applying for BID grants?
 In the case of regional biodiversity data mobilization grants, in addition to the minimum of three consortium partners from eligible African ACP countries, projects may choose to include one consortium partner that is a legal entity located EITHER in one of the eligible countries listed in section 2 of [Annex A](http://www.gbif.org/sites/default/files/gbif_project/files/BID-call-for-proposals-Annex-A.pdf) OR, where other requirements are met, in one of the countries listed in [Annex A](http://www.gbif.org/sites/default/files/gbif_project/files/BID-call-for-proposals-Annex-A.pdf), section 3.
  
----------
+
  
 ## On developing project proposals
 
@@ -65,7 +66,7 @@ Yes, the survey has been extended and is still open.  Surveys may be filled out 
 
 The survey may be filled at any time before submission of the concept note.
 
-----------------
+---------
 
 
 ```styledYaml

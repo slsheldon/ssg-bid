@@ -1,5 +1,6 @@
 ---
 title: BID
+description: Biodiversity Information for Development (BID) is a multi-year
 category: About
 ---
 

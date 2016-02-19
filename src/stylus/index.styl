@@ -1,11 +1,12 @@
 @import "iconfont/gb_iconfont"
 
 //vars
-$bid_secondaryColor = deepskyblue//$SpringGreen
-$bid_secondaryColor_dark = $DarkGreen
-@import "variables_overwrite"
-@import "variables_custom"
+//Custom colors
+$Straw = #D4BB7E
+$Clay = #D6AD61
 
+
+@import "variables_overwrite"
 
 /*@import "../../../ssg/src/stylus" //usefull for testing*/
 @import "../../node_modules/gbif-ssg/src/stylus"
@@ -40,5 +41,13 @@ $bid_secondaryColor_dark = $DarkGreen
 		>div>ul>li>a,  >div>a>span {
 			text-shadow 0px 1px 1px darken(#D6AD61, 10%)
 		}
+	}
+	.article {
+		.block {
+			border 1px solid #eaeaea
+		}
+			.block-first {
+				border-top none
+			}
 	}
 }

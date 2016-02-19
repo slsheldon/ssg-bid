@@ -2,7 +2,8 @@
 title: National grants
 description: National grants for Sub-Saharan Africa, 2015
 category: Calls
-subCategory: Sub-Saharan Africa, 2015
+subCategory: Africa
+image: //www.gbif.org/sites/default/files/styles/focal_point_for_news/public/gbif_scaled_contents/news/2015-September/82403/Guinea%20Conakry.jpg?itok=HQDch_ir
 ---
 # National grants
 

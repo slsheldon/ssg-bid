@@ -21,6 +21,6 @@
     "tests"
   ],
   "dependencies": {
-    "gbif-ssg": "git://github.com/gbif/ssg.git#ac41d39d089aba04b21e671e6c049b2d78068330"
+    "gbif-ssg": "git://github.com/gbif/ssg.git#0f7f3cb3563017502c7962fb056a25dfcd1ab8a8"
   }
 }
