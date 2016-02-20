@@ -37,7 +37,7 @@ templates:
 - path: rss/rss_en.html
   url: http://www.gbif.org/newsroom/news/json/bid/en
 ```
----------
+-------
 
 
 ```styledYaml
