@@ -1,16 +1,15 @@
 ---
 title: FAQs
 category: About
-toc: true
 ---
-
 
 # Frequently Asked Questions
 
 This regularly updated list of FAQs on BID calls for proposals includes responses to questions sent to [bid@gbif.org](mailto:bid@gbif.org).
  
 
-
+<div class="toc"></div><!-- toc -->
+<!-- tocstop -->
  
 ## On forming consortia and partnerships
 
@@ -53,14 +52,14 @@ In cases where applicants are considering multiple small grants, it is recommend
 
 Please note that projects funded by small grants have an implementation period of up to one year, whereas national or regional projects may have activities continuing for up to two years.
 
-### What is the expected duration of the projects?
+#### What is the expected duration of the projects?
 
 National biodiversity data mobilization projects and regional biodiversity data mobilization projects can run for a maximum of 2.5 years, with the final six months reserved for reporting and evaluation. Small biodiversity data mobilization projects can be implemented over a maximum of one year, with an additional six-month reporting and evaluation period.
 
 Can an institution submit a proposal for gathering new data?
 The BID programme focuses on mobilizing existing biodiversity data, rather than supporting new data gathering from the field. It will support the work required to mobilize the data, with emphasis on ensuring that the data are of sufficient quality to be published to the GBIF network and to enable their reuse in targeted use cases in research and decision-making.
 
-### The eligibility criteria in the BID call for proposals states that all project partners must have completed one of the BID surveys. Can my organization take the survey now?
+##### The eligibility criteria in the BID call for proposals states that all project partners must have completed one of the BID surveys. Can my organization take the survey now?
 
 Yes, the survey has been extended and is still open.  Surveys may be filled out in English, French or Portuguese, and accessed through [the links in this page](http://www.gbif.org/news/surveys-for-data-holders-decision-makers).
 

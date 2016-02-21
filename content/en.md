@@ -44,5 +44,3 @@ templates:
 templates:
 - path: eufund.html
 ```
-
-
