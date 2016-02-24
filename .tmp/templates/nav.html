@@ -1,0 +1,127 @@
+{% include "mobileheader.html" %}
+
+<nav id="nav" class="SiteNav {% if languages[meta.siteLanguage].dir == 'rtl' %} rtl {% endif %}" role="navigation">
+    <div class="ServiceMenu">
+        {% include "menuHeader.html" %}
+        <ul>
+            <li class="ServiceMenu__search">
+                <a href="#" class="gb-icon-search site__searchToggle"><span>{{i18n.NavSearch[meta.siteLanguage]}}</span></a>
+            </li>
+            {% include "language-selector.html" %}
+        </ul>
+    </div>
+
+
+    <div class="MainMenu">
+        {% if nav.menuItem[meta.siteLanguage] %}
+        <a href="/{{meta.siteLanguage}}/#" class="gb-icon-home home">
+            <span class="MainMenu__rootName">{{nav.menuItem[meta.siteLanguage].fm.title}}</span>
+            <span class="MainMenu__siteName">{{i18n.siteName[meta.siteLanguage]}}</span>
+        </a>
+        {% endif %}
+        {% for x in nav.children %}
+        {% if loop.first %}
+        <ul>
+            {% endif %}
+            {% if x.menuItem[meta.siteLanguage] %}
+            <li class=" {% if meta.prettyUrl|startsWith(x.menuItem[meta.siteLanguage].prettyUrl) %}
+                        isExpanded
+                        {% endif %}
+                        {% if x.children && x.menuItem[meta.siteLanguage].fm.type == 'menu only' %}
+                        isCategory
+                        {% endif %}
+                        {% if x.children && x.menuItem[meta.siteLanguage].fm.type == 'menu only' && x.children[0].children && x.children[0].menuItem[meta.siteLanguage].fm.type == 'menu only' %}
+                        isCategory isMega
+                        {% endif %}
+                        ">
+
+                {% if x.menuItem[meta.siteLanguage].fm.type == 'link' %}
+                <a href="{{x.menuItem[meta.siteLanguage].fm.link}}">
+                    {{x.menuItem[meta.siteLanguage].fm.title}}
+                </a>
+                {% elseif x.children && x.menuItem[meta.siteLanguage].fm.type == 'menu only' %}
+                <a href="#">
+                    {{x.menuItem[meta.siteLanguage].fm.title}}
+                </a>
+                {% for y in x.children %}
+                {% if loop.first %}
+                <ul>
+                    {% endif %}
+                    {% if y.menuItem %}
+                    <li class=" {% if meta.prettyUrl|startsWith(y.menuItem[meta.siteLanguage].prettyUrl) %}
+                        isExpanded
+                        {% endif %}
+                        {% if y.children && y.menuItem[meta.siteLanguage].fm.type == 'menu only' %}
+                        isCategory
+                        {% endif %}
+                        {% if y.children && y.menuItem[meta.siteLanguage].fm.type == 'menu only' && y.children[0].children && y.children[0].menuItem[meta.siteLanguage].fm.type == 'menu only' %}
+                        isCategory isMega
+                        {% endif %}
+                        ">
+
+                        {% if y.menuItem[meta.siteLanguage].fm.type == 'link' %}
+                        <a href="{{y.menuItem[meta.siteLanguage].fm.link}}">
+                            {{y.menuItem[meta.siteLanguage].fm.title}}
+                        </a>
+                        {% elseif y.children && y.menuItem[meta.siteLanguage].fm.type == 'menu only' %}
+                        <a href="#">
+                            {{y.menuItem[meta.siteLanguage].fm.title}}
+                        </a>
+                        {% for z in y.children %}
+                        {% if loop.first %}
+                        <ul>
+                            {% endif %}
+                            {% if z.menuItem %}
+                            <li {% if meta.prettyUrl == z.menuItem[meta.siteLanguage].prettyUrl %} class="isActive" {% endif %}>
+                                
+                                {% if z.menuItem[meta.siteLanguage].fm.type == 'link' %}
+                                <a href="{{z.menuItem[meta.siteLanguage].fm.link}}">
+                                    {{z.menuItem[meta.siteLanguage].fm.title}}
+                                </a>
+                                {% else %}
+                                <a href="/{{z.menuItem[meta.siteLanguage].prettyUrl}}">
+                                    {{z.menuItem[meta.siteLanguage].fm.title}}
+                                </a>
+                                {% endif %}
+
+                            </li>
+                            {% endif %}
+                            {% if loop.last %}
+                        </ul>
+                        {% endif %}
+                        {% endfor %}
+                        {% else %}
+                        <a href="/{{y.menuItem[meta.siteLanguage].prettyUrl}}">
+                            {{y.menuItem[meta.siteLanguage].fm.title}}
+                        </a>
+                        {% endif %}
+
+
+                    </li>
+                    {% endif %}
+                    {% if loop.last %}
+                </ul>
+                {% endif %}
+                {% endfor %}
+                {% else %}
+                <a href="/{{x.menuItem[meta.siteLanguage].prettyUrl}}">
+                    {{x.menuItem[meta.siteLanguage].fm.title}}
+                </a>
+                {% endif %}
+
+
+            </li>
+            {% endif %}
+            {% if loop.last %}
+        </ul>
+        {% endif %}
+        {% endfor %}
+    </div>
+    <div  class="SiteNav__info">
+        <ul>
+            <li>
+                <a href="http://gbif.org" class="gb-icon-logo"><span class="icon-gbif"></span><span class="info-description">GBIF.org</span></a>
+            </li>
+        </ul>
+    </div>
+</nav>

@@ -1,0 +1,20 @@
+<meta name="viewport" content="width = device-width, initial-scale = 1">
+
+
+{% include "favicons.html" %}
+
+<title>{{meta.fm.title}}</title>
+
+<!--
+https://developers.facebook.com/docs/sharing/webmasters#markup
+-->
+<meta property="og:url"                content="/{{meta.prettyUrl}}" />
+<meta property="og:site_name"          content="{{i18n.siteName[meta.siteLanguage]}}" />
+<meta property="og:title"              content="{{meta.fm.title}}" />
+<meta property="og:description"        content="{{meta.fm.description}}" />
+<meta property="og:image"              content="{{meta.fm.image}}" />
+
+
+<!-- style:css -->
+<link rel="stylesheet" type="text/css" href="/css/index.css">
+<!-- endinject -->
