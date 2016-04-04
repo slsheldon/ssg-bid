@@ -13,6 +13,8 @@ This regularly updated list of FAQs on BID calls for proposals includes response
  
 ## On forming consortia and partnerships
 
+test <a name="abcd">anchor link</a>
+
 ### What are the minimum and maximum number of partners in a regional consortium?
 
 A minimum of three partners is required in the regional consortium. These three partners must be legal entities from three different African ACP countries. There is no upper limit for the number of consortium members.
@@ -64,6 +66,8 @@ The BID programme focuses on mobilizing existing biodiversity data, rather than 
 Yes, the survey has been extended and is still open.  Surveys may be filled out in English, French or Portuguese, and accessed through [the links in this page](http://www.gbif.org/news/surveys-for-data-holders-decision-makers).
 
 The survey may be filled at any time before submission of the concept note.
+
+Go back to [anchor link](#abcd)
 
 ---------
 
