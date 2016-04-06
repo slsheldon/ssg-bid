@@ -20,11 +20,12 @@ This call supports projects from sub-Saharan Africa that:
 + Develop lasting national, regional or thematic networks to support ongoing data sharing and reuse
 
 The call offers support for three grant types
-+ [Regional grants](/regional-grants)
-+ [National grants](/national-grants)
-+ [Small grants](/small-grants)
++ [Regional grants](regional-grants)
++ [National grants](national-grants)
++ [Small grants](small-grants)
 
 A second and final call for proposals to support countries in sub-Saharan Africa is planned for 2017. Learn more about current [eligibility requirements](about/eligibility).
+
 --------
 
 
