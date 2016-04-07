@@ -7,7 +7,7 @@ subCategory: Africa
 # Eligibility
 
 ----------
-In addition to meeting role-dependent location requirements in an [eligible country](/about/eligible countries), organizations seeking funding through the BID programme must meet both general and grant-specific eligibility requirements outlined below. 
+In addition to meeting role-dependent location requirements in an [eligible country](/about/eligible-countries), organizations seeking funding through the BID programme must meet both general and grant-specific eligibility requirements outlined below. 
 
 + [General eligibility criteria](#general)
 + [Regional grant eligibility](#regional)
