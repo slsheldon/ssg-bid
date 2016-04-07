@@ -19,7 +19,7 @@ description: Institutions from the following countries are eligible to apply for
 
 ## Sub-Saharan African ACP countries<a name="africa"></a>
 
-Institutions from the following ACP countries in Africa are eligible to apply for funds under the BID programme, provided that they meet other [eligibility requirements](calls/africa-2015/eligibility).
+Institutions from the following ACP countries in Africa are eligible to apply for funds under the BID programme, provided that they meet other [eligibility requirements](/calls/africa-2015/eligibility).
 
 + Angola
 + Benin
@@ -72,7 +72,7 @@ Institutions from the following ACP countries in Africa are eligible to apply fo
 
 ## Non-ACP regional consortium partner<a name="regional"></a>
 
-Institutions from the following non-ACP countries are eligible apply for funds from the BID programme as part of a [regional partnership](calls/africa-2015/eligibility#regional), provided that they meet other [eligibility requirements](calls/africa-2015/eligibility).
+Institutions from the following non-ACP countries are eligible apply for funds from the BID programme as part of a [regional partnership](/calls/africa-2015/eligibility#regional), provided that they meet other [eligibility requirements](/calls/africa-2015/eligibility).
 
 + Afghanistan
 + Albania
@@ -224,7 +224,7 @@ Institutions from the following non-ACP countries are eligible apply for funds f
 
 ## Limited eligibility non-ACP regional consortium partner<a name="limited"></a>
 
-Institutions from the following non-ACP countries have limited eligibility to apply for funds from the BID programme as part of a [regional partnership](calls/africa-2015/eligibility#regional), provided that they meet other [eligibility requirements](calls/africa-2015/eligibility). Please contact [bid@gbif.org](mailto:bid@gbif.org) for details.
+Institutions from the following non-ACP countries have limited eligibility to apply for funds from the BID programme as part of a [regional partnership](/calls/africa-2015/eligibility#regional), provided that they meet other [eligibility requirements](/calls/africa-2015/eligibility). Please contact [bid@gbif.org](mailto:bid@gbif.org) for details.
 
 +	Australia
 +	Canada
