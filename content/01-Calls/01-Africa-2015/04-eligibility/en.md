@@ -47,6 +47,7 @@ In addition to complying with the [general eligibility criteria](#general) above
 ## National grant eligibility<a name="national"></a>
 
 In addition to complying with the [general eligibility criteria](#general) above, applications for national biodiversity data mobilization grants must comply with the following criteria:
+
 1. All projects must include activities contributing to each of the three component categories:
   + Capacity enhancement of national biodiversity information facilities
   + Activities to mobilize biodiversity data
