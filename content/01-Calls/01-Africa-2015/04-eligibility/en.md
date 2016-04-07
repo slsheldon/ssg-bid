@@ -48,9 +48,9 @@ In addition to complying with the [general eligibility criteria](#general) above
 
 In addition to complying with the [general eligibility criteria](#general) above, applications for national biodiversity data mobilization grants must comply with the following criteria:
 1. All projects must include activities contributing to each of the three component categories:
-+ Capacity enhancement of national biodiversity information facilities
-+ Activities to mobilize biodiversity data
-+ Integrating biodiversity information into policy and decision-making processes
+• Capacity enhancement of national biodiversity information facilities
+• Activities to mobilize biodiversity data
+• Integrating biodiversity information into policy and decision-making processes
 2. Applications must be submitted by the project coordinator that will coordinate the project activities on behalf of the project partners. The project coordinator must be a legal entity from an African ACP country (see [Annex A, Section 1](http://www.gbif.org/sites/default/files/gbif_project/files/BID-call-for-proposals-Annex-A.pdf)). The project coordinator will be responsible for managing the grant and for the project reporting.
 3. Applications must include at least two relevant national institutes, agencies or non-governmental organizations as project partners.
 4. Projects must involve users of biodiversity data as project partners, such as scientists, policy and decision-makers. These must be representatives of legal entities located in an African ACP country (see [Annex A, Section 1](http://www.gbif.org/sites/default/files/gbif_project/files/BID-call-for-proposals-Annex-A.pdf)).
@@ -61,6 +61,7 @@ In addition to complying with the [general eligibility criteria](#general) above
 ## Small grant eligibility<a name="small"></a>
 
 In addition to complying with the [general eligibility criteria](#general) above, applications for small biodiversity data mobilization grants must comply with the following criteria:
+
 1. All projects must include activities contributing to the first component category and may also include activities contributing to the second component category:
 + Activities to mobilize biodiversity data
 + Integrating biodiversity information into policy and decision-making processes
@@ -68,8 +69,6 @@ In addition to complying with the [general eligibility criteria](#general) above
 3. Projects must involve users of biodiversity data as project partners, such as scientists, policy and decision-makers. These must be representatives of legal entities located in an African ACP country (see [Annex A, Section 1](http://www.gbif.org/sites/default/files/gbif_project/files/BID-call-for-proposals-Annex-A.pdf)). A letter of support for the project must be provided from at least one data user.
 4. All projects must include a major component of data mobilization through the GBIF network. It is expected that most BID funding is directed towards data mobilization. As a guideline for the small grants, the amount of BID funding spent on data mobilization activities should not be less than 60% of the total grant.
 5. BID funds may be used to cover up to 50% of the costs of any IT services or purchases, up to a maximum of €1,000 of any small grant. Receipts will need to be provided in financial reports.
-
-
 
 ```styledYaml
 templates:
