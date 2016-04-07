@@ -1,6 +1,8 @@
 ---
 title: FAQs
-category: About
+description: Frequently asked questions
+category: Calls
+subCategory: Africa
 ---
 
 # Frequently Asked Questions

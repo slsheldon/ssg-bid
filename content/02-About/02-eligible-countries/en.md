@@ -1,13 +1,12 @@
 ---
-title: Contact
+title: Eligible Countries
 category: About
-description: Do you have questions that you cannot fint the answers to? Then please contact us.
+description: Remember to write a description here
 ---
 
 # Get in contact
 
 We are here to help. If you cannot find the information you are looking for then don't hesitate to contact us. 
-
 
 ---------
 
