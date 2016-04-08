@@ -8,7 +8,7 @@ imageLicense: Virunga National Park, North Kivu, Democratic Republic of Congo. P
 ---
 # Call for proposals
 
-_Call for proposals – Sub-Saharan Africa, 2015_
+_Sub-Saharan Africa, 2015_
 
 **Note: This call for submissions is now closed**
 
@@ -26,6 +26,13 @@ The call offers support for three grant types
 + [Small grants](small-grants)
 
 A second and final call for proposals to support countries in sub-Saharan Africa is planned for 2017.
+
+-----------------
+
+```styledYaml
+templates:
+- path: signup/signup_en.html
+```
 
 --------
 
