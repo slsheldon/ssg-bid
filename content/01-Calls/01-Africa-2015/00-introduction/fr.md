@@ -2,7 +2,7 @@
 title: Introduction
 category: Appels
 subCategory: Afrique
-description: Organizations seeking funding through the BID programme must meet both general and grant-specific eligibility requirements.
+description: L'appel à propositions de l'Afrique subsaharienne a fermé le 20 Novembre 2015. GBIF annoncera la sélection des projets en Avril ici 2016.
 image: //www.gbif.org/sites/default/files/styles/focal_point_for_news/public/gbif_scaled_contents/news/2015-November/82567/Virunga_National_Park_DRC.jpg
 imageLicense: Virunga National Park, North Kivu, Democratic Republic of Congo. Photo by Joseph King. CC BY-NC-ND 2.0.
 ---
