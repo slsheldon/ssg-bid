@@ -1,13 +1,22 @@
 ---
 title: Convite à apresentação de propostas - África sub-Sahariana, 2017
+category: Convites
+subCategory: África
+description: A segunda e última apresentação de propostas para apoiar os países na África subsaariana está prevista para 2017.
+
 ---
-# Convite à apresentação de propostas - África sub-Sahariana, 2017
+# Convite à apresentação de propostas
 
-GBIF espera emitir um convite à apresentação de propostas para o [países ACP nas ilhas do Pacífico](https://ec.europa.eu/europeaid/regions/african-caribbean-and-pacific-acp-region_en) de 2017. 
+_África sub-Sahariana, 2017_
 
-Inscreva-se no [lista de e-mail BID](http://#)para receber atualizações em tempo real.
+GBIF espera emitir um convite à apresentação de propostas para o [países ACP nas ilhas do Pacífico](eligible-countries) de 2017. 
 
+-----------------
 
+```styledYaml
+templates:
+- path: signup/signup_en.html
+```
 
 ------
 

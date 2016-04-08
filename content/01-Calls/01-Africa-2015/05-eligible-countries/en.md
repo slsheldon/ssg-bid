@@ -1,14 +1,10 @@
 ---
 title: Eligible Countries
 category: About
-description: Institutions from the following countries are eligible to apply for funds or participate in specific roles under the BID programme, provided that they meet other requirements.
+description: Institutions from the following countries are eligible to apply for funds or participate in specific roles under the 2015 call for proposals from Sub-Saharan Africa, provided that they meet other requirements.
 ---
 
-# Eligible countries
-
----------
-
-# List of countries eligible for BID funding
+# Countries eligible for the 2015 call for proposals from Sub-Saharan Africa
 
 ---
 
@@ -19,7 +15,7 @@ description: Institutions from the following countries are eligible to apply for
 
 ## Sub-Saharan African ACP countries<a name="africa"></a>
 
-Institutions from the following ACP countries in Africa are eligible to apply for funds under the BID programme, provided that they meet other [eligibility requirements](/calls/africa-2015/eligibility).
+Institutions from the following ACP countries in Africa are eligible to apply for funds under the BID programme, provided that they meet other [eligibility requirements](eligibility).
 
 + Angola
 + Benin

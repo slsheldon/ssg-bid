@@ -1,12 +1,22 @@
 ---
 title: Appel à propositions - Caraïbes 2016
+category: Appels
+subCategory: Caraïbes
+description: L'appel à propositions de les pays Caraïbes dans le deuxième trimestre de 2016.
+
 ---
-# Appel à propositions - Caraïbes 2016
+# Appel à propositions
 
-GBIF prévoit publier un appel à propositions pour les [pays ACP des Caraïbes](https://ec.europa.eu/europeaid/regions/african-caribbean-and-pacific-acp-region_en) dans le deuxième trimestre de 2016. Regardez pour plus d'informations au début 2016.
+_Caraïbes 2016_
 
-Inscrivez-vous à la [liste de diffusion BID](http://#) pour recevoir des mises à jour en temps opportun.
+GBIF prévoit publier un appel à propositions pour les [pays ACP des Caraïbes](https://ec.europa.eu/europeaid/regions/african-caribbean-and-pacific-acp-region_en) dans le deuxième trimestre de 2016.
 
+-----------------
+
+```styledYaml
+templates:
+- path: signup/signup_en.html
+```
 
 ------
 

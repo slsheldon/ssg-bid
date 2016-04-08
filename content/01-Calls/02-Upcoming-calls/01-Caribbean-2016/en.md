@@ -1,11 +1,12 @@
 ---
 title: Caribbean 2016
 category: Calls
-subCategory: Upcoming
+subCategory: Caribbean
+description:  A call for proposals from Caribbean countries will take place in 2016.
 ---
 # Caribbean 2016
 
-GBIF expects to issue a call for proposals for the [Caribbean ACP countries](https://ec.europa.eu/europeaid/regions/african-caribbean-and-pacific-acp-region_en) in the second quarter of 2016. Look for more information in early 2016.
+GBIF expects to issue a call for proposals for the [Caribbean ACP countries](https://ec.europa.eu/europeaid/regions/african-caribbean-and-pacific-acp-region_en) in 2016.
 
 --------------
 
