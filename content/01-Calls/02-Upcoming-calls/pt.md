@@ -1,4 +1,4 @@
 ---
-title: Chamadas próximos ?
+title: Propostas próximas ?
 type: menu only
 ---

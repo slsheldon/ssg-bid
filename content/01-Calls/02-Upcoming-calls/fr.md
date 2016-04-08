@@ -1,4 +1,4 @@
 ---
-title: Prochains appels ?
+title: Appels prochaines
 type: menu only
 ---
