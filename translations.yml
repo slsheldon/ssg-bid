@@ -31,9 +31,9 @@ languageSelector_title:
   pt: Selecione o idioma
 
 translationNotAvailable:
-  en: This text is not available in english
-  fr: This text is not available in ls dkfjghlskjdhf ljgs
-  pt: This text is not available in ls dkfjghlskjdhf ljgs
+  en: This text is not available in English
+  fr: Ce texte ne sont pas disponibles en français
+  pt: Este texto não está disponível em Português
 
 cannotFindInformation:
   en: Cannot find what you are looking for? Feel free to contact us.
@@ -46,7 +46,7 @@ cannotFindInformation:
 # key:
 #   languageKey: translation
 #
-# Use underscore for subdividing. For readability seperate keys with a new line (as below)
+# Use underscore for subdividing. For readability separate keys with a new line (as below)
 #
 # An example
 #
