@@ -1,12 +1,15 @@
 ---
-title: BID
-description: Biodiversity Information for Development (BID) is a multi-year
+title: What is BID?
+description: Biodiversity Information for Development (BID) is a multi-year programme funded by the European Union and led by GBIF seeking to increase the availability and use of biodiversity information in the ‘ACP’ nations of sub-Saharan Africa, the Caribbean and the Pacific.
 category: About
+subcategory: 
 ---
 
-# BID
+# What is BID?
 
-Biodiversity Information for Development (BID) is a multi-year, €3.9 million programme funded by the [European Union](http://europa.eu) and led by GBIF with the aim of increasing the amount of biodiversity information available in the [‘ACP’ nations of sub-Saharan Africa, the Caribbean and the Pacific](https://ec.europa.eu/europeaid/regions/african-caribbean-and-pacific-acp-region_en).
+_BID: **Biodiversity Information for Development**_
+
+Biodiversity Information for Development, or BID, is a multi-year, €3.9 million programme funded by the [European Union](http://europa.eu) and led by GBIF with the aim of increasing the amount of biodiversity information available in the [‘ACP’ nations of sub-Saharan Africa, the Caribbean and the Pacific](https://ec.europa.eu/europeaid/regions/african-caribbean-and-pacific-acp-region_en).
 
 Funding from BID will support capacity enhancement activities and projects to mobilize biodiversity data and strengthen national or regional biodiversity information facilities in these regions. BID will focus on data that supports policy needs in the region, particularly in connection with protected areas, threatened species and invasive alien species.
 
@@ -41,6 +44,12 @@ Making biodiversity information more readily available for specific policy-relev
 + Identification and analysis of examples of the use of targeted biodiversity information in decision-making
 + Achievements of project interventions recognized by international science-policy initiatives
 
+____
+
+```styledYaml
+templates:
+- path: signup/signup_en.html
+```
 
 --------
 
