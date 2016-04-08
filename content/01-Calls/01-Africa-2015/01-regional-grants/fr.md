@@ -1,7 +1,14 @@
 ---
 title: Subventions régionales
+category: Appels
+subCategory: Afrique 2015
+description: Subventions régionales dans le programme BID cherchent à établir ou à renforcer des collaborations internationales qui augmentent la mobilisation des données sur la biodiversité.
 ---
-# Subventions régionales – Afrique subsaharienne, 2015
+# Subventions régionales
+
+_Afrique subsaharienne, 2015_
+
+**NOTE: Cet appel est maintenant fermé** 
 
 Subventions régionales dans le programme BID cherchent à établir ou à renforcer des collaborations internationales qui augmentent la mobilisation des données sur la biodiversité.
 
@@ -9,25 +16,11 @@ Subventions régionales dans le programme BID cherchent à établir ou à renfor
 
 ## Procédure de soumission
 
-**NOTE: Cet appel à propositions est maintenant fermé** 
+La date limite pour les notes conceptuelles initiales d'Afrique subsaharienne était le 20 novembre 2015. Le GBIF et la commission d'évaluation ont fourni des commentaires et des recommandations aux candidats invités à préparer des propositions complètes. 
 
-La date limite pour les propositions d'Afrique subsaharienne était de 20 Novembre 2015. Le GBIF et le commission d'évaluation ont fourni des commentaires et des recommandations aux candidats invités à préparer des propositions complètes. 
-
-Les propositions complètes sont dus xx février 2016, et le GBIF annoncera les projets sélectionnés en Mars / Avril 2016.
-
-**Les demandes doivent être soumises en anglais.** Si vous avez des difficultés particulières à remplir cette condition, veuillez contacter [BID@gbif.org](mailto:bid@gbif.org) pour obtenir de l'aide dès que possible et avant le xx janvier 2016.
+**Les demandes doivent être envoyées en anglais en utilisant le modèle correspondant**.
 
 Veuillez noter que les demandes reçues en retard ou incomplètes ne seront pas prises en compte par la commission d'évaluation.
-
------------
-
-## Recommandations générales pour la préparation de propositions
-
-+ **Assurez-vous que votre projet respecte les critères d'éligibilité et corresponde bien aux objectifs généraux de la subvention.** Prenez en considération les critères d'évaluation que la commission d'évaluation utilisera pour évaluer votre proposition.
-+ **Soyez bref.** Essayez de répondre de la manière la plus concise possible et n'ajoutez des informations sur le contexte que lorsque nécessaire, en fournissant des liens vers des ressources externes plutôt que de longues explications.
-+ **Rédigez votre demande en anglais.** La commission d'évaluation utilise l'anglais comme langue de travail et les candidats doivent par conséquent envoyer leurs demandes en anglais. Rappelez-vous que si vous avez des difficultés particulières à remplir cette condition, vous devez contacter [BID@gbif.org](mailto:bid@gbif.org) pour obtenir de l'aide dès que possible, avant le xx janvier 2016.
-+ **Lisez les [FAQ](/faq).** Cette rubrique sera fréquemment mise à jour pendant la période de soumission des demandes. Si vous ne trouvez pas de réponse à votre question, envoyez-la à [BID@gbif.org](mailto:bid@gbif.org).
-+ **Envoyez votre demande dès que possible pour éviter tout problème.** La soumission anticipée de votre demande vous donnera une chance de résoudre d’éventuels problèmes avant l'échéance. La date limite de soumission des demandes est impérative. Les projets reçus en retard ou incomplets ne seront pas pris en compte par la commission d'évaluation.
 
 -----------
 
@@ -48,27 +41,10 @@ Le programme BID vise deux résultats principaux :
 
 ## Documents essentiels
 
-+ [BID Regional Grant Proposal template](http://#) (*en anglais*)
++ [BID Regional Grant Proposal template](http://www.gbif.org/sites/default/files/gbif_project/files/BID-Regional-Grant-Proposal-Template.doc) (*en anglais*)
 + [Premier appel 2015 á propositions de projets pour l'Afrique](http://www.gbif.org/sites/default/files/gbif_project/files/Appel_2015_a_propositions_de_projets_pour_l_Afrique_0.pdf)
 + [Annexe A de le premier appel 2015 á propositions de projets pour l'Afrique](http://www.gbif.org/sites/default/files/gbif_project/files/Annexe_A_de_l_appel-2015_a_propositions_de_projets_pour_l_Afrique_du_programme_BID_0.pdf) 
 + [« Africa Rising » : Mobilisation des Données de Biodiversité pour un Développement Durable](http://www.gbif.org/sites/default/files/gbif_event/files/AfricaRising-Declaration-FR.pdf)
-
------------
-
-## Critères d'eligibilité
-
-En plus de se conformer aux critères généraux d'éligibilité pour [2015 appels pour l'Afrique](Afrique-2015), les demandes de subventions de mobilisation régionale de données sur la biodiversité doivent respecter les critères suivants : 
-
-1. Tous les projets doivent comprendre au moins une activité qui contribue à chacune des trois catégories suivantes :
-    + Mise en place ou renforcement des réseaux afin de soutenir la mobilisation des données et le partage interinstitutionnel des données à long terme.
-    + Activités permettant de mobiliser les données sur la biodiversité.
-    + Intégration des informations sur la biodiversité dans les processus politiques et de prise de décision.
-2. Les demandes doivent être envoyées par le coordinateur du consortium qui coordonnera les activités du consortium au nom de ses partenaires et autres collaborateurs du projet. Le coordinateur de consortium doit être une entité juridique résidant dans un pays ACP africain (voir [Annexe A, section 1](http://www.gbif.org/sites/default/files/gbif_project/files/Annexe_A_de_l_appel-2015_a_propositions_de_projets_pour_l_Afrique_du_programme_BID_0.pdf)). Il peut demander un soutien financier supplémentaire pour les activités de coordination du consortium, à hauteur de 10 000 €. La demande doit expliquer la manière dont le coordinateur du consortium coordonne les activités de ses partenaires.
-3. La demande doit comprendre au moins trois partenaires du consortium, y compris le coordinateur du consortium, chacun provenant de différents pays ACP africains (voir [Annexe A, section 1](http://www.gbif.org/sites/default/files/gbif_project/files/Annexe_A_de_l_appel-2015_a_propositions_de_projets_pour_l_Afrique_du_programme_BID_0.pdf)). Tous les partenaires du consortium doivent avoir confirmé leur participation au projet et être mis en copie lors de la soumission des notes conceptuelles et des propositions complètes.
-4. En plus des trois partenaires de consortium provenant de pays ACP africains, les projets peuvent choisir d'inclure un partenaire de consortium qui est une entité juridique résidant dans l'un des pays éligibles mentionnés en Annexe A. Ce partenaire de consortium hors ACP peut recevoir un maximum de 10 000 €. Son implication dans le projet doit avoir principalement trait au renforcement des capacités du consortium régional. Il peut également être impliqué dans des activités de mobilisation des données sur la biodiversité lorsque ces activités sont pertinentes pour le consortium régional. Les partenaires de consortium hors ACP ne peuvent pas demander de subvention pour couvrir les coûts de services ou d'achats informatiques.
-5. Les projets doivent inviter les utilisateurs de données sur la biodiversité, tels que des scientifiques, des dirigeants et des décideurs, à devenir partenaires ou collaborateurs du projet. Ceux-ci doivent être des entités juridiques résidant dans un pays ACP africain (voir [Annexe A, section 1](http://www.gbif.org/sites/default/files/gbif_project/files/Annexe_A_de_l_appel-2015_a_propositions_de_projets_pour_l_Afrique_du_programme_BID_0.pdf)).
-6. Tous les projets doivent comprendre un important élément de mobilisation de données via le réseau GBIF. La plus grande partie de la subvention BID doit être utilisée pour la mobilisation des données. À titre indicatif pour les subventions régionales, le montant du financement BID dépensé dans des activités de mobilisation des données ne doit pas être inférieur à 60 % de la subvention totale.
-7. Les subventions BID peuvent être utilisées pour le financement de jusqu’à 50 % des coûts des services ou achats informatiques, pour un montant maximum de 2 500 € pour chaque partenaire du consortium résidant dans un pays ACP africain (voir [Annexe A, section 1](http://www.gbif.org/sites/default/files/gbif_project/files/Annexe_A_de_l_appel-2015_a_propositions_de_projets_pour_l_Afrique_du_programme_BID_0.pdf)). Il sera nécessaire de fournir des justificatifs de ces dépenses dans les rapports financiers.
 
 -----------
 
@@ -110,7 +86,7 @@ Les subventions régionales doivent comprendre au moins une activité qui contri
 + Évaluation des besoins des détenteurs et des utilisateurs de données par le biais d'un sondage ou d'une étude afin de développer une stratégie pour le consortium.
 + Organisation d'ateliers régionaux pour la promotion de la collaboration interinstitutionnelle.
 + Officialisation des partenariats par le biais d'accords institutionnels, de politiques de partage des données et d'approbation par les pouvoirs publics des stratégies de mobilisation des données.
-+ Adoption d'un processus de publication des données, qui peut éventuellement comprendre l'installation d'outils informatiques de publication des données. (p.ex. Outil de publication intégré [« GBIF Integrated Publishing Toolkit »](http://www.gbif.org/ipt) (en anglais)). 
++ Adoption d'un processus de publication des données, qui peut éventuellement comprendre l'installation d'outils informatiques de publication des données. (p.ex. Outil de publication intégré [« GBIF Integrated Publishing Toolkit »](http://www.gbif.org/ipt) (*en anglais*)). 
 + Formation des responsables de données et du personnel gérant les collections au sein des institutions principales détentrices de données à la mobilisation et à la gestion des données, par exemple par le biais d'ateliers permettant de partager les connaissances acquises lors de la participation aux ateliers BID de renforcement des capacités.
 
 2. Activités permettant de mobiliser les données sur la biodiversité liées aux zones protégées, aux espèces exotiques envahissantes et/ou aux espèces menacées :
