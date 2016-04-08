@@ -1,6 +1,7 @@
 ---
 title: Eligible Countries
-category: About
+category: Calls
+subcategory: Africa
 description: Institutions from the following countries are eligible to apply for funds or participate in specific roles under the 2015 call for proposals from Sub-Saharan Africa, provided that they meet other requirements.
 ---
 
@@ -8,12 +9,14 @@ description: Institutions from the following countries are eligible to apply for
 
 ---
 
+## Countries eligible for the 2015 call for proposals from Sub-Saharan Africa
+
 + [Sub-Saharan African ACP countries](#africa)
 + [Non-ACP regional consortium partners](#regional)
 + [Limited eligibility non-ACP regional consortium partners](#limited)
 
 
-## Sub-Saharan African ACP countries<a name="africa"></a>
+### Sub-Saharan African ACP countries<a name="africa"></a>
 
 Institutions from the following ACP countries in Africa are eligible to apply for funds under the BID programme, provided that they meet other [eligibility requirements](eligibility).
 
@@ -66,9 +69,9 @@ Institutions from the following ACP countries in Africa are eligible to apply fo
 + Zambia
 + Zimbabwe
 
-## Non-ACP regional consortium partner<a name="regional"></a>
+### Non-ACP regional consortium partner<a name="regional"></a>
 
-Institutions from the following non-ACP countries are eligible apply for funds from the BID programme as part of a [regional partnership](/calls/africa-2015/eligibility#regional), provided that they meet other [eligibility requirements](/calls/africa-2015/eligibility).
+Institutions from the following non-ACP countries are eligible apply for funds from the BID programme as part of a [regional partnership](eligibility#regional), provided that they meet other [eligibility requirements](eligibility).
 
 + Afghanistan
 + Albania
@@ -218,9 +221,9 @@ Institutions from the following non-ACP countries are eligible apply for funds f
 + West Bank and Gaza Strip
 + Yemen
 
-## Limited eligibility non-ACP regional consortium partner<a name="limited"></a>
+### Limited eligibility non-ACP regional consortium partner<a name="limited"></a>
 
-Institutions from the following non-ACP countries have limited eligibility to apply for funds from the BID programme as part of a [regional partnership](/calls/africa-2015/eligibility#regional), provided that they meet other [eligibility requirements](/calls/africa-2015/eligibility). Please contact [bid@gbif.org](mailto:bid@gbif.org) for details.
+Institutions from the following non-ACP countries have limited eligibility to apply for funds from the BID programme as part of a [regional partnership](eligibility#regional), provided that they meet other [eligibility requirements](eligibility). Please contact [bid@gbif.org](mailto:bid@gbif.org) for details.
 
 +	Australia
 +	Canada
