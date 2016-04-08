@@ -4,7 +4,7 @@ style: home article
 image: /images/Wbeest_Mara.jpg
 imageTitle: Wildebeest herds in the Masai Mara, Kenya. Photo by T. R. Shankar Raman. CC BY 3.0.
 imageLink: https://en.wikipedia.org/wiki/File:Wbeest_Mara.jpg
-------
+---
 BID: Informação sobre Biodiversidade para o Desenvolvimento
 ===================
 
