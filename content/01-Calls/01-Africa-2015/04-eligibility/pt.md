@@ -2,7 +2,7 @@
 title: Elegibilidade
 description: Organizações que procuram financiamento através do programa BID deve atender aos requisitos gerais e específicos de concessão de elegibilidade.
 category: Convites
-subCategory: África
+subCategory: África 2015
 ---
 # Elegibilidade
 

@@ -2,7 +2,7 @@
 title: Éligibilité
 description: Les organisations qui cherchent un financement par le biais du programme BID doivent satisfaire aux éligibilités générales et spécifiques à l'admissibilité à la subvention.
 category: Appels
-subCategory: Afrique
+subCategory: Afrique 2015
 ---
 # Éligibilité
 

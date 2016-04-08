@@ -2,7 +2,7 @@
 title: FAQs
 description: Frequently asked questions
 category: Calls
-subCategory: Africa
+subCategory: Africa 2015
 ---
 
 # Frequently Asked Questions

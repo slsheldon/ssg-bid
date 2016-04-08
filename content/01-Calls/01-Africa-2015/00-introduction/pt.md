@@ -1,7 +1,7 @@
 ---
 title: Introdução
 category: Convites
-subCategory: África
+subCategory: África 2015
 description: A apresentação de propostas de sub-saariana encerrada em 20 de novembro de 2015. GBIF irá anunciar seleções do projeto em abril de 2016.
 image: //www.gbif.org/sites/default/files/styles/focal_point_for_news/public/gbif_scaled_contents/news/2015-November/82567/Virunga_National_Park_DRC.jpg
 imageLicense: Virunga National Park, North Kivu, Democratic Republic of Congo. Photo by Joseph King. CC BY-NC-ND 2.0.

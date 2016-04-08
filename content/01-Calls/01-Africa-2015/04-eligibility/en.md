@@ -2,7 +2,7 @@
 title: Eligibility
 description: Organizations seeking funding through the BID programme must meet both general and grant-specific eligibility requirements.
 category: Calls
-subCategory: Africa
+subCategory: Africa 2015
 ---
 # Eligibility
 

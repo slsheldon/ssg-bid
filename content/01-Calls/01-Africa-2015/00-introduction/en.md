@@ -1,7 +1,7 @@
 ---
 title: Introduction
 category: Calls
-subCategory: Africa
+subCategory: Africa 2015
 description: The call for proposals from sub-Saharan Africa closed on 20 November 2015. GBIF will announce project selections in April 2016.
 image: //www.gbif.org/sites/default/files/styles/focal_point_for_news/public/gbif_scaled_contents/news/2015-November/82567/Virunga_National_Park_DRC.jpg
 imageLicense: Virunga National Park, North Kivu, Democratic Republic of Congo. Photo by Joseph King. CC BY-NC-ND 2.0.
