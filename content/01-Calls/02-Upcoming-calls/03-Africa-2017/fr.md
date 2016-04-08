@@ -1,7 +1,7 @@
 ---
 title: Appel à propositions – Afrique subsaharienne, 2017
 category: Appels
-subCategory: Pacifique
+subCategory: Afrique 2017
 description: GBIF prévoit émettre un deuxième appel à propositions pour l'Afrique subsaharienne dans 2017.
 
 ---

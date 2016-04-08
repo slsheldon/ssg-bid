@@ -1,7 +1,7 @@
 ---
 title: Sub-Saharan Africa, 2017
 category: Calls
-subCategory: Africa
+subCategory: Africa 2017
 description: A second and final call for proposals from sub-Saharan Africa will take place in 2017.
 
 ---

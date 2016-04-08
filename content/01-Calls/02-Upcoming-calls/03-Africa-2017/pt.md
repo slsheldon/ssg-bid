@@ -1,7 +1,7 @@
 ---
 title: Convite à apresentação de propostas - África sub-Sahariana, 2017
 category: Convites
-subCategory: África
+subCategory: África 2017
 description: A segunda e última apresentação de propostas para apoiar os países na África subsaariana está prevista para 2017.
 
 ---
