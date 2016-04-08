@@ -1,6 +1,7 @@
 ---
 title: Home
 style: home article
+description: Biodiversity Information for Development, or BID, is a multi-year, €3.9 million programme funded by the European Union and led by GBIF with the aim of increasing the amount of biodiversity information available in the ‘ACP’ nations of sub-Saharan Africa, the Caribbean and the Pacific.
 image: /images/Wbeest_Mara.jpg
 imageTitle: Wildebeest herds in the Masai Mara, Kenya. Photo by T. R. Shankar Raman. CC BY 3.0.
 imageLink: https://en.wikipedia.org/wiki/File:Wbeest_Mara.jpg
@@ -10,15 +11,9 @@ imageLink: https://en.wikipedia.org/wiki/File:Wbeest_Mara.jpg
 
 Biodiversity Information for Development (BID) is a multi-year, €3.9 million programme funded by the [European Union](http://europa.eu) and led by GBIF with the aim of increasing the amount of biodiversity information available in the [‘ACP’ nations of sub-Saharan Africa, the Caribbean and the Pacific](https://ec.europa.eu/europeaid/regions/african-caribbean-and-pacific-acp-region_en).
 
-The first round of proposal submissions from sub-Saharan Africa finished on 26 February 2016. GBIF and the BID evaluation panel will review the proposals, and GBIF will announce the selected projects in April 2016.
+GBIF will announce the selection of projects from the first round of proposal submissions from sub-Saharan Africa in April 2016.
 
-GBIF will issue calls for proposals from [ACP countries](https://ec.europa.eu/europeaid/regions/african-caribbean-and-pacific-acp-region_en) in the Caribbean and Pacific Islands during Q2 of 2016, with a second and final call for Africa ACP countries planned in 2017.
-
-If you have been invited to submit a full proposal, find complete information about grant types here:
-
-+ [Regional grants](/en/calls/africa-2015/regional-grants)
-+ [National grants](/en/calls/africa-2015/national-grants)
-+ [Small grants](/en/calls/africa-2015/small-grants)
+GBIF will issue calls for proposals in the Caribbean and Pacific Islands during Q2 of 2016, with a second and final call for Africa ACP countries planned in 2017.
 
 -----------------
 
