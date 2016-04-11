@@ -12,6 +12,8 @@ _Sub-Saharan Africa, 2015 (closed)_
 
 Small grants under the BID programme seek to mobilize biodiversity data relevant for biodiversity conservation priorities.
 
+-----------------------
+
 ## Submission procedure
 
 The deadline for submitting initial concept notes from sub-Saharan Africa was 20 November 2015. GBIF and the BID evaluation panel have provided feedback and recommendations to applicants invited to prepare full proposals.
@@ -19,6 +21,8 @@ The deadline for submitting initial concept notes from sub-Saharan Africa was 20
 **Applications must be submitted in English and by using the appropriate template**.
 
 Applications received late or incomplete will not be reviewed by the evaluation panel. 
+
+-----------------------
 
 ## Objectives
 
@@ -30,8 +34,8 @@ The overall BID programme targets two key outcomes:
 1. Enhanced capacity for effective mobilization and use of biodiversity information
 2. Enhanced availability of information resources and best practice guidance for mobilization and application of biodiversity information for key policy needs
  
+-----------------------
 
- 
 ## Key documents
 
 + [Proposal template](http://www.gbif.org/sites/default/files/gbif_project/files/BID-Small-Grant-Template_0.doc)
@@ -39,8 +43,8 @@ The overall BID programme targets two key outcomes:
 + [First Call for Proposals - Annex A](http://www.gbif.org/sites/default/files/gbif_project/files/BID-call-for-proposals-Annex-A.pdf) 
 + [Africa Rising declaration](http://www.gbif.org/sites/default/files/gbif_event/files/AfricaRising-Declaration-EN.pdf)
  
+-----------------------
 
- 
 ## Evaluation criteria
 
 Proposals will be assessed using the following criteria:
@@ -55,15 +59,14 @@ Proposals will be assessed using the following criteria:
 8. Level of institutional support and cost effectiveness of the proposed actions; the balance between the level of funding requested from BID and the cofunding contributed by the partners.
 9. Anticipated value of the project deliverables to both the national context and the broader GBIF community.
 10. Quality of project design and risk assessment; monitoring and evaluation plans will be assessed in the full proposals
- 
 
- 
+-----------------------
+
 ## Project duration
 
 Selected projects may begin their activities in June 2016, with project activity continuing for up to one year, and with a final six-month reporting and evaluation period (ending December 2017). All projects must end by 31 December 2017.
  
-
- 
+-----------------------
 
 ## Funding
 
