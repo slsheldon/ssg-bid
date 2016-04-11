@@ -1,7 +1,7 @@
 ---
 title: Subvenções nacionais
-category: Appels
-subCategory: Afrique 2015
+category: Convites
+subCategory: África 2015
 description: Subvenções nacionais no âmbito do programa BID procuram estabelecer ou reforçar infraestruturas nacionais de informação sobre biodiversidade e aumentar os dados de biodiversidade disponíveis sobre o país para responder a prioridades nacionais.
 image: //www.gbif.org/sites/default/files/styles/focal_point_for_news/public/gbif_scaled_contents/news/2015-September/82403/Guinea%20Conakry.jpg?itok=HQDch_ir
 imageTitle: Conakry, Guinea. By Jeff Attaway via Flickr. CC BY 2.0
@@ -47,8 +47,8 @@ O programa geral de BID tem como alvo dois resultados principais:
 
 + [BID Regional Grant Proposal template](http://www.gbif.org/sites/default/files/gbif_project/files/BID-National-Grant-Template.doc) (*em inglês*)
 + [Premiera convite à apresentação de propostas de África 2015](http://www.gbif.org/sites/default/files/gbif_project/files/Convite_a_apresentacao_de_propostas_de_Africa_2015_0.pdf)
-+ [Convite à apresentação de propostas de África do programa BID 2015 Anexo A](http://www.gbif.org/sites/default/files/gbif_project/files/Convite_a_apresentacao_de_propostas_de_Africa_do_programa_BID_2015_Anexo_A_0.pdf) 
-+ [Africa Rising: Mobilizando Dados de Biodiversidade para o Desenvolvimento Sustentável](http://www.gbif.org/sites/default/files/gbif_event/files/AfricaRising-Declaration-PT.pdf)
++ [Convite à apresentação de propostas de África do programa BID 2015 Anexo A](http://www.gbif.org/sites/default/files/gbif_project/files/Convite_a_apresentacao_de_propostas_de_Africa_do_programa_BID_2015_Anexo_A_0.pdf) 
++ [Africa Rising: Mobilizando Dados de Biodiversidade para o Desenvolvimento Sustentável](http://www.gbif.org/sites/default/files/gbif_event/files/AfricaRising-Declaration-PT.pdf)
 
 -----------
 
