@@ -13,9 +13,9 @@ _África subsariana, 2015_
 
 Subvenções regionais no âmbito do programa BID procuram estabelecer ou reforçar as colaborações internacionais para aumentar os dados de biodiversidade relevantes para prioridades de conservação da biodiversidade.
 
+-----------
 
 ## Processo de submissão de candidaturas
-
 
 O prazo para a apresentação de proporstas de África Subsariana foi de 20 novembro de 2015. GBIF e do painel de avaliação da proposta forneceram feedback e recomendações aos candidatos convidados a preparar propostas completas. 
 
@@ -23,7 +23,7 @@ As candidaturas devem ser apresentadas em inglês [utilizando o modelo adequado]
 
 Por favor, note que as aplicações recebidas com atraso ou incompletos não serão tidos em conta pela painel de avaliação.
 
-
+-----------
 
 ## Objetivos
 
@@ -38,7 +38,7 @@ O programa geral de BID tem como alvo dois resultados principais:
 1. Aumento da capacidade de mobilização efetiva e uso da informação sobre biodiversidade.
 2. Aumento da disponibilidade de recursos de informação e orientação sobre boas práticas para a mobilização e aplicação da informação sobre biodiversidade às principais necessidades políticas.
 
-
+-----------
 
 ## Documentos essenciais
 
@@ -47,7 +47,7 @@ O programa geral de BID tem como alvo dois resultados principais:
 + [Convite à apresentação de propostas de África do programa BID 2015 Anexo A](http://www.gbif.org/sites/default/files/gbif_project/files/Convite_a_apresentacao_de_propostas_de_Africa_do_programa_BID_2015_Anexo_A_0.pdf) 
 + [Africa Rising: Mobilizando Dados de Biodiversidade para o Desenvolvimento Sustentável](http://www.gbif.org/sites/default/files/gbif_event/files/AfricaRising-Declaration-PT.pdf)
 
-
+-----------
 
 ## Critérios de avaliação
 
@@ -65,18 +65,20 @@ As propostas serão avaliadas mediante os critérios seguintes:
 10. Escolha e complementaridade dos parceiros do consórcio.
 11. A qualidade da conceção do projeto e a avaliação de risco; a monitorização e os planos de avaliação serão avaliados nas propostas completas.
 
-
+-----------
 
 ## Duração do projeto
 
 Os projetos selecionados podem iniciar as suas atividades em junho de 2016, com as atividades do projeto a continuar durante, no máximo, dois anos (terminando em junho de 2018) e com um período final de seis meses de relatório e avaliação (terminando em dezembro de 2018).Todos os projetos devem terminar a 31 de dezembro de 2018.
 
+-----------
 
 
 ## Financiamento disponível
 
 São exigidos pelo menos três parceiros no consórcio, cada qual de uma nação "ACP" africana diferente. Cada parceiro pode receber até €20.000 e um coordenador de consórcio pode receber até €10.000 em financiamento adicional para coordenar as atividades dos parceiros. No decurso do programa BID, o máximo total de financiamento do projeto que qualquer candidato único pode receber é de €60.000.
 
+-----------
 
 
 ## Tipos de atividade de subvenção regional
