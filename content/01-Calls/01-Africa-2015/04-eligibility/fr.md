@@ -9,10 +9,8 @@ subCategory: Afrique 2015
 ----------
 En plus de répondre aux exigences de localisation rôle dépendant dans un [pays éligible],  [pays éligible](eligible-countries), les organisations qui cherchent un financement par le biais du programme BID doivent répondre aux exigences générales et spécifiques aux subventions admissibilité énoncés ci-dessous. 
 
-+ [Critères généraux d'eligibilité](#generaux)
-+ [Critères d'eligibilité des subventions régionales](#regionales)
-+ [Critères d'eligibilité des subventions nationales](#nationales)
-+ [Critères d'eligibilité des petites subventions](#petites)
+<!-- toc -->
+<!-- tocstop -->
 
 -----------------------
 
