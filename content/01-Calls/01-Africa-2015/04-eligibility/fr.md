@@ -7,14 +7,14 @@ subCategory: Afrique 2015
 # Éligibilité
 
 ----------
-En plus de répondre aux exigences de localisation rôle dépendant dans un [pays éligible],  [pays éligible](eligible-countries), les organisations qui cherchent un financement par le biais du programme BID doivent répondre aux exigences générales et spécifiques aux subventions admissibilité énoncés ci-dessous. 
+En plus de répondre aux exigences de localisation rôle dépendant dans un [pays éligible](eligible-countries), les organisations qui cherchent un financement par le biais du programme BID doivent répondre aux exigences générales et spécifiques aux subventions admissibilité énoncés ci-dessous. 
 
 <!-- toc -->
 <!-- tocstop -->
 
 -----------------------
 
-## Critères généraux d'eligibilité<a name="generaux"></a>
+## Critères généraux d'eligibilité
 
 Toutes les demandes de subvention BID doivent être conformes aux critères généraux d'éligibilité suivants :
 
@@ -31,9 +31,9 @@ Toutes les demandes de subvention BID doivent être conformes aux critères gén
 
 -----------------------
 
-## Critères d'eligibilité des subventions régionales<a name="regionales"></a>
+## Critères d'eligibilité des subventions régionales
 
-En plus de se conformer aux [critères généraux d'éligibilité](#generaux) au-dessus, les demandes de subventions de mobilisation régionale de données sur la biodiversité doivent respecter les critères suivants :
+En plus de se conformer aux critères généraux d'éligibilité au-dessus, les demandes de subventions de mobilisation régionale de données sur la biodiversité doivent respecter les critères suivants :
 1. Tous les projets doivent comprendre au moins une activité qui contribue à chacune des trois catégories suivantes :
 ++ Mise en place ou renforcement des réseaux afin de soutenir la mobilisation des données et le partage interinstitutionnel des données à long terme
 ++ Activités permettant de mobiliser les données sur la biodiversité
@@ -47,9 +47,9 @@ En plus de se conformer aux [critères généraux d'éligibilité](#generaux) au
 
 -----------------------
 
-## Critères d'eligibilité des subventions nationales<a name="nationales"></a>
+## Critères d'eligibilité des subventions nationales
 
-En plus de se conformer aux [critères généraux d'éligibilité](#generaux) au-dessus, les demandes de subventions nationales pour la mobilisation de données sur la biodiversité doivent être conformes aux critères suivants :
+En plus de se conformer aux critères généraux d'éligibilité au-dessus, les demandes de subventions nationales pour la mobilisation de données sur la biodiversité doivent être conformes aux critères suivants :
 1. Tous les projets doivent comprendre au moins une activité qui contribue à chacune des trois catégories suivantes :
 ++ Renforcement des capacités du système national d'information sur la biodiversité
 ++ Activités permettant de mobiliser les données sur la biodiversité
@@ -63,9 +63,9 @@ En plus de se conformer aux [critères généraux d'éligibilité](#generaux) au
 
 -----------------------
 
-## Critères d'eligibilité des petites subventions<a name="petites"></a>
+## Critères d'eligibilité des petites subventions
 
-En plus de se conformer aux [critères généraux d'éligibilité](#generaux) au-dessus, les demandes de petites subventions pour la mobilisation de données sur la biodiversité doivent être conformes aux critères suivants :
+En plus de se conformer aux critères généraux d'éligibilité au-dessus, les demandes de petites subventions pour la mobilisation de données sur la biodiversité doivent être conformes aux critères suivants :
 1. Tous les projets doivent inclure des activités qui contribuent à la première catégorie de composants et peuvent également inclure des activités qui contribuent à la deuxième catégorie de composants:
 ++ Activités permettant de mobiliser les données sur la biodiversité
 ++ Intégration des informations sur la biodiversité dans les processus politiques et de prise de décision
