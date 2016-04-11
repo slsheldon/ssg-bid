@@ -1,4 +1,4 @@
 ---
-title: Appel
+title: Appels
 type: menu only
 ---
