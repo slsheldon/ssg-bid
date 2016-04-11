@@ -11,7 +11,7 @@ _Sub-Saharan Africa, 2015 (closed)_
 **Note: This call for proposals is closed**
 
 Regional grants under the BID programme seek to establish or strengthen international collaborations that increase biodiversity data mobilization.
-
+-----
 ## Submission procedure
 
 The deadline for submitting initial concept notes from sub-Saharan Africa was 20 November 2015. GBIF and the BID evaluation panel have provided feedback and recommendations to applicants invited to prepare full proposals.
@@ -22,8 +22,8 @@ Full proposals are due 26 Feb 2016, 12:00 pm CET / 11:00 am UTC/GMT, and GBIF wi
 
 Applications received late or incomplete will not be reviewed by the evaluation panel.
  
+-----
 
- 
 ## Objectives
 
 The objectives of the BID regional biodiversity data mobilization grants are to:
@@ -37,7 +37,7 @@ The overall BID programme targets two key outcomes:
 1. Enhanced capacity for effective mobilization and use of biodiversity information
 2. Enhanced availability of information resources and best practice guidance for mobilization and application of biodiversity information for key policy needs
  
-
+-----
  
 ## Key documents
 
@@ -45,9 +45,8 @@ The overall BID programme targets two key outcomes:
 + [First Call For Proposals](http://www.gbif.org/sites/default/files/gbif_project/files/BID%20Call%20For%20Proposals%20Africa.pdf)
 + [First Call for Proposals - Annex A](http://www.gbif.org/sites/default/files/gbif_project/files/BID-call-for-proposals-Annex-A.pdf) 
 + [Africa Rising declaration](http://www.gbif.org/sites/default/files/gbif_event/files/AfricaRising-Declaration-EN.pdf)
-  
- 
 
+----
  
 ## Evaluation criteria
 
@@ -65,13 +64,13 @@ Proposals will be assessed using the following criteria:
 10. Choice and complementarity of consortium partners.
 11. Quality of project design and risk assessment; monitoring and evaluation plans will be assessed in the full proposals
  
-
+-----
  
 ## Project duration
 
 Selected regional projects may begin their activities in June 2016, with project activity continuing for up to two years (ending in June 2018), and with a final six-month reporting and evaluation period (ending in December 2018). All projects must end by 31 December 2018.
  
-
+-----
  
 ## Funding
 
