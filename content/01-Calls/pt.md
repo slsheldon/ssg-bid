@@ -1,4 +1,4 @@
 ---
-title: Convite
+title: Convites
 type: menu only
 ---
