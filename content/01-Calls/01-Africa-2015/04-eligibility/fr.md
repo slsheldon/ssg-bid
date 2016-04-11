@@ -14,6 +14,8 @@ En plus de répondre aux exigences de localisation rôle dépendant dans un [pay
 + [Critères d'eligibilité des subventions nationales](#nationales)
 + [Critères d'eligibilité des petites subventions](#petites)
 
+-----------------------
+
 ## Critères généraux d'eligibilité<a name="generaux"></a>
 
 Toutes les demandes de subvention BID doivent être conformes aux critères généraux d'éligibilité suivants :
@@ -29,6 +31,8 @@ Toutes les demandes de subvention BID doivent être conformes aux critères gén
 9. Tout candidat doit fournir un plan garantissant la durabilité des activités au-delà de la période de soutien du programme BID.
 10. Toutes les données mobilisées grâce aux subventions BID, ainsi que tout autre produit de ces projets tels que le matériel de formation, doivent être mis à disposition sous [licence CC-BY ou CC0](http://www.gbif.org/newsroom/news/data-licensing-and-endorsement) (en anglais).
 
+-----------------------
+
 ## Critères d'eligibilité des subventions régionales<a name="regionales"></a>
 
 En plus de se conformer aux [critères généraux d'éligibilité](#generaux) au-dessus, les demandes de subventions de mobilisation régionale de données sur la biodiversité doivent respecter les critères suivants :
@@ -43,6 +47,8 @@ En plus de se conformer aux [critères généraux d'éligibilité](#generaux) au
 6. Tous les projets doivent comprendre un important élément de mobilisation de données via le réseau GBIF. La plus grande partie de la subvention BID doit être utilisée pour la mobilisation des données. À titre indicatif pour les subventions régionales, le montant du financement BID dépensé dans des activités de mobilisation des données ne doit pas être inférieur à 60 % de la subvention totale.
 7. Les subventions BID peuvent être utilisées pour le financement de jusqu’à 50 % des coûts des services ou achats informatiques, pour un montant maximum de 2 500 € pour chaque partenaire du consortium résidant dans un pays ACP africain (voir [Annexe A, section 1](http://www.gbif.org/sites/default/files/gbif_project/files/BID-call-for-proposals-Annex-A.pdf)). Il sera nécessaire de fournir des justificatifs de ces dépenses dans les rapports financiers.
 
+-----------------------
+
 ## Critères d'eligibilité des subventions nationales<a name="nationales"></a>
 
 En plus de se conformer aux [critères généraux d'éligibilité](#generaux) au-dessus, les demandes de subventions nationales pour la mobilisation de données sur la biodiversité doivent être conformes aux critères suivants :
@@ -56,6 +62,8 @@ En plus de se conformer aux [critères généraux d'éligibilité](#generaux) au
 5. Tous les partenaires confirmés du projet doivent être mis en copie lors de la soumission des notes conceptuelles et des propositions complètes. Les lettres de soutien des partenaires confirmés du projet doivent être envoyées en pièce jointe avec les soumissions envoyées par e-mail.
 6. Tous les projets doivent comprendre un important élément de mobilisation de données via le réseau GBIF. La plus grande partie de la subvention BID doit être utilisée pour la mobilisation des données. À titre indicatif pour les subventions régionales, le montant du financement BID dépensé dans des activités de mobilisation des données ne doit pas être inférieur à 60 % de la subvention totale.
 7. Les subventions BID peuvent être utilisées pour le financement de jusqu’à 50 % des coûts de services ou achats informatiques, pour un montant maximum de 2 500 € de n'importe quelle subvention nationale. Il sera nécessaire de fournir des justificatifs de ces dépenses dans les rapports financiers
+
+-----------------------
 
 ## Critères d'eligibilité des petites subventions<a name="petites"></a>
 
