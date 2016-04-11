@@ -14,7 +14,7 @@ Além de atender a requisitos de localização dependente de papel em um [país 
 
 -----------------------
 
-## Critérios gerais de elegibilidade<a name="gerais"></a>
+## Critérios gerais de elegibilidade
 
 Todas as candidaturas a subvenções do programa BID devem cumprir os critérios de elegibilidade geral seguintes:
 1. As notas concetuais e as propostas completas em inglês devem ser recebidas dentro dos prazos indicados.
@@ -30,9 +30,9 @@ Todas as candidaturas a subvenções do programa BID devem cumprir os critérios
 
 -----------------------
 
-## Critérios de elegibilidade para as subvenções regionais<a name="regionais"></a>
+## Critérios de elegibilidade para as subvenções regionais
 
-Além de cumprir com os [critérios gerais de elegibilidade](#gerais) acima, as candidaturas a subvenções regionais de mobilização de dados de biodiversidade devem cumprir os critérios seguintes:
+Além de cumprir com os critérios gerais de elegibilidade acima, as candidaturas a subvenções regionais de mobilização de dados de biodiversidade devem cumprir os critérios seguintes:
 1. Todos os projetos devem incluir atividades que contribuam para cada uma das três categorias componentes:
 ++ Estabelecer ou reforçar redes para apoiar a mobilização de dados e a partilha interinstitucional de dados a longo prazo.
 ++ Atividades para mobilizar dados de biodiversidade
@@ -46,9 +46,9 @@ Além de cumprir com os [critérios gerais de elegibilidade](#gerais) acima, as 
 
 -----------------------
 
-## Critérios de elegibilidade para as subvenções nacionais<a name="nacionais"></a>
+## Critérios de elegibilidade para as subvenções nacionais
 
-Além de cumprir com os [critérios gerais de elegibilidade](#gerais) acima, as candidaturas a subvenções nacionais de mobilização de dados de biodiversidade devem cumprir os critérios seguintes:
+Além de cumprir com os critérios gerais de elegibilidade acima, as candidaturas a subvenções nacionais de mobilização de dados de biodiversidade devem cumprir os critérios seguintes:
 1. Todos os projetos devem incluir atividades que contribuam para cada uma das três categorias componentes:
 ++ Aumento da capacidade de sistemas nacionais de informação sobre a biodiversidade
 ++ Atividades para mobilizar dados de biodiversidade
@@ -62,9 +62,9 @@ Além de cumprir com os [critérios gerais de elegibilidade](#gerais) acima, as 
 
 -----------------------
 
-## Critérios de elegibilidade para as pequenas bolsas<a name="pequenas"></a>
+## Critérios de elegibilidade para as pequenas bolsas
 
-Além de cumprir com os [critérios gerais de elegibilidade](#gerais) acima, as candidaturas a pequenas bolsas de mobilização de dados de biodiversidade devem cumprir os critérios seguintes:
+Além de cumprir com os critérios gerais de elegibilidade acima, as candidaturas a pequenas bolsas de mobilização de dados de biodiversidade devem cumprir os critérios seguintes:
 11	Todos os projetos devem incluir atividades que contribuam para cada uma das dois categorias componentes:
 ◦	Atividades para mobilizar dados de biodiversidade
 ◦	Integrar informação sobre biodiversidade nos processos de criação de políticas e de tomada de decisões
