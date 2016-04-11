@@ -1,5 +1,5 @@
 ---
-title: Pequenas bolsas – África Subsariana, 2015
+title: Pequenas bolsas
 category: Appels
 subCategory: Afrique 2015
 description: Pequenas bolsas no âmbito do programa BID procuram mobilizar dados de biodiversidade relevantes para prioridades de conservação da biodiversidade.
@@ -13,7 +13,7 @@ _África subsariana, 2015_
 
 Pequenas bolsas no âmbito do programa BID procuram mobilizar dados de biodiversidade relevantes para prioridades de conservação da biodiversidade.
 
------------
+
 
 ## Processo de submissão de candidaturas
 
@@ -23,7 +23,7 @@ As candidaturas devem ser apresentadas em inglês [utilizando o modelo adequado]
 
 Por favor, note que as aplicações recebidas com atraso ou incompletos não serão tidos em conta pela painel de avaliação.
 
------------
+
 
 ## Objetivos
 
@@ -37,7 +37,7 @@ O programa geral de BID tem como alvo dois resultados principais:
 1. Aumento da capacidade de mobilização efetiva e uso da informação sobre biodiversidade.
 2. Aumento da disponibilidade de recursos de informação e orientação sobre boas práticas para a mobilização e aplicação da informação sobre biodiversidade às principais necessidades políticas.
 
------------
+
 
 ## Documentos essenciais
 
@@ -46,7 +46,7 @@ O programa geral de BID tem como alvo dois resultados principais:
 + [Convite à apresentação de propostas de África do programa BID 2015 Anexo A](http://www.gbif.org/sites/default/files/gbif_project/files/Convite_a_apresentacao_de_propostas_de_Africa_do_programa_BID_2015_Anexo_A_0.pdf) 
 + [Africa Rising: Mobilizando Dados de Biodiversidade para o Desenvolvimento Sustentável](http://www.gbif.org/sites/default/files/gbif_event/files/AfricaRising-Declaration-PT.pdf)
 
------------
+
 
 ## Critérios de avaliação
 
@@ -63,19 +63,19 @@ As propostas serão avaliadas mediante os critérios seguintes:
 9. Valor previsto dos resultados do projeto, tanto no contexto nacional, como regional e na comunidade GBIF mais vasta.
 10. A qualidade da conceção do projeto e a avaliação de risco; a monitorização e os planos de avaliação serão avaliados nas propostas completas.
 
------------
+
 
 ## Duração do projeto
 
 Os projetos selecionados podem iniciar as suas atividades em junho de 2016, com as atividades do projeto a continuar durante, no máximo, um ano e com um período final de seis meses de relatório e avaliação (terminando a dezembro de 2017). Todos os projetos devem terminar a 31 de dezembro de 2017.
 
------------
+
 
 ## Financiamento disponível
 
 Até €5.000 por cada pequena bolsa. No decurso do programa BID, o máximo total de financiamento do projeto que qualquer candidato único pode receber é de €60.000.
 
------------
+
 
 ## Tipos de atividade de pequenas bolsas
 

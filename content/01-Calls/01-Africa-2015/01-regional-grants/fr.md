@@ -12,7 +12,6 @@ _Afrique subsaharienne, 2015_
 
 Subventions régionales dans le programme BID cherchent à établir ou à renforcer des collaborations internationales qui augmentent la mobilisation des données sur la biodiversité.
 
------------
 
 ## Procédure de soumission
 
@@ -22,7 +21,7 @@ La date limite pour les notes conceptuelles initiales d'Afrique subsaharienne é
 
 Veuillez noter que les demandes reçues en retard ou incomplètes ne seront pas prises en compte par la commission d'évaluation.
 
------------
+
 
 ## Objectifs
 
@@ -37,7 +36,7 @@ Le programme BID vise deux résultats principaux :
 1. Une capacité accrue pour la mobilisation et l'utilisation efficaces des informations sur la biodiversité
 2. Une disponibilité accrue des ressources d'information et des guides des meilleures pratiques pour la mobilisation et l'utilisation de l'information sur la biodiversité afin de répondre aux besoins des principaux enjeux politiques
 
------------
+
 
 ## Documents essentiels
 
@@ -46,7 +45,7 @@ Le programme BID vise deux résultats principaux :
 + [Annexe A de le premier appel 2015 á propositions de projets pour l'Afrique](http://www.gbif.org/sites/default/files/gbif_project/files/Annexe_A_de_l_appel-2015_a_propositions_de_projets_pour_l_Afrique_du_programme_BID_0.pdf) 
 + [« Africa Rising » : Mobilisation des Données de Biodiversité pour un Développement Durable](http://www.gbif.org/sites/default/files/gbif_event/files/AfricaRising-Declaration-FR.pdf)
 
------------
+
 
 ## Critères d'évaluation
 
@@ -64,19 +63,19 @@ Les propositions seront évaluées selon les critères suivants :
 10. Choix et complémentarité des partenaires du consortium.
 11. Qualité de la conception du projet et de l'évaluation des risques. Les plans de suivi et d'évaluation seront évalués dans les propositions complètes.
 
------------
+
 
 ## Durée du projet
 
 Les projets sélectionnés pourront amorcer leurs activités en juin 2016 pour une durée maximale de deux ans (s'achevant en juin 2018), suivie d'une période de six mois d'élaboration de rapports et d'évaluation (s'achevant en décembre 2018). Tous les projets doivent s'achever d'ici au 31 décembre 2018. 
 
------------
+
 
 ## Montant de subvention disponsible
 
 Un minimum de trois partenaires, originaires de pays ACP africains différents, doit former un consortium. Chaque partenaire pourra recevoir jusqu'à 20 000 €, et un coordinateur de consortium pourra recevoir en plus jusqu'à 10 000 € de financement supplémentaire pour coordonner les activités de ses partenaires. Au cours du programme BID, chaque candidat peut recevoir un maximum de 60 000 € de financement pour des projets. 
 
------------
+
 
 ## Types d'activité des subventions régionales
 

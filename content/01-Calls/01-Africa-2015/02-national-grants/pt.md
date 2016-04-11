@@ -1,8 +1,11 @@
 ---
-title: Subvenções nacionais – África Subsariana, 2015
+title: Subvenções nacionais
 category: Appels
 subCategory: Afrique 2015
 description: Subvenções nacionais no âmbito do programa BID procuram estabelecer ou reforçar infraestruturas nacionais de informação sobre biodiversidade e aumentar os dados de biodiversidade disponíveis sobre o país para responder a prioridades nacionais.
+image: //www.gbif.org/sites/default/files/styles/focal_point_for_news/public/gbif_scaled_contents/news/2015-September/82403/Guinea%20Conakry.jpg?itok=HQDch_ir
+imageTitle: Conakry, Guinea. By Jeff Attaway via Flickr. CC BY 2.0
+imageLink: https://www.flickr.com/photos/attawayjl/
 ---
 
 # Subvenções nacionais

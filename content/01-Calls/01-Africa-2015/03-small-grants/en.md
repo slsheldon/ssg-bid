@@ -30,7 +30,7 @@ The overall BID programme targets two key outcomes:
 1. Enhanced capacity for effective mobilization and use of biodiversity information
 2. Enhanced availability of information resources and best practice guidance for mobilization and application of biodiversity information for key policy needs
  
----------
+
  
 ## Key documents
 
@@ -39,7 +39,7 @@ The overall BID programme targets two key outcomes:
 + [First Call for Proposals - Annex A](http://www.gbif.org/sites/default/files/gbif_project/files/BID-call-for-proposals-Annex-A.pdf) 
 + [Africa Rising declaration](http://www.gbif.org/sites/default/files/gbif_event/files/AfricaRising-Declaration-EN.pdf)
  
----------
+
  
 ## Evaluation criteria
 
@@ -56,13 +56,13 @@ Proposals will be assessed using the following criteria:
 9. Anticipated value of the project deliverables to both the national context and the broader GBIF community.
 10. Quality of project design and risk assessment; monitoring and evaluation plans will be assessed in the full proposals
  
----------
+
  
 ## Project duration
 
 Selected projects may begin their activities in June 2016, with project activity continuing for up to one year, and with a final six-month reporting and evaluation period (ending December 2017). All projects must end by 31 December 2017.
  
----------
+
  
 
 ## Funding

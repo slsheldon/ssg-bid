@@ -1,5 +1,5 @@
 ---
-title: Appel à propositions - Caraïbes 2016
+title: Caraïbes 2016
 category: Appels
 subCategory: Caraïbes
 description: L'appel à propositions de les pays Caraïbes dans le deuxième trimestre de 2016.

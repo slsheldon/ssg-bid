@@ -4,6 +4,8 @@ description: National grants under the BID programme seek to establish or streng
 category: Calls
 subCategory: Africa 2015
 image: //www.gbif.org/sites/default/files/styles/focal_point_for_news/public/gbif_scaled_contents/news/2015-September/82403/Guinea%20Conakry.jpg?itok=HQDch_ir
+imageTitle: Conakry, Guinea. By Jeff Attaway via Flickr. CC BY 2.0
+imageLink: https://www.flickr.com/photos/attawayjl/
 ---
 # National grants
 

@@ -21,7 +21,7 @@ images:
   title: kick off
   link: /license_of_image_if_any
 ```
---------------
+
 
 ## Project stakeholders
 Making biodiversity information more readily available for specific policy-relevant purposes will benefit a large range of stakeholders both within and beyond the project’s regions, among them:
@@ -30,7 +30,7 @@ Making biodiversity information more readily available for specific policy-relev
 
 **Data holders** who serve as the custodians and owners of biodiversity data, including natural history collection curators and scientists, field biologists, scientific researchers, private-sector practitioners and consultants, and citizen scientists
 
--------------
+
 
 ## Key project outcomes
 + Enhanced capacity for effective mobilization and use of biodiversity information

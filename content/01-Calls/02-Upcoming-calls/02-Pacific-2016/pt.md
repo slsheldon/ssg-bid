@@ -1,5 +1,5 @@
 ---
-title: Convite à apresentação de propostas – Pacífico, 2016
+title: Pacífico, 2016
 category: Convites
 subCategory: África
 description: A apresentação de propostas para apoiar os países nas ilhas do Pacífico está prevista para 2016.

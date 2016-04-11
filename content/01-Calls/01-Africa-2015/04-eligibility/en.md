@@ -6,15 +6,12 @@ subCategory: Africa 2015
 ---
 # Eligibility
 
-----------
 In addition to meeting role-dependent location requirements in an [eligible country](eligible-countries), organizations seeking funding through the BID programme must meet both general and grant-specific eligibility requirements outlined below. 
 
-+ [General eligibility criteria](#general)
-+ [Regional grant eligibility](#regional)
-+ [National grant eligibility](#national)
-+ [Small grant eligibility](#small)
+<!-- toc -->
+<!-- tocstop -->
 
-## General eligibility criteria<a name="general"></a>
+## General eligibility criteria
 
 All applications for BID grants must comply with the following general eligibility criteria:
 
@@ -29,7 +26,7 @@ All BID funded activities must be not-for-profit. BID programme funds may be use
 9. Applicants must provide plans to ensure sustainability of activities after project support from BID concludes.
 10. All data mobilized through the BID grants, as well as any other products of the projects, such as training material, must be made available under a [CC-BY license or CC0 license](http://www.gbif.org/newsroom/news/data-licensing-and-endorsement).
 
-## Regional grant eligibility<a name="regional"></a>
+## Regional grant eligibility
 
 In addition to complying with the [general eligibility criteria](#general) above, applications for regional biodiversity data mobilization grants must comply with the following criteria:
 
@@ -44,7 +41,7 @@ In addition to complying with the [general eligibility criteria](#general) above
 6. All projects must include a major component of data mobilization through the GBIF network. It is expected that most BID funding is directed towards data mobilization. As a guideline for the regional grants, the amount of BID funding spent on data mobilization activities should not be less than 60% of the total grant.
 7. BID funds may be used to cover up to 50% of the costs of any IT services or purchases, up to a maximum of €2,500 for each consortium partner located in an African ACP country (see [Annex A, Section 1](http://www.gbif.org/sites/default/files/gbif_project/files/BID-call-for-proposals-Annex-A.pdf)). Receipts will need to be provided in financial reports.
 
-## National grant eligibility<a name="national"></a>
+## National grant eligibility
 
 In addition to complying with the [general eligibility criteria](#general) above, applications for national biodiversity data mobilization grants must comply with the following criteria:
 
@@ -59,7 +56,7 @@ In addition to complying with the [general eligibility criteria](#general) above
 6. All projects must include a major component of data mobilization through the GBIF network. It is expected that most BID funding is directed towards data mobilization. As a guideline for the national grants, the amount of BID funding spent on data mobilization activities should not be less than 60% of the total grant.
 7. BID funds may be used to cover up to 50% of the costs of any IT services or purchases, up to a maximum of €2,500 of any national grant. Receipts will need to be provided in financial reports.
 
-## Small grant eligibility<a name="small"></a>
+## Small grant eligibility
 
 In addition to complying with the [general eligibility criteria](#general) above, applications for small biodiversity data mobilization grants must comply with the following criteria:
 
@@ -70,6 +67,8 @@ In addition to complying with the [general eligibility criteria](#general) above
 3. Projects must involve users of biodiversity data as project partners, such as scientists, policy and decision-makers. These must be representatives of legal entities located in an African ACP country (see [Annex A, Section 1](http://www.gbif.org/sites/default/files/gbif_project/files/BID-call-for-proposals-Annex-A.pdf)). A letter of support for the project must be provided from at least one data user.
 4. All projects must include a major component of data mobilization through the GBIF network. It is expected that most BID funding is directed towards data mobilization. As a guideline for the small grants, the amount of BID funding spent on data mobilization activities should not be less than 60% of the total grant.
 5. BID funds may be used to cover up to 50% of the costs of any IT services or purchases, up to a maximum of €1,000 of any small grant. Receipts will need to be provided in financial reports.
+
+--------
 
 ```styledYaml
 templates:

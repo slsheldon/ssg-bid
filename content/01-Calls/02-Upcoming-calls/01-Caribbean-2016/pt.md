@@ -1,5 +1,5 @@
 ---
-title: Convite à apresentação de propostas - Caraíbas, 2016
+title: Caraíbas, 2016
 category: Convites
 subCategory: Caraíbas
 description: A apresentação de propostas para apoiar os países das Caraíbas está prevista para 2016.

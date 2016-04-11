@@ -7,7 +7,7 @@ description: Institutions from the following countries are eligible to apply for
 
 # Countries eligible for the 2015 call for proposals from Sub-Saharan Africa
 
----
+
 
 ## Countries eligible for the 2015 call for proposals from Sub-Saharan Africa
 
@@ -234,6 +234,8 @@ Institutions from the following non-ACP countries have limited eligibility to ap
 +	New Zealand
 +	Switzerland
 +	United States
+
+--------
 
 ```styledYaml
 templates:

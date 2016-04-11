@@ -4,7 +4,8 @@ category: Appels
 subCategory: Afrique 2015
 description: L'appel à propositions de l'Afrique subsaharienne a fermé le 20 Novembre 2015. GBIF annoncera la sélection des projets en Avril ici 2016.
 image: //www.gbif.org/sites/default/files/styles/focal_point_for_news/public/gbif_scaled_contents/news/2015-November/82567/Virunga_National_Park_DRC.jpg
-imageLicense: Virunga National Park, North Kivu, Democratic Republic of Congo. Photo by Joseph King. CC BY-NC-ND 2.0.
+imageTitle: Virunga National Park, North Kivu, Democratic Republic of Congo. Photo by Joseph King. CC BY-NC-ND 2.0.
+imageLink: https://www.flickr.com/photos/kingjn/
 ---
 # Appel à propositions de projets
 
@@ -23,9 +24,9 @@ Cet appel soutient des projets en Afrique subsaharienne que:
 
 L'appel offre un support pour trois types de subventions
 
-+ [Subventions régionales](regional-grants)
-+ [Subventions nationales](national-grants)
-+ [Petites subventions](small-grants)
++ [Subventions régionales](../regional-grants)
++ [Subventions nationales](../national-grants)
++ [Petites subventions](../small-grants)
 
 Un deuxième et dernier appel à propositions pour soutenir les pays en Afrique sub-saharienne est prévue pour 2017.
 

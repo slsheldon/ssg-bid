@@ -1,5 +1,5 @@
 ---
-title: Appel à propositions – Pacifique, 2016
+title: Pacifique, 2016
 category: Appels
 subCategory: Pacifique
 description: L'appel à propositions de les pays dans les îles du Pacifique dans le deuxième trimestre de 2016.

@@ -3,6 +3,9 @@ title: Subventions nationales
 category: Appels
 subCategory: Afrique 2015
 description: Subventions nationales pour la mobilisation de données sur la biodiversité qui visent à établir ou renforcer un système national d'information sur la biodiversité , à accroître le nombre de données disponibles sur la biodiversité d’un pays et utiliser les données sur la biodiversité pour répondre aux priorités nationales.
+image: //www.gbif.org/sites/default/files/styles/focal_point_for_news/public/gbif_scaled_contents/news/2015-September/82403/Guinea%20Conakry.jpg?itok=HQDch_ir
+imageTitle: Conakry, Guinea. By Jeff Attaway via Flickr. CC BY 2.0
+imageLink: https://www.flickr.com/photos/attawayjl/
 ---
 # Subventions nationales
 

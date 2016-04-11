@@ -4,7 +4,8 @@ category: Convites
 subCategory: África 2015
 description: A apresentação de propostas de sub-saariana encerrada em 20 de novembro de 2015. GBIF irá anunciar seleções do projeto em abril de 2016.
 image: //www.gbif.org/sites/default/files/styles/focal_point_for_news/public/gbif_scaled_contents/news/2015-November/82567/Virunga_National_Park_DRC.jpg
-imageLicense: Virunga National Park, North Kivu, Democratic Republic of Congo. Photo by Joseph King. CC BY-NC-ND 2.0.
+imageTitle: Virunga National Park, North Kivu, Democratic Republic of Congo. Photo by Joseph King. CC BY-NC-ND 2.0.
+imageLink: https://www.flickr.com/photos/kingjn/
 ---
 # Convite à apresentação de propostas
 
@@ -23,9 +24,9 @@ Este convite à apresentação de propostas procura projetos da África Subsaria
 
 A convocação oferece suporte para três tipos de subsídios
 
-+ [Subvenções régionales](regional-grants)
-+ [Subvenções nationales](national-grants)
-+ [Pequenas bolsas](small-grants)
++ [Subvenções régionales](../regional-grants)
++ [Subvenções nationales](../national-grants)
++ [Pequenas bolsas](../small-grants)
 
 A segunda e última apresentação de propostas para apoiar os países na África subsaariana está prevista para 2017.
 
