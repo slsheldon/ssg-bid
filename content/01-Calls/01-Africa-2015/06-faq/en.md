@@ -12,6 +12,8 @@ This regularly updated list of FAQs on the 2015 BID call for proposals from Sub-
 <!-- toc -->
 <!-- tocstop -->
 
+–––––––––––––––––––––––––––
+
 ## On developing full proposals
 
 ### What activities are eligible for funding under the BID programme?
@@ -48,6 +50,8 @@ The BID programme focuses on mobilizing existing biodiversity data, rather than 
 
 National biodiversity data mobilization projects and regional biodiversity data mobilization projects can run for a maximum of 2.5 years, with the final six months reserved for reporting and evaluation. Small biodiversity data mobilization projects can be implemented over a maximum of one year, with an additional six-month reporting and evaluation period.
 
+–––––––––––––––––––––––––––
+
 ## On letters of support
 
 ### Is there a template for letters of support?
@@ -68,6 +72,8 @@ Updated letters of support are not necessary, and letters sent in with the conce
 ### When submitting a proposal for a BID Regional grant, should letters from other project collaborators be included?
 As the *other project collaborators* are not required to contribute funds, no letters of support are required from them. However, including such letters, where possible, will increase the assessors’ confidence in the strength of the project.
 
+–––––––––––––––––––––––––––
+
 ## On developing concept notes
 
 ### Can a single applicant participate in several concept notes submitted to the BID call for proposals?
@@ -83,6 +89,8 @@ Please note that projects funded by small grants have an implementation period o
 Yes, the survey has been extended and is still open. [Surveys may be filled out in English, French or Portuguese](http://www.gbif.org/news/surveys-for-data-holders-decision-makers).
 
 The survey may be filled at any time before submission of the concept note.
+
+–––––––––––––––––––––––––––
 
 ## On forming consortia and partnerships
 
@@ -120,11 +128,15 @@ A country programme of an international organization can participate in a BID gr
 
 In the case of regional biodiversity data mobilization grants, an international organization based in a non-ACP country, listed in Sections 2 and 3 of Annex A, may be a consortium partner.
  
+–––––––––––––––––––––––––––
+
 ## On eligible countries
 
 ### Can institutions and agencies based in non-ACP countries be partners in the consortium applying for BID grants?
 In the case of regional biodiversity data mobilization grants, in addition to the minimum of three consortium partners from eligible African ACP countries, projects may choose to include one consortium partner that is a legal entity located EITHER in one of the eligible countries listed in section 2 of [Annex A](http://www.gbif.org/sites/default/files/gbif_project/files/BID-call-for-proposals-Annex-A.pdf) OR, where other requirements are met, in one of the countries listed in [Annex A](http://www.gbif.org/sites/default/files/gbif_project/files/BID-call-for-proposals-Annex-A.pdf), section 3.
  
+–––––––––––––––––––––––––––
+
 ## On future calls for proposals
 
 ### Will there be a second call for BID proposals from Africa?
