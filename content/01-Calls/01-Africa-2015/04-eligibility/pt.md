@@ -16,6 +16,8 @@ Além de atender a requisitos de localização dependente de papel em um [país 
 + [Critérios de elegibilidade para as subvenções nacionais](#nacionais)
 + [Critérios de elegibilidade para as pequenas bolsas](#pequenas)
 
+-----------------------
+
 ## Critérios gerais de elegibilidade<a name="gerais"></a>
 
 Todas as candidaturas a subvenções do programa BID devem cumprir os critérios de elegibilidade geral seguintes:
@@ -29,6 +31,8 @@ Todas as candidaturas a subvenções do programa BID devem cumprir os critérios
 8. Todas as atividades de projeto propostas devem enquadrar-se nos períodos de implementação indicados para cada tipo de subvenção.
 9. Os candidatos devem fornecer planos para assegurar a sustentabilidade das atividades após terminar o apoio ao projeto por parte do programa BID.
 10. Todos os dados mobilizados através das subvenções do programa BID, bem como quaisquer outros produtos dos projetos, tais como material de formação, devem ser disponibilizados sob uma [licença CC-BY ou CC0](http://www.gbif.org/newsroom/news/data-licensing-and-endorsement).
+
+-----------------------
 
 ## Critérios de elegibilidade para as subvenções regionais<a name="regionais"></a>
 
@@ -44,6 +48,8 @@ Além de cumprir com os [critérios gerais de elegibilidade](#gerais) acima, as 
 5. Todos os projetos devem incluir um componente principal de mobilização de dados, através da rede GBIF. Espera-se que a maior parte do financiamento do programa BID seja direcionada para a mobilização de dados. Como diretriz para as subvenções regionais, a proporção de financiamento do programa BID gasta em atividades de mobilização de dados não deve ser inferior a 60% da subvenção total.
 6. Os fundos do programa BID podem ser utilizados para cobrir até 50% dos custos de quaisquer serviços ou compras de TI até, no máximo, €2.500 por cada parceiro do consórcio localizado numa nação "ACP" africana (Consultar o [Anexo A, Secção 1](http://www.gbif.org/sites/default/files/gbif_project/files/BID-call-for-proposals-Annex-A.pdf)). Os recibos terão de ser facultados nos relatórios financeiros.
 
+-----------------------
+
 ## Critérios de elegibilidade para as subvenções nacionais<a name="nacionais"></a>
 
 Além de cumprir com os [critérios gerais de elegibilidade](#gerais) acima, as candidaturas a subvenções nacionais de mobilização de dados de biodiversidade devem cumprir os critérios seguintes:
@@ -57,6 +63,8 @@ Além de cumprir com os [critérios gerais de elegibilidade](#gerais) acima, as 
 5. Todos os parceiros do projeto confirmados devem receber uma cópia, aquando do envio das notas concetuais e propostas completas. As cartas de apoio de parceiros do projeto confirmados devem ser incluídas no envio de candidaturas de projeto, como anexos de e-mail.
 6. Todos os projetos devem incluir um componente principal de mobilização de dados, através da rede GBIF. Espera-se que a maior parte do financiamento do programa BID seja direcionada para a mobilização de dados. Como diretriz para as subvenções nacionais, a proporção de financiamento do programa BID gasta em atividades de mobilização de dados não deve ser inferior a 60% da subvenção total.
 7. Os fundos do programa BID podem ser utilizados para cobrir até 50% dos custos de quaisquer serviços ou compras de TI até, no máximo, €2.500 de qualquer subvenção nacional. Os recibos terão de ser facultados nos relatórios financeiros.
+
+-----------------------
 
 ## Critérios de elegibilidade para as pequenas bolsas<a name="pequenas"></a>
 
