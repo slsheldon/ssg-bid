@@ -11,7 +11,8 @@ _Sub-Saharan Africa, 2015 (closed)_
 **Note: This call for proposals is closed**
 
 Regional grants under the BID programme seek to establish or strengthen international collaborations that increase biodiversity data mobilization.
------
+
+----------------------
 ## Submission procedure
 
 The deadline for submitting initial concept notes from sub-Saharan Africa was 20 November 2015. GBIF and the BID evaluation panel have provided feedback and recommendations to applicants invited to prepare full proposals.
