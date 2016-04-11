@@ -1,7 +1,7 @@
 ---
 title: Subvenções regionais
-category: Appels
-subCategory: Afrique 2015
+category: Convites
+subCategory: África 2015
 description: Subvenções regionais no âmbito do programa BID procuram estabelecer ou reforçar as colaborações internacionais para aumentar os dados de biodiversidade relevantes para prioridades de conservação da biodiversidade.
 ---
 
@@ -44,8 +44,8 @@ O programa geral de BID tem como alvo dois resultados principais:
 
 + [BID Regional Grant Proposal template](http://www.gbif.org/sites/default/files/gbif_project/files/BID-Regional-Grant-Proposal-Template.doc) (*em inglês*)
 + [Premiera convite à apresentação de propostas de África 2015](http://www.gbif.org/sites/default/files/gbif_project/files/Convite_a_apresentacao_de_propostas_de_Africa_2015_0.pdf)
-+ [Convite à apresentação de propostas de África do programa BID 2015 Anexo A](http://www.gbif.org/sites/default/files/gbif_project/files/Convite_a_apresentacao_de_propostas_de_Africa_do_programa_BID_2015_Anexo_A_0.pdf) 
-+ [Africa Rising: Mobilizando Dados de Biodiversidade para o Desenvolvimento Sustentável](http://www.gbif.org/sites/default/files/gbif_event/files/AfricaRising-Declaration-PT.pdf)
++ [Convite à apresentação de propostas de África do programa BID 2015 Anexo A](http://www.gbif.org/sites/default/files/gbif_project/files/Convite_a_apresentacao_de_propostas_de_Africa_do_programa_BID_2015_Anexo_A_0.pdf) 
++ [Africa Rising: Mobilizando Dados de Biodiversidade para o Desenvolvimento Sustentável](http://www.gbif.org/sites/default/files/gbif_event/files/AfricaRising-Declaration-PT.pdf)
 
 
 
