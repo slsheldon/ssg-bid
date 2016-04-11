@@ -1,4 +1,4 @@
 ---
-title: About
+title: Sobre
 type: menu only
 ---
