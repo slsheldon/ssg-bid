@@ -14,6 +14,7 @@ _Sub-Saharan Africa, 2015 (closed)_
 **Note: This call for proposals is closed**
 
 National grants under the BID programme seek to establish or strengthen national biodiversity information facilities and to increase the biodiversity data available about the country to respond to national priorities.
+
 -----------
 
 ## Submission procedure
