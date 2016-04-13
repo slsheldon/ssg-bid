@@ -15,7 +15,7 @@ GBIF espera emitir um convite à apresentação de propostas para o [países ACP
 
 ```styledYaml
 templates:
-- path: signup/signup_en.html
+- path: signup/signup_pt.html
 ```
 
 ------

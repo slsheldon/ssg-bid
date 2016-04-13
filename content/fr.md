@@ -18,7 +18,7 @@ GBIF lancera des appels à propositions dans les îles des Caraïbes et du Pacif
 
 ```styledYaml
 templates:
-- path: signup/signup_en.html
+- path: signup/signup_fr.html
 ```
 
 -----------------

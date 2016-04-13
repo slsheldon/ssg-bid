@@ -34,7 +34,7 @@ Un deuxième et dernier appel à propositions pour soutenir les pays en Afrique 
 
 ```styledYaml
 templates:
-- path: signup/signup_en.html
+- path: signup/signup_fr.html
 ```
 
 ------

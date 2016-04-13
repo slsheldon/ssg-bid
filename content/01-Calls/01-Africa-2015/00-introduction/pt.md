@@ -34,7 +34,7 @@ A segunda e última apresentação de propostas para apoiar os países na Áfric
 
 ```styledYaml
 templates:
-- path: signup/signup_en.html
+- path: signup/signup_pt.html
 ```
 
 ------

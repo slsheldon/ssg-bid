@@ -15,7 +15,7 @@ GBIF prévoit publier un appel à propositions pour les [pays ACP des Caraïbes]
 
 ```styledYaml
 templates:
-- path: signup/signup_en.html
+- path: signup/signup_fr.html
 ```
 
 ------
