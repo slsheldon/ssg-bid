@@ -12,7 +12,7 @@ subCategory: Africa 2015
 
 Grantees funded through this call will be able to access reporting templates and other key project documents here.
 
-## Funded project
+## Funded projects
 
 GBIF will maintain information about projects funded under this call—including interim and final reports— on the main GBIF website [here](http://gbif.org/bid).
 
