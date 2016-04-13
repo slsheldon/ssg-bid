@@ -6,7 +6,7 @@ subCategory: África 2015
 ---
 # Elegibilidade
 
-Além de atender a requisitos de localização dependente de papel em um [país elegível](eligible-countries), as organizações que procuram financiamento através do programa BID deve satisfazer os requisitos gerais e específicos de concessão de elegibilidade descritos abaixo. 
+Além de atender a requisitos de localização dependente de papel em um [país elegível](/calls/africa-2015/eligible-countries), as organizações que procuram financiamento através do programa BID deve satisfazer os requisitos gerais e específicos de concessão de elegibilidade descritos abaixo. 
 
 <!-- toc -->
 <!-- tocstop -->
