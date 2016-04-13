@@ -72,3 +72,9 @@ En plus de se conformer aux critères généraux d'éligibilité au-dessus, les 
 3. Les projets doivent inviter les utilisateurs de données sur la biodiversité, tels que des scientifiques, des dirigeants et des décideurs, à devenir partenaires du projet. Ceux-ci doivent être des entités juridiques résidant dans un pays ACP africain (voir [Annexe A, section 1](http://www.gbif.org/sites/default/files/gbif_project/files/BID-call-for-proposals-Annex-A.pdf)). Au moins un utilisateur des données doit fournir une lettre de soutien au projet.
 4. Tous les projets doivent comprendre un important élément de mobilisation de données via le réseau GBIF. La plus grande partie de la subvention BID doit être utilisée pour la mobilisation des données. À titre indicatif pour les petites subventions, le montant du financement BID dépensé dans des activités de mobilisation des données ne doit pas être inférieur à 60 % de la subvention totale.
 5. Les subventions BID peuvent être utilisées pour le financement de jusqu’à 50 % des coûts des services ou achats informatiques, pour un montant maximum de 1000 € de n'importe quelle petite subvention. Il sera nécessaire de fournir des justificatifs de ces dépenses dans les rapports financiers.
+
+---------
+```styledYaml
+templates:
+- path: eufund_fr.html
+```

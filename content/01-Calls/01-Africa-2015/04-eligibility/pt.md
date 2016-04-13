@@ -71,3 +71,9 @@ Além de cumprir com os critérios gerais de elegibilidade acima, as candidatura
 13	Os projetos devem envolver utilizadores de dados de biodiversidade como parceiros do projeto, tais como cientistas, legisladores e decisores. Estes devem ser representantes de entidades jurídicas localizadas numa nação "ACP" africana (Consultar o [Anexo A](http://www.gbif.org/sites/default/files/gbif_project/files/BID-call-for-proposals-Annex-A.pdf)). Deve ser facultada uma carta de apoio ao projeto por, no mínimo, um utilizador de dados.
 14	Todos os projetos devem incluir um componente principal de mobilização de dados, através da rede GBIF. Espera-se que a maior parte do financiamento do programa BID seja direcionada para a mobilização de dados. Como diretriz para as pequenas bolsas, a proporção de financiamento do programa BID gasta em atividades de mobilização de dados não deve ser inferior a 60% da subvenção total.
 15	Os fundos do programa BID podem ser utilizados para cobrir até 50% dos custos de quaisquer serviços ou compras de TI até, no máximo, €1.000 de qualquer pequena bolsa. Os recibos terão de ser facultados nos relatórios financeiros
+
+---------
+```styledYaml
+templates:
+- path: eufund_pt.html
+```

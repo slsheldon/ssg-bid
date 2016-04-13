@@ -22,19 +22,21 @@ templates:
 ```
 
 
+-----------------
+
 Latest news
 -------------------
 
 ```styledYaml
-rss:
-- url: http://www.gbif.org/newsroom/news/json/bid/pt
+templates:
+- path: rss/rss_en.html
+  url: http://www.gbif.org/newsroom/news/json/bid/pt
 ```
 
+-------
 
-
-------
 
 ```styledYaml
-html:
+templates:
 - path: eufund_pt.html
 ```
