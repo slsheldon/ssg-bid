@@ -1,7 +1,7 @@
 ---
 title: Eligible Countries
 category: Calls
-subcategory: Africa
+subCategory: Africa 2015
 description: Institutions from the following countries are eligible to apply for funds or participate in specific roles under the 2015 call for proposals from Sub-Saharan Africa, provided that they meet other requirements.
 ---
 
