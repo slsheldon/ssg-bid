@@ -11,7 +11,7 @@ imageLink: https://www.flickr.com/photos/attawayjl/
 
 _Afrique subsaharienne, 2015_
 
-** NOTE: Cet appel à propositions est maintenant fermé ** 
+** NOTE: Cet appel à propositions est maintenant terminé ** 
 
 Subventions nationales pour la mobilisation de données sur la biodiversité qui visent à établir ou renforcer un système national d'information sur la biodiversité , à accroître le nombre de données disponibles sur la biodiversité d’un pays et utiliser les données sur la biodiversité pour répondre aux priorités nationales. 
 
