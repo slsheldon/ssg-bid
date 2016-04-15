@@ -11,11 +11,11 @@ imageLink: https://www.flickr.com/photos/kingjn/
 
 _Afrique subsaharienne, 2015_
 
-** NOTE: Cet appel est maintenant fermé ** 
+** NOTE: Cet appel est maintenant terminé ** 
 
-La date limite pour les notes conceptuelles initiales de l'Afrique subsaharienne était le 20 novembre 2015. Le GBIF et la commission d'évaluation a invité un certain nombre de candidats à soumettre des propositions complètes en Février 2016 et attendent d'annoncer la sélection des projets en Avril ici 2016.
+La date limite pour la soumission de notes conceptuelles de l'Afrique subsaharienne était le 20 novembre 2015. Le GBIF et la commission d'évaluation ont invité un certain nombre de candidats à soumettre des propositions complètes en Février 2016 et attendent d'annoncer la sélection des projets en Avril 2016.
 
-Cet appel soutient des projets en Afrique subsaharienne que:
+Cet appel soutient des projets en Afrique subsaharienne pour:
 
 + Mobiliser des données sur la biodiversité liées aux zones protégées, aux espèces menacées et aux espèces exotiques envahissantes
 + Utiliser et élargir les meilleures pratiques de numérisation des collections d'histoire naturelle et de mobilisation des données sur la biodiversité
