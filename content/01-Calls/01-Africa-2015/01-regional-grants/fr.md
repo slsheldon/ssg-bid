@@ -8,9 +8,9 @@ description: Subventions régionales dans le programme BID cherchent à établir
 
 _Afrique subsaharienne, 2015_
 
-**NOTE: Cet appel est maintenant fermé** 
+**NOTE: Cet appel est maintenant terminé** 
 
-Subventions régionales dans le programme BID cherchent à établir ou à renforcer des collaborations internationales qui augmentent la mobilisation des données sur la biodiversité.
+Les subventions régionales dans le programme BID cherchent à établir ou à renforcer des collaborations internationales qui augmentent la mobilisation des données sur la biodiversité.
 
 -----------
 
