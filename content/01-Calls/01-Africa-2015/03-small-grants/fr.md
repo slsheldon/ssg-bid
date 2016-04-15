@@ -9,15 +9,15 @@ description: Petites subventions dans le programme BID cherchent à accroître l
 
 _Afrique subsaharienne, 2015_
 
-** NOTE: Cet appel est maintenant fermé ** 
+** NOTE: Cet appel est maintenant terminé ** 
 
-Petites subventions dans le programme BID cherchent à accroître les données sur la biodiversité pour répondre aux priorités en matière de conservation.
+Les petites subventions dans le programme BID cherchent à accroître les données sur la biodiversité pour répondre aux priorités en matière de conservation.
 
 -----------------------
 
 ## Procédure de soumission
 
-**NOTE: Cet appel à propositions est maintenant fermé** 
+**NOTE: Cet appel à propositions est maintenant terminé** 
 
 La date limite pour les propositions d'Afrique subsaharienne était de 20 Novembre 2015. Le GBIF et le commission d'évaluation ont fourni des commentaires et des recommandations aux candidats invités à préparer des propositions complètes. 
 
