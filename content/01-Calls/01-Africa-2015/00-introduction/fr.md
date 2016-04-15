@@ -13,7 +13,7 @@ _Afrique subsaharienne, 2015_
 
 ** NOTE: Cet appel est maintenant terminé ** 
 
-La date limite pour la soumission de notes conceptuelles de l'Afrique subsaharienne était le 20 novembre 2015. Le GBIF et la commission d'évaluation ont invité un certain nombre de candidats à soumettre des propositions complètes en Février 2016 et attendent d'annoncer la sélection des projets en Avril 2016.
+La date limite pour la soumission de notes conceptuelles d'Afrique subsaharienne était le 20 novembre 2015. Le GBIF et la commission d'évaluation ont invité un certain nombre de candidats à soumettre des propositions complètes en Février 2016 et attendent d'annoncer la sélection des projets en Avril 2016.
 
 Cet appel soutient des projets en Afrique subsaharienne pour:
 
