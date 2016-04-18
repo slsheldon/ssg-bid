@@ -53,5 +53,5 @@ templates:
 
 ```styledYaml
 templates:
-- path: eufund.html
+- path: eufund_fr.html
 ```

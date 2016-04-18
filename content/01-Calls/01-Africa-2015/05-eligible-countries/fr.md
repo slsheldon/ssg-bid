@@ -239,5 +239,5 @@ Institutions des pays non-ACP suivants ont limité l'admissibilité à demander 
 
 ```styledYaml
 templates:
-- path: eufund.html
+- path: eufund_fr.html
 ```
