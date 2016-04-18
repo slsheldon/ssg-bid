@@ -133,8 +133,8 @@ Institutions des pays suivants non-ACP sont éligibles appliquent pour les fonds
 + Îles Vierges britanniques
 + Iran
 + Irak
-+ Irlande
-+ Islande
++ [Irlande](http://www.gbif.org/country/IE/participation)
++ [Islande](http://www.gbif.org/country/IS/participation)
 + Italie
 + Jamaïque
 + Jordanie

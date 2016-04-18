@@ -21,33 +21,33 @@ description: Institutions from the following countries are eligible to apply for
 Institutions from the following ACP countries in Africa are eligible to apply for funds under the BID programme, provided that they meet other [eligibility requirements](../eligibility).
 
 + Angola
-+ Benin
++ [Benin](http://www.gbif.org/country/BJ/participation)
 + Botswana
 + Burkina Faso
 + Burundi
 + Cameroon
 + Cape Verde
-+ Central African Republic
++ [Central African Republic](http://www.gbif.org/country/CF/participation)
 + Chad
 + Comoros
-+ Congo, Democratic Republic of
-+ Congo, Republic of the
++ [Congo, Democratic Republic of](http://www.gbif.org/country/CD/participation)
++ [Congo, Republic of the](http://www.gbif.org/country/CG/participation)
 + Côte d'Ivoire
 + Djibouti
 + Equatorial Guinea
 + Eritrea
 + Ethiopia
 + Gabon
-+ Ghana
-+ Guinea
++ [Ghana](http://www.gbif.org/country/GH/participation)
++ [Guinea](http://www.gbif.org/country/GN/participation)
 + Guinea-Bissau
-+ Kenya
++ [Kenya](http://www.gbif.org/country/KY/participation)
 + Lesotho
 + Liberia
-+ Madagascar
-+ Malawi
++ [Madagascar](http://www.gbif.org/country/MG/participation)
++ [Malawi](http://www.gbif.org/country/MW/participation)
 + Mali
-+ Mauritania
++ [Mauritania](http://www.gbif.org/country/MR/participation)
 + Mauritius
 + Mozambique
 + Namibia
@@ -62,10 +62,10 @@ Institutions from the following ACP countries in Africa are eligible to apply fo
 + South Sudan
 + Sudan
 + Swaziland
-+ Tanzania
++ [Tanzania](http://www.gbif.org/country/TZ/participation)
 + The Gambia
-+ Togo
-+ Uganda
++ [Togo](http://www.gbif.org/country/TG/participation)
++ [Uganda](http://www.gbif.org/country/UG/participation)
 + Zambia
 + Zimbabwe
 
@@ -80,11 +80,11 @@ Institutions from the following non-ACP countries are eligible apply for funds f
 + Antigua and Barbuda
 + Armenia
 + Aruba
-+ Austria
++ [Austria](http://www.gbif.org/country/AT/participation)
 + Azerbaijan
 + Bangladesh
 + Belarus
-+ Belgium
++ [Belgium](http://www.gbif.org/country/BE/participation)
 + Belize
 + Bermuda
 + Bhutan
@@ -97,30 +97,30 @@ Institutions from the following non-ACP countries are eligible apply for funds f
 + Bulgaria
 + Cambodia
 + Cayman Islands
-+ Chile
-+ Colombia
++ [Chile](http://www.gbif.org/country/CL/participation)
++ [Colombia](http://www.gbif.org/country/CO/participation)
 + Cook Islands
-+ Costa Rica
++ [Costa Rica](http://www.gbif.org/country/CR/participation)
 + Croatia
 + Cuba
 + Curacao
 + Cyprus
 + Czech Republic
-+ Denmark
++ [Denmark](http://www.gbif.org/country/DK/participation)
 + Dominica
 + Dominican Republic
 + Ecuador
 + Egypt 
 + El Salvador
-+ Estonia
++ [Estonia](http://www.gbif.org/country/EE/participation)
 + Falkland Islands
 + Fiji
-+ Finland
-+ France
++ [Finland](http://www.gbif.org/country/FI/participation)
++ [France](http://www.gbif.org/country/FR/participation)
 + French Polynesia
 + French Southern and Antarctic Territories
 + Georgia
-+ Germany
++ [Germany](http://www.gbif.org/country/DE/participation)
 + Greece
 + Greenland
 + Grenada
@@ -129,10 +129,10 @@ Institutions from the following non-ACP countries are eligible apply for funds f
 + Haiti
 + Honduras
 + Hungary
-+ Iceland
++ [Iceland](http://www.gbif.org/country/IS/participation)
 + Iran
 + Iraq
-+ Ireland
++ [Ireland](http://www.gbif.org/country/IE/participation)
 + Italy
 + Jamaica
 + Jordan
@@ -147,7 +147,7 @@ Institutions from the following non-ACP countries are eligible apply for funds f
 + Libya
 + Lichtenstein
 + Lithuania
-+ Luxembourg
++ [Luxembourg](http://www.gbif.org/country/LU/participation)
 + Macedonia, The former Yugoslav Republic of 
 + Malaysia
 + Maldives
@@ -163,22 +163,22 @@ Institutions from the following non-ACP countries are eligible apply for funds f
 + Myanmar
 + Nauru
 + Nepal
-+ Netherlands
++ [Netherlands](http://www.gbif.org/country/NL/participation)
 + Netherlands Antilles
 + New Caledonia and Dependencies
 + Nicaragua
 + Niue
-+ Norway
-+ Pakistan
++ [Norway](http://www.gbif.org/country/NO/participation)
++ [Pakistan](http://www.gbif.org/country/PK/participation)
 + Palau
 + Panama
 + Papua New Guinea
 + Paraguay
-+ Peru
-+ Philippines
++ [Peru](http://www.gbif.org/country/PE/participation)
++ [Philippines](http://www.gbif.org/country/PH/participation)
 + Pitcairn
-+ Poland
-+ Portugal
++ [Poland](http://www.gbif.org/country/PO/participation)
++ [Portugal](http://www.gbif.org/country/PT/participation)
 + Romania
 + Saba
 + Saint Helena and Dependencies
@@ -190,15 +190,15 @@ Institutions from the following non-ACP countries are eligible apply for funds f
 + Serbia
 + Sint Eustatius
 + Sint Maarten
-+ Slovakia
-+ Slovenia
++ [Slovakia](http://www.gbif.org/country/SK/participation)
++ [Slovenia](http://www.gbif.org/country/SI/participation)
 + Solomon Islands
-+ South Africa
++ [South Africa](http://www.gbif.org/country/ZA/participation)
 + South Georgia and the South Sandwich Islands
-+ Spain
++ [Spain](http://www.gbif.org/country/ES/participation)
 + Sri Lanka
 + Suriname
-+ Sweden
++ [Sweden](http://www.gbif.org/country/SE/participation)
 + Syria
 + Tajikistan
 + Thailand
@@ -211,8 +211,8 @@ Institutions from the following non-ACP countries are eligible apply for funds f
 + Turks and the Caicos Islands
 + Tuvalu
 + Ukraine
-+ United Kingdom
-+ Uruguay
++ [United Kingdom](http://www.gbif.org/country/GB/participation)
++ [Uruguay](http://www.gbif.org/country/UY/participation)
 + Uzbekistan
 + Vanuatu
 + Venezuela
@@ -225,15 +225,15 @@ Institutions from the following non-ACP countries are eligible apply for funds f
 
 Institutions from the following non-ACP countries have limited eligibility to apply for funds from the BID programme as part of a [regional partnership](../eligibility#regional), provided that they meet other [eligibility requirements](../eligibility). Please contact [bid@gbif.org](mailto:bid@gbif.org) for details.
 
-+	Australia
-+	Canada
-+	Israel
-+	Japan
-+	Korea, Republic of
-+	Mexico
-+	New Zealand
-+	Switzerland
-+	United States
++ [Australia](http://www.gbif.org/country/AU/participation)
++ [Canada](http://www.gbif.org/country/CA/participation)
++ [Israel](http://www.gbif.org/country/IL/participation)
++ [Japan](http://www.gbif.org/country/JP/participation)
++ [Korea, Republic of](http://www.gbif.org/country/KR/participation)
++ [Mexico](http://www.gbif.org/country/MX/participation)
++ [New Zealand](http://www.gbif.org/country/NZ/participation)
++ [Switzerland](http://www.gbif.org/country/CH/participation)
++ [United States](http://www.gbif.org/country/US/participation)
 
 --------
 
