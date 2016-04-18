@@ -1,5 +1,5 @@
 ---
-title: Contactez nous
+title: Contactez-nous
 category: À propos
 description: Si vous ne trouvez pas l'information que vous cherchez, s'il vous plaît nous contacter.
 ---
