@@ -6,7 +6,7 @@ description: Si vous ne trouvez pas l'information que vous cherchez, s'il vous p
 
 # Contactez nous
 
-Nous sommes là pour vous aider. Si vous ne trouvez pas l'information que vous cherchez, ne pas hésiter à email nous à [bid@gbif.org](mailto:bid@gbif.org).
+Nous sommes à votre écoute pour vous aider. Si vous ne trouvez pas l'information que vous cherchez, n'hésitez pas à nous contacter par e-mail à [bid@gbif.org](mailto:bid@gbif.org).
 
 ____
 
