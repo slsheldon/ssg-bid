@@ -34,7 +34,15 @@ Institutions are welcome to streamline the self-assessment into their own monito
 
 ## Communications and visibility guidelines
 
-Under the terms of the original EU grant, all communications from BID-funded projects must fulfill the terms outlined in Annex II, Articles 6.2, 6.3 and 6.4. 
+To meet the terms of the original grant, all communications related to BID-funded projects must include the following acknowledgement: 
+
+> This project is funded by the [European Union](http://europa.eu).
+
+Where feasible, the acknowledgment should include a link to **http:/europa.eu**. 
+
+### Communications-related downloads
++ [BID logos](http://#)
++ [EU logos]()
 
 ## Financial reporting
 
