@@ -1,20 +1,44 @@
 ---
 title: Grantees
-description: Information for and about projects funded through the 2015 call for proposals in sub-Saharan Africa.
+description: Information for projects funded through the 2015 call for proposals in sub-Saharan Africa.
 category: Calls
 subCategory: Africa 2015
 ---
 
 # Grantees
 
-----------
+__[see all BID-funded projects](http://gbif.org/bid)__
+
+___
+
+<!-- toc -->
+<!-- tocstop -->
+
+-----------------------
+
 ## Key documents for grantees
 
 Grantees funded through this call will be able to access reporting templates and other key project documents here.
 
-## Funded projects
+### Instructions: Self-assessment for data-holding institutions
 
-GBIF will maintain information about projects funded under this call—including interim and final reports— on the main GBIF website [here](http://gbif.org/bid).
+Grantees from the BID programme are expected to carry out a self-assessment on their institutional data holdings to help them develop their capacity to mobilize, manage and share data. The [self-assessment questionnaire](http://#) is designed to be a simple tool that grantees can complete with minimal effort. 
+
+Grantees should complete the self-assessment at least three times during their project
+
+1. Within three months of the start of the project
+2. At the project’s midterm
+3. At the end of the project—preferably prior to submitting the final project report, since the assessment can provide some data for the project narrative. 
+
+Institutions are welcome to streamline the self-assessment into their own monitoring and assessment processes. In addition, grantees can increase the frequency of the assessment to monitor progress and establish whether an institution's capacity is improving, deteriorating or is being maintained at a desirable level in a timely manner. This approach may be especially useful in gauging the longer term impact of a BID-funded  project if a self-assessment is also carried out, for example, in six months or one year after its conclusion. 
+
+## Communications and visibility guidelines
+
+Under the terms of the original EU grant, all communications from BID-funded projects must fulfill the terms outlined in Annex II, Articles 6.2, 6.3 and 6.4. 
+
+## Financial reporting
+
+Templates and other information for reporting on BID-funded activities
 
 ----------
 

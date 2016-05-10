@@ -10,9 +10,9 @@ BID: Informação sobre Biodiversidade para o Desenvolvimento
 
 Financiado pela [União Europeia](http://europa.eu) e liderado pelo [GBIF](http://gbif.org)—o Global Biodiversity Information Facility—, o BID: Informação sobre Biodiversidade para o Desenvolvimento é um programa pluri-anual para aumentar a disponibilidade e uso de informação sobre biodiversidade para a investigação científica e tomada de decisão nas [nações ‘ACP’ da África Subsariana, Caraíbas e Pacífico](https://ec.europa.eu/europeaid/regions/african-caribbean-and-pacific-acp-region_en).
 
-GBIF irá anunciar a selecção dos projectos a partir da primeira convite à apresentação de propostas de sub-saariana em abril de 2016.
+Projectos financiados para a África sub-saariana foram selecionados, eo Secretariado do GBIF irá anunciar os ganhadores em junho de 2016.
 
-GBIF irá emitir apresentação de propostas de países «ACP» nas ilhas Caraíbas e do Pacífico, durante 2016, com uma segunda e última convite para os países da África ACP planejado em 2017.
+GBIF irá emitir apresentação de propostas de países «ACP» nas ilhas Caraíbas e do Pacífico mais tarde, em 2016, e uma segunda e última convite para os países da África ACP deve seguir em 2017.
 
 -----------------
 
