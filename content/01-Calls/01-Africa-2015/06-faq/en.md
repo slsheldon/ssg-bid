@@ -72,7 +72,7 @@ Updated letters of support are not necessary, and letters sent in with the conce
 ### When submitting a proposal for a BID Regional grant, should letters from other project collaborators be included?
 As the *other project collaborators* are not required to contribute funds, no letters of support are required from them. However, including such letters, where possible, will increase the assessors’ confidence in the strength of the project.
 
-–––––––––––––––––––––––––––
+----------
 
 ## On developing concept notes
 
