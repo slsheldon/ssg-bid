@@ -90,7 +90,7 @@ Yes, the survey has been extended and is still open. [Surveys may be filled out 
 
 The survey may be filled at any time before submission of the concept note.
 
-–––––––––––––––––––––––––––
+------------
 
 ## On forming consortia and partnerships
 
