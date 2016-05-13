@@ -9,10 +9,8 @@ subCategory: Africa 2015
 
 This regularly updated list of FAQs on the 2015 BID call for proposals from Sub-Saharan AFrica includes responses to questions sent to [bid@gbif.org](mailto:bid@gbif.org).
 
-<!-- toc -->
-<!-- tocstop -->
 
-–––––––––––––––––––––––––––
+-----------------------
 
 ## On developing full proposals
 
@@ -50,7 +48,7 @@ The BID programme focuses on mobilizing existing biodiversity data, rather than 
 
 National biodiversity data mobilization projects and regional biodiversity data mobilization projects can run for a maximum of 2.5 years, with the final six months reserved for reporting and evaluation. Small biodiversity data mobilization projects can be implemented over a maximum of one year, with an additional six-month reporting and evaluation period.
 
-–––––––––––––––––––––––––––
+-----------------------
 
 ## On letters of support
 
@@ -72,7 +70,7 @@ Updated letters of support are not necessary, and letters sent in with the conce
 ### When submitting a proposal for a BID Regional grant, should letters from other project collaborators be included?
 As the *other project collaborators* are not required to contribute funds, no letters of support are required from them. However, including such letters, where possible, will increase the assessors’ confidence in the strength of the project.
 
-–––––––––––––––––––––––––––
+-----------------------
 
 ## On developing concept notes
 
