@@ -10,7 +10,7 @@ subCategory: Africa 2015
 This regularly updated list of FAQs on the 2015 BID call for proposals from Sub-Saharan AFrica includes responses to questions sent to [bid@gbif.org](mailto:bid@gbif.org).
 
  <!-- toc -->
-  <!-- tocstop -->
+ <!-- tocstop -->
   
 -----------------------
 
