@@ -88,7 +88,7 @@ Yes, the survey has been extended and is still open. [Surveys may be filled out 
 
 The survey may be filled at any time before submission of the concept note.
 
-–––––––––––––––––––––––––––
+-----------------------
 
 ## On forming consortia and partnerships
 
@@ -126,28 +126,28 @@ A country programme of an international organization can participate in a BID gr
 
 In the case of regional biodiversity data mobilization grants, an international organization based in a non-ACP country, listed in Sections 2 and 3 of Annex A, may be a consortium partner.
  
-–––––––––––––––––––––––––––
+-----------------------
 
 ## On eligible countries
 
 ### Can institutions and agencies based in non-ACP countries be partners in the consortium applying for BID grants?
 In the case of regional biodiversity data mobilization grants, in addition to the minimum of three consortium partners from eligible African ACP countries, projects may choose to include one consortium partner that is a legal entity located EITHER in one of the eligible countries listed in section 2 of [Annex A](http://www.gbif.org/sites/default/files/gbif_project/files/BID-call-for-proposals-Annex-A.pdf) OR, where other requirements are met, in one of the countries listed in [Annex A](http://www.gbif.org/sites/default/files/gbif_project/files/BID-call-for-proposals-Annex-A.pdf), section 3.
  
-–––––––––––––––––––––––––––
+-----------------------
 
 ## On future calls for proposals
 
 ### Will there be a second call for BID proposals from Africa?
 A second call for proposals for Africa is expected in 2017. Please sign up for email alerts below.
 
------------------
+-----------------------
 
 ```styledYaml
 templates:
 - path: signup/signup_en.html
 ```
 
----------
+-----------------------
 
 
 ```styledYaml
