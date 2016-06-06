@@ -22,7 +22,7 @@ Grantees funded through this call will be able to access reporting templates and
 
 ### Instructions: Self-assessment for data-holding institutions
 
-Grantees from the BID programme are expected to carry out a self-assessment on their institutional data holdings to help them develop their capacity to mobilize, manage and share data. The [self-assessment questionnaire](http://#) is designed to be a simple tool that grantees can complete with minimal effort. 
+Grantees from the BID programme are expected to carry out a self-assessment on their institutional data holdings to help them develop their capacity to mobilize, manage and share data. The [self-assessment questionnaire](http://www.gbif.org/resource/82277) (also available [in French](http://www.gbif.org/resource/82782)) is designed to be a simple tool that grantees can complete with minimal effort. 
 
 Grantees should complete the self-assessment at least three times during their project
 
