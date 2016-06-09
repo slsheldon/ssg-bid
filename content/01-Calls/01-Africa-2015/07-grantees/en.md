@@ -28,7 +28,7 @@ Grantees from the BID programme are expected to carry out self-assessments to as
 
 **Recipients of small and regional grants** should complete the [capacity self-assessment for data holding institutions](http://www.gbif.org/resource/82785) (French translation to follow soon). 
 
-Grantees should complete the appropriate self-assessment at least three times during their project:
+Grantees should complete the appropriate self-assessment at least twice during their project:
 
 1. At the start of the project—to set a baseline and inform the design of the BID capacity enhancement workshops.
 2. At the end of the project—preferably prior to submitting the final project report, since the assessment can provide some data for the project narrative. 
