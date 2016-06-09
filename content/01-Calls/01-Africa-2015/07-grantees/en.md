@@ -22,7 +22,7 @@ Grantees funded through this call will be able to access reporting templates and
 
 ### Instructions: Self-assessment for data-holding institutions
 
-Grantees from the BID programme are expected to carry out a self-assessment on their institutional data holdings to help them develop their capacity to mobilize, manage and share data. 
+Grantees from the BID programme are expected to carry out self-assessments to assist with planning and monitoring progress.
 
 **Recipients of national grants** should complete the [capacity self-assessment for national biodiversity information facilities](http://www.gbif.org/resource/82277) (also available [in French](http://www.gbif.org/resource/82782)). 
 
@@ -30,9 +30,8 @@ Grantees from the BID programme are expected to carry out a self-assessment on t
 
 Grantees should complete the appropriate self-assessment at least three times during their project:
 
-1. Within three months of the start of the project
-2. At the project’s midterm
-3. At the end of the project—preferably prior to submitting the final project report, since the assessment can provide some data for the project narrative. 
+1. At the start of the project—to set a baseline and inform the design of the BID capacity enhancement workshops.
+2. At the end of the project—preferably prior to submitting the final project report, since the assessment can provide some data for the project narrative. 
 
 Institutions are welcome to streamline the self-assessment into their own monitoring and assessment processes. 
 
