@@ -3,6 +3,9 @@ title: Community of Practice
 description:  The BID community of practice (CoP) supports the preparation of high-quality project proposals and the successful implementation of funded projects, including supporting them in reaching their objectives and maximizing the impact of the funds invested in the programme.
 category: Calls
 subCategory: Africa 2015
+image: /images/Zebras_Cropped.jpg
+imageTitle: Zebras. By Marieke Kuijpers via freeimages.com. Freeimages content license.
+imageLink: http://www.freeimages.com/photo/zebra-in-black-white-1381687
 ---
 # Community of Practice
 
