@@ -1,5 +1,5 @@
 ﻿---
-title: Community of Practice
+title: Community start page
 description:  The BID community of practice (CoP) supports the preparation of high-quality project proposals and the successful implementation of funded projects, including supporting them in reaching their objectives and maximizing the impact of the funds invested in the programme.
 category: Community
 subCategory: Start Page
