@@ -32,21 +32,23 @@ The first stop in the BID community is our remote support section. Please check 
 
 ## Onsite Support
 
-If you encounter substantial, unforeseen difficulties during the implementation or reporting phases of a project, or if you require additional support for an outreach or training event, you will soon have the opportunity to apply for funds to support travelling and honorarium through an onsite mentoring action. More information about this option will be available soon.
+If you require additional help for an outreach or training event, or you encounter substantial, unforeseen difficulties during the implementation phase of a project that cannot be solved through online support mechanisms, you will soon have the opportunity to apply for funds to support travelling and honorarium through an **onsite mentoring action**.
+
+[Get information on the upcoming onsite mentoring actions](community/mentoring/)
 
 -----------
 
 ## Directory of Community Members
 
-Access the directory of community members to find out who is already actively involved in GBIF. Find project partners, training opportunities... based on personal profiles and certified capacity.
+The directory of community members includes information on who is already actively involved in BID. Whether you are interested in finding project partners or career opportunities, the BID directory can help you.
 
-[Access the directory](http://bid.gbif.org/)
+[Access the directory](/community/directory/)
 
 -----------
 
 ## Resources for Mentors
 
-Interested in joining the team of mentors participating in the community of practice? Do you need help from fellow mentors to tackle a given issue? In the mentors' area you will find everything you need.
+BID mentors are voluntary contributors to the community of practice. Becoming a mentor, you will gain access to unique networking and training opportunities. Find out more about these opportunities and interact with fellow mentors in the mentors' area.
 
 [Go to the mentors' area](http://bid.gbif.org/)
 
@@ -56,3 +58,4 @@ Interested in joining the team of mentors participating in the community of prac
 templates:
 - path: eufund.html
 ```
+
