@@ -1,15 +1,15 @@
 ﻿---
-title: Community of Practice Directory
+title: Help Desk and Forum
 description:  Description.
 category: Community
-subCategory: Directory
+subCategory: Forum
 image: /images/Zebras_Cropped.jpg
 imageTitle: Zebras. By Marieke Kuijpers via freeimages.com. Freeimages content license.
 imageLink: http://www.freeimages.com/photo/zebra-in-black-white-1381687
 ---
-# Community of Practice Directory
+# Help Desk and Forum
 
-Description
+Description.
 
 -----------
 
