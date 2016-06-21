@@ -9,18 +9,24 @@ imageLink: http://www.freeimages.com/photo/zebra-in-black-white-1381687
 ---
 # Community of Practice
 
-The BID community of practice (CoP) supports the preparation of high-quality project proposals and the successful implementation of funded projects, including supporting them in reaching their objectives and maximizing the impact of the funds invested in the programme. Find more information about the CoP in its scoping document.
+The BID community of practice supports the preparation of high-quality project proposals and the successful implementation of funded projects. Check the options below if you are seeking options for collaboration, implementation advice or direct support to solve a problem.
 
 -----------
 
 ## Remote Support
 
-Having difficulties in a particular implementation component? Considering submitting a project proposal in one of the calls for proposals? Want to contact fellow project contributors to exchange experiences? The community of practice offers its members many options for remote interaction and support:
+The first stop in the BID community is our remote support section. Please check the options below for online interaction and mutual support:
 
-* Check the indext of of recommended resources for BID implementation. You will find general guidance and recommendations there. [Access the index of resources](http://bid.gbif.org/) 
-* Learn from the experience of your peers, summarized in our Frequently Asked Questions (FAQ) section. [Go to the FAQ](http://bid.gbif.org/)
-* Get more information about the capacity enhancement workshops organized globally by BID. [Go to the capacity enhancement workshops section](http://bid.gbif.org/)
-* Discuss online with fellow project contributors and mentors in the general community of practice mailing list. [Access the BID community mailing list page](http://bid.gbif.org/)
+* Check the contents of our **knowledge base** and find documentation related to the issues you are experiencing contributed by the community:
+
+ [Access the knowledge base](/community/knowledge-base/) 
+* Get more information about the **capacity enhancement workshops** organized globally within the BID programme.
+
+ [Go to the capacity enhancement workshops section](/community/workshops/)
+
+* Discuss online with fellow project contributors and mentors in the general mailing list. 
+
+ [Get information about the BID mailing lists](/community/forum/)
 
 -----------
 

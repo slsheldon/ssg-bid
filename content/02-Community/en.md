@@ -1,4 +1,4 @@
 ---
-title: Community of Practice
+title: Community of practice
 type: menu only
 ---
