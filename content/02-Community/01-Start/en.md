@@ -1,30 +1,30 @@
 ﻿---
-title: Community start page
-description:  The BID community of practice (CoP) supports the preparation of high-quality project proposals and the successful implementation of funded projects, including supporting them in reaching their objectives and maximizing the impact of the funds invested in the programme.
+title: Start page
+description:  The BID programme and the community around it support the preparation of high-quality project proposals and the successful implementation of funded projects, including supporting them in reaching their objectives and maximizing the impact of the funds invested in the programme.
 category: Community
 subCategory: Start Page
 image: /images/Zebras_Cropped.jpg
 imageTitle: Zebras. By Marieke Kuijpers via freeimages.com. Freeimages content license.
 imageLink: http://www.freeimages.com/photo/zebra-in-black-white-1381687
 ---
-# Community of Practice
+# Community Support
 
-The BID community of practice supports the preparation of high-quality project proposals and the successful implementation of funded projects. Check the options below if you are seeking options for collaboration, implementation advice or direct support to solve a problem.
+The BID programme and the community around it support the preparation of high-quality project proposals and the successful implementation of funded projects. Check the options below if you are seeking options for collaboration, implementation advice or direct support to solve a problem.
 
 -----------
 
 ## Remote Support
 
-The first stop in the BID community is our remote support section. Please check the options below for online interaction and mutual support:
+The quickest and easiest way to request and provide community support is making use of the programme's online support mechanisms:
 
-* Check the contents of our **knowledge base** and find documentation related to the issues you are experiencing contributed by the community:
+* Go to the **documentation area** to find recommended resources and a Frequently Asked Questions section based on previous interactions between community members:
 
- [Access the knowledge base](/community/knowledge-base/) 
-* Get more information about the **capacity enhancement workshops** organized globally within the BID programme.
+ [Access the documentation area](/community/documentation/) 
+* Get more information about the BID **capacity enhancement workshops** organized globally:
 
  [Go to the capacity enhancement workshops section](/community/workshops/)
 
-* Discuss online with fellow project contributors and mentors in the general mailing list. 
+* Discuss online with fellow project contributors and mentors in the general **mailing list**. 
 
  [Get information about the BID mailing lists](/community/forum/)
 
@@ -32,17 +32,17 @@ The first stop in the BID community is our remote support section. Please check 
 
 ## Onsite Support
 
-If you require additional help for an outreach or training event, or you encounter substantial, unforeseen difficulties during the implementation phase of a project that cannot be solved through online support mechanisms, you will soon have the opportunity to apply for funds to support travelling and honorarium through an **onsite mentoring action**.
+If you require additional help for a specific outreach or training event, or you encounter substantial, unforeseen difficulties during the implementation phase of a project that cannot be solved through online support mechanisms, you will soon have the opportunity to apply for funds to support travelling and honorarium through an **onsite mentoring action**.
 
 [Get information on the upcoming onsite mentoring actions](community/mentoring/)
 
 -----------
 
-## Directory of Community Members
+## List of Community Members
 
-The directory of community members includes information on who is already actively involved in BID. Whether you are interested in finding project partners or career opportunities, the BID directory can help you.
+The list of community members can help you whenever you are interested in finding project partners, opportunities as a mentor, or just want to know who is currently actively involved in BID. 
 
-[Access the directory](/community/directory/)
+[Access the list of community members](/community/directory/)
 
 -----------
 
@@ -58,4 +58,3 @@ BID mentors are voluntary contributors to the community of practice. Becoming a 
 templates:
 - path: eufund.html
 ```
-

@@ -1,13 +1,13 @@
 ﻿---
-title: Directory
+title: Community member list
 description:  Description.
 category: Community
-subCategory: Directory
+subCategory: Member list
 image: /images/Zebras_Cropped.jpg
 imageTitle: Zebras. By Marieke Kuijpers via freeimages.com. Freeimages content license.
 imageLink: http://www.freeimages.com/photo/zebra-in-black-white-1381687
 ---
-# Community of Practice Directory
+# List of Community Members
 
 Description
 
