@@ -13,6 +13,13 @@ Description
 
 -----------
 
+
+```styledYaml
+templates:
+- path: DirectoryEmbed.html
+```
+
+
 ```styledYaml
 templates:
 - path: eufund.html
