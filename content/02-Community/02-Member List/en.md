@@ -13,11 +13,7 @@ Description
 
 -----------
 
-
-```styledYaml
-templates:
-- path: DirectoryEmbed.html
-```
+<iframe src="https://docs.google.com/spreadsheets/d/1GzYVG2i6hrS9iyx04boqPbSQCSToEOSmI4veLp-ULVg/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 ```styledYaml
