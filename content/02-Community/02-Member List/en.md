@@ -1,5 +1,5 @@
 ﻿---
-title: Community member list
+title: Member list
 description:  Description.
 category: Community
 subCategory: Member list

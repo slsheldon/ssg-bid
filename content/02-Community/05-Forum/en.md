@@ -1,5 +1,5 @@
 ﻿---
-title: Mailing list and remote support
+title: Mailing lists
 description:  Description.
 category: Community
 subCategory: Forum

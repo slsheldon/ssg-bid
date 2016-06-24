@@ -1,5 +1,5 @@
 ﻿---
-title: Community Resources
+title: Documentation
 description:  Description.
 category: Community
 subCategory: Community Resources
@@ -7,7 +7,7 @@ image: /images/Zebras_Cropped.jpg
 imageTitle: Zebras. By Marieke Kuijpers via freeimages.com. Freeimages content license.
 imageLink: http://www.freeimages.com/photo/zebra-in-black-white-1381687
 ---
-# Community Resources
+# Community Resources and documentation
 
 Description.
 
