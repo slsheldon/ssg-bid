@@ -27,7 +27,7 @@ The quickest and easiest way to request and provide support in BID is making use
 
 * Discuss online with fellow project contributors and mentors in the **BID mailing lists**. 
 
- [Get information about the BID mailing lists](../mailinglists/)
+ [Get information about the BID mailing lists](../mailing-lists/)
 
 -----------
 
