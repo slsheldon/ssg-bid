@@ -9,7 +9,7 @@ imageLink: http://www.freeimages.com/photo/zebra-in-black-white-1381687
 ---
 # Capacity Enhancement Workshops
 
-The BID programme includes capacity enhancement workshops organised by the programme coordinator (the GBIF Secretariat) for each of the three target geographic areas (Sub-Saharan Africa, the Caribbean and the Pacific). The objective of these workshops is *to address potential capacity needs of project leads and their teams for project implementation*. The workshops are planned for the start and mid-term of the implementation period of the funded projects.
+The BID programme includes capacity enhancement workshops organised by the programme coordinator (the GBIF Secretariat) for each of the three target geographic areas (Sub-Saharan Africa, the Caribbean and the Pacific). The objective of these workshops is "to address potential capacity needs of project leads and their teams for project implementation". The workshops are planned for the start and mid-term of the implementation period of the funded projects.
 
 In addition to ensuring that all project teams have the basic capacity required to implement their projects, the BID workshops will  provide the opportunity for the representatives of different projects to interact among themselves and with potential mentors and trainers.
 
