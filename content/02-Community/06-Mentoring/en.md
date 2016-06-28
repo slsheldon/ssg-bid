@@ -3,8 +3,9 @@ title: Onsite Mentoring Actions
 description:  Description.
 category: Community
 subCategory: Onsite Mentoring Actions
-image: /images/Mentoring_Actions.jpg
-imageTitle: A. Heughebaert, D. Escobar, D. Vélez and D. Amariles during a GBIF event. Picture by O. Banki.
+image: /images/timetable.jpg
+imageTitle: Timetable. By Andrea Jaccarino via freeimages.com. Freeimages content license.
+imageLink: http://www.freeimages.com/photo/timetable-1523499
 ---
 # Onsite Mentoring Actions
 

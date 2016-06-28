@@ -3,9 +3,8 @@ title: Mentors' area
 description:  Description.
 category: Community
 subCategory: Mentoring 
-image: /images/Zebras_Cropped.jpg
-imageTitle: Zebras. By Marieke Kuijpers via freeimages.com. Freeimages content license.
-imageLink: http://www.freeimages.com/photo/zebra-in-black-white-1381687
+image: /images/Mentoring_Actions.jpg
+imageTitle: A. Heughebaert, D. Escobar, D. Vélez and D. Amariles during a GBIF event. Picture by O. Banki.
 ---
 # Mentors' Area
 

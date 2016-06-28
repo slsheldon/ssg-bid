@@ -15,7 +15,7 @@ The BID programme includes several mechanisms for the members of its community t
 
 ## General community mailing list
 
-The general mailing list is the best place where to connect with other members of the community. Post your questions, suggestions, plans... and check what the others are doing to identify points in common.
+The general mailing list is the best place to connect with other members of the community. Post your questions, suggestions, plans... and check what the others are doing and identify common interests.
 
 To subscribe or access the archive of past conversations, use the mailing list administration interface accessible following this link:
 
