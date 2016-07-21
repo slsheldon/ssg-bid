@@ -7,13 +7,13 @@ description: The call for proposals from Pacific Island countries will take plac
 ---
 # Call for proposals
 
-## Pacific, 2016
+_Pacific, 2016_
 
 GBIF expects to issue a call for proposals for the [ACP countries in the Pacific Islands](https://ec.europa.eu/europeaid/regions/african-caribbean-and-pacific-acp-region_en) in September 2016. 
 
 **Sign up below to receive updates via email** as more information becomes available. 
 
-### Survey for data holders and decision makers in the Pacific
+## Survey for data holders and decision makers in the Pacific
 
 GBIF is seeking input from two stakeholder groups critical to the long-term success of the BID programme: data holders and decision makers.
 
