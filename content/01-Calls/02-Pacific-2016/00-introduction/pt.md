@@ -1,5 +1,5 @@
 ---
-title: Pacífico, 2016
+title: Introdução
 category: Convites
 subCategory: Pacífico
 description: A apresentação de propostas para apoiar os países nas ilhas do Pacífico está prevista para 2016.

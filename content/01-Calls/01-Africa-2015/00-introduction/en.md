@@ -11,7 +11,7 @@ imageLink: https://www.flickr.com/photos/kingjn/
 
 _Sub-Saharan Africa, 2015_
 
-**Note: This call is now closed**
+**Note: This call is now closed | [view selected projects](http://www.gbif.org/programme/bid/all-projects) **
 
 The deadline for submitting initial concept notes from sub-Saharan Africa was 20 November 2015. GBIF and its evaluation panel invited a selected number of applicants to submit full proposals in February 2016 and expect to announce project selections in April 2016.
 

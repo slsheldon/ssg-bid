@@ -1,5 +1,5 @@
 ---
-title: Pacific, 2016
+title: Introduction
 category: Calls
 subCategory: Pacific
 description: The call for proposals from Pacific Island countries will take place in 2016.

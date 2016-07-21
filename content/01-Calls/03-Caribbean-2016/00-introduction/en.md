@@ -1,5 +1,5 @@
 ---
-title: Caribbean 2016
+title: Introduction
 category: Calls
 subCategory: Caribbean
 description:  A call for proposals from Caribbean countries will take place in 2016.
