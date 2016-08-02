@@ -11,10 +11,9 @@ _Pacifique, 2016_
 
 GBIF prévoit publier un appel à propositions pour les [pays ACP dans les îles du Pacifique](https://ec.europa.eu/europeaid/regions/african-caribbean-and-pacific-acp-region_en) dans le deuxième trimestre de 2016.
 
-
 **Inscrivez-vous ci-dessous pour recevoir les mises à jour par e-mail** (en anglais) que plus d'informations seront disponibles. 
 
-## Survey for data holders and decision makers in the Pacific
+## Sondages pour détenteurs de données et décideurs dans les îles du Pacifique
 
 Le SMIB/GBIF sollicite les commentaires provenant de deux groupes d'intervenants cruciaux pour la réussite à long terme du programme du BID : les détenteurs de données et les décideurs.
 
