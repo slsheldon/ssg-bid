@@ -2,41 +2,49 @@
 
 siteName:
   en: BID
+  es: BID
   fr: BID
   pt: BID
 
 NavSearch:
   en: Search
+  es: Buscar
   fr: Chercher
   pt: Pesquisar
 
 NavMenu:
   en: Menu
+  es: Menú
   fr: Menu
   pt: Cardápio
 
 searchPlaceholder:
   en: Search...
+  es: Buscar...
   fr: Chercher...
   pt: Pesquisar...
 
 skipLink:
   en: Skip to main content
+  es: Saltar al contenido principal
   fr: Passer au contenu principal
   pt: Ir para o conteúdo principal
 
 languageSelector_title:
   en: Select language
+  es: Seleccione el idioma
   fr: Choisir la langue
   pt: Selecione o idioma
 
 translationNotAvailable:
   en: This text is not available in English
+  es: Este texto no está disponible en español
   fr: Cette page n’est pas disponible en français
   pt: Esta página não está disponível em Português
 
 cannotFindInformation:
   en: Cannot find what you are looking for? Feel free to contact us.
+  es: Cannot find what you are looking for? Feel free to contact us.
   fr: Cannot find what you are looking for? Feel free to contact us.
   pt: Cannot find what you are looking for? Feel free to contact us.
 
