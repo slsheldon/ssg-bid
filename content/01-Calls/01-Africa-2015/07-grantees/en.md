@@ -26,7 +26,7 @@ Grantees from the BID programme are expected to carry out self-assessments to as
 
 **Recipients of national grants** should complete the [capacity self-assessment for national biodiversity information facilities](http://www.gbif.org/resource/82277) (also available [in French](http://www.gbif.org/resource/82782)). 
 
-**Recipients of small and regional grants** should complete the [capacity self-assessment for data holding institutions](http://www.gbif.org/resource/82785) (French translation to follow soon). 
+**Recipients of small and regional grants** should complete the [capacity self-assessment for data holding institutions](http://www.gbif.org/resource/82785) (also available [in French](http://www.gbif.org/resource/82813)). 
 
 Grantees should complete the appropriate self-assessment at least twice during their project:
 
