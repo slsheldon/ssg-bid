@@ -13,7 +13,7 @@ function installPackages() {
     });
 }
 function isContentFile(file) {
-    return file != 'package.json' && file != 'npm-shrinkwrap.json';
+    return file != 'package.json' && file != 'bower.json' && file != 'npm-shrinkwrap.json';
 }
 
 function isContentFiles(files) {
