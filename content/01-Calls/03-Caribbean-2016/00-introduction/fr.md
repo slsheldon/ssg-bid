@@ -25,9 +25,13 @@ Le SMIB/GBIF sollicite les commentaires provenant de deux groupes d'intervenants
 
 [À quel niveau vos besoins d'information sont-t-ils actuellement satisfaits?](https://fr.surveymonkey.com/r/F85HFH2)
 
-Les deux sondages sont également disponibles en anglais:
+These two surveys are also available in English:
 + [Data holders](https://www.surveymonkey.com/r/J8T7C6B)
 + [Decision makers](https://fr.surveymonkey.com/r/F85HFH2)
+
+Los dos cuestionarios también están disponibles en español:
++ [Custodios de datos](https://www.surveymonkey.com/r/53QYLFD)
++ [Tomadores de decisiones](https://www.surveymonkey.com/r/537TYL3)
 
 -----------------
 

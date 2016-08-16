@@ -24,9 +24,13 @@ GBIF is seeking input from two stakeholder groups critical to the long-term succ
 
 [How well do you feel that your information needs are currently served?](https://www.surveymonkey.com/r/J87WFXS)
 
-Both surveys are also available in French
+Ces deux sondages sont également disponibles en français:
 + [Détenteurs de données](https://fr.surveymonkey.com/r/F8BMV2C)
 + [Décideurs](https://fr.surveymonkey.com/r/F85HFH2)
+
+Los dos cuestionarios también están disponibles en español:
++ [Custodios de datos](https://www.surveymonkey.com/r/53QYLFD)
++ [Tomadores de decisiones](https://www.surveymonkey.com/r/537TYL3)
 
 --------------
 
