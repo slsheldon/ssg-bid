@@ -10,16 +10,15 @@ imageLink: http://www.freeimages.com/photo/library-1530267
 # Key documents
 
 Grantees can find project documents, like reporting templates and communications guidelines, as well as other materials providing useful guidance that supports their projects.
-___
 
 <!-- toc -->
 <!-- tocstop -->
 
 -----------------------
 
-## Project documents for grantees
+## Project materials
 
-Grantees funded through this call will be able to access reporting templates and other key project documents here.
+Reporting templates and other key materials for project grantees are available here here.
 
 ### Instructions: Self-assessment for data-holding institutions
 
@@ -38,6 +37,10 @@ Institutions are welcome to streamline the self-assessment into their own monito
 
 In addition, grantees can increase the frequency of the assessment to monitor progress and establish whether an institution's capacity is improving, deteriorating or is being maintained at a desirable level in a timely manner. This approach may be especially useful in gauging the longer term impact of a BID-funded  project if a self-assessment is also carried out, for example, in six months or one year after its conclusion. 
 
+### Financial reporting
+
+Templates and other information for reporting on BID-funded activities
+
 ### Communications and visibility guidelines
 
 To meet the terms of the original grant, all communications related to BID-funded projects must include the following acknowledgement: 
@@ -54,10 +57,6 @@ Materials should also acknowledge both GBIF and the BID programme. Grantees are 
 + [EU logos](http://bid.gbif.org/raw/eu-flags.zip)
 + [GBIF logos](http://gbif.org/logos)
 + [BID logos](http://bid.gbif.org/raw/BID-logos.zip)
-
-### Financial reporting
-
-Templates and other information for reporting on BID-funded activities
 
 -----------
 

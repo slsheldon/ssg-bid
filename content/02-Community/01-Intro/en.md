@@ -8,7 +8,7 @@ imageTitle: Zebras. By Marieke Kuijpers via freeimages.com. Freeimages content l
 imageLink: http://www.freeimages.com/photo/zebra-in-black-white-1381687
 ---
 
------------
+# Introduction
 
 The BID community relies on the expertise of the GBIF network to support successful implementation of [projects funded by the programme](http://www.gbif.org/programme/bid/all-projects).
 
