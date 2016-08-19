@@ -2,7 +2,7 @@
 title: People
 description: Community directory for people involved in the BID programme.
 category: Community
-subCategory: Directory
+subCategory: People
 image: /images/ship-log-book.jpg
 imageTitle: Ship Log Book. By Klaus Post via freeimages.com. Freeimages content license.
 imageLink: http://www.freeimages.com/photo/ship-log-book-1563951
@@ -11,7 +11,7 @@ imageLink: http://www.freeimages.com/photo/ship-log-book-1563951
 
 This list can help you find others currently involved in the BID programme for project partnerships, mentoring opportunities or general assistance. Find [BID community members](#members), [BID mentors](#mentors) and [GBIF staff](#gbifs).
 
-The BID community relies on the expertise that already resides within the GBIF network. GBIF will award digital badges to individuals who certify their contributions to the programme. [Learn about the project roles and badges](#badges).
+The BID community relies on the expertise that already resides within the GBIF network. GBIF will award digital badges to individuals to certify their contributions to the programme. [Learn about the project roles and badges](#badges).
 
 Please send corrections and updates to your personal information to [bid@gbif.org](mailto:bid@gbif.org).
 
@@ -53,7 +53,7 @@ GBIF also expects to make training available through BID that would award [badge
 
 Mentors are a pillar of the BID community. They actively contribute their knowledge and expertise while collaborating directly with project teams. In return, they get unique access to opportunities for engaging other biodiversity informatics  experts and helping to establish or enhance biodiversity information facilities. Activities include participation in webinars, capacity enhancement workshops and networking opportunities with project team members and other partners. 
 
-Those interested in joining the [current mentors](people#mentors) can review the [official call for BID mentors](/src/raw/Call-for-BID-volunteer-mentors.pdf), learn more about the role's benefits and responsibilities, or go directly to [the application form](https://docs.google.com/forms/d/1R3EmHdZxt6ZoTJ9e43SeOG7Rl3awNidaLN-pdmbCFZQ/viewform).
+Those interested in joining the [current mentors](../people#mentors) can review the [official call for BID mentors](/raw/Call-for-BID-volunteer-mentors.pdf), learn more about the role's benefits and responsibilities, or go directly to [the application form](https://docs.google.com/forms/d/1R3EmHdZxt6ZoTJ9e43SeOG7Rl3awNidaLN-pdmbCFZQ/viewform).
 
 |*Name* | *Country* | *Areas of expertise* |
 |--|--|--|

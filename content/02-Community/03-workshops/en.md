@@ -19,7 +19,7 @@ GBIF will work with local partners to host workshops in each region at the start
 
 Only project representatives and mentors are eligible to participate in BID-funded workshops. The GBIF Secretariat will ask project teams for nominations to select participants for each workshop. 
 
-[Join the programme as a mentor](/mentoring) or contact the leader of your project team to explore opportunities to participate in the next BID workshop.
+[Join the programme as a mentor](../mentoring) or contact the leader of your project team to explore opportunities to participate in the next BID workshop.
 
 -----------
 ## Upcoming workshops
@@ -31,7 +31,7 @@ Only project representatives and mentors are eligible to participate in BID-fund
 
 ## Other training opportunities
 
-Many of the BID-funded projects have plans to organize national and regional training events and might be seeking trainers or open for additional participants. [Subscribe to the BID mailing list](/list) to receive updates on upcoming opportunities.
+Many of the BID-funded projects have plans to organize national and regional training events and might be seeking trainers or open for additional participants. [Subscribe to the BID mailing list](../mailing-lists) to receive updates on upcoming opportunities.
 
 -----------
 
