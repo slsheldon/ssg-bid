@@ -18,7 +18,7 @@ Grantees can find project documents, like reporting templates and communications
 
 ## Project files
 
-Reporting templates and other key materials for project grantees are available here here.
+Reporting templates and other key materials for project grantees are available here.
 
 ### Instructions: Self-assessment for data-holding institutions
 
