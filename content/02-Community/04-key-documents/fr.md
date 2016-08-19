@@ -68,11 +68,11 @@ Chaque document devra aussi mentionner GBIF ainsi que le programme BID. Les bén
 Alors GBIF.org maintient une grande collection de documents utiles, les éléments suivants seront probablement particulièrement pertinent pour les bénéficiaires BID qui sont nouveaux dans la Communauté GBIF.
 
 + [Mise en place d’un point nodal efficace : concepts et considérations générales](http://www.gbif.org/resource/82147), qui est aussi disponible en
---[English](http://www.gbif.org/resource/80925)
---[português](http://www.gbif.org/resource/82231)
---[español](http://www.gbif.org/resource/82186)
+-- [English](http://www.gbif.org/resource/80925)
+-- [português](http://www.gbif.org/resource/82231)
+-- [español](http://www.gbif.org/resource/82186)
 + [GBIF Capacity Enhancement Framework](http://www.gbif.org/resource/80954) (en anglais), qui est aussi disponible en
---[português](http://www.gbif.org/resource/82231)
+-- [português](http://www.gbif.org/resource/82231)
 -----------
 
 ```styledYaml
