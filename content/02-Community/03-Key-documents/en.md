@@ -1,6 +1,6 @@
 ---
 title: Key documents
-description:  Description.
+description:  BID grantees can access reporting templates, communications guidelines and other key project materials.
 category: Community
 subCategory: Key documents
 image: /images/library.jpg
@@ -16,7 +16,7 @@ Grantees can find project documents, like reporting templates and communications
 
 -----------------------
 
-## Project materials
+## Project files
 
 Reporting templates and other key materials for project grantees are available here here.
 
@@ -37,11 +37,13 @@ Institutions are welcome to streamline the self-assessment into their own monito
 
 In addition, grantees can increase the frequency of the assessment to monitor progress and establish whether an institution's capacity is improving, deteriorating or is being maintained at a desirable level in a timely manner. This approach may be especially useful in gauging the longer term impact of a BID-funded  project if a self-assessment is also carried out, for example, in six months or one year after its conclusion. 
 
-### Financial reporting
+### Project reporting templates
 
-Templates and other information for reporting on BID-funded activities
+Templates for narrative and financial reports on BID-funded activities will appear here when available.
 
-### Communications and visibility guidelines
+-----------------------
+
+## Communications and visibility guidelines
 
 To meet the terms of the original grant, all communications related to BID-funded projects must include the following acknowledgement: 
 
@@ -53,7 +55,7 @@ Where appropriate, the attribution should also be accompanied by the EU flag (se
 
 Materials should also acknowledge both GBIF and the BID programme. Grantees are encouraged to seek help, review and feedback on appropriate approaches and formats by [contacting GBIF Communications staff via email](mailto:communication@gbif.org).
 
-#### Communications-related downloads
+### Communications-related downloads
 + [EU logos](http://bid.gbif.org/raw/eu-flags.zip)
 + [GBIF logos](http://gbif.org/logos)
 + [BID logos](http://bid.gbif.org/raw/BID-logos.zip)
@@ -62,7 +64,10 @@ Materials should also acknowledge both GBIF and the BID programme. Grantees are 
 
 ## Knowledgebase
 
-Description.
+While GBIF.org maintains a large collection of useful documentation, the following are likely to be particularly relevant for BID grantees who are new to the GBIF Community.        
+
++ [Establishing an Effective GBIF Participant Node](http://www.gbif.org/resource/80925): also available in [français](http://www.gbif.org/resource/82147), [português](http://www.gbif.org/resource/82231) and [español](http://www.gbif.org/resource/82186)
++[GBIF Capacity Enhancement Framework](http://www.gbif.org/resource/80954)
 
 -----------
 

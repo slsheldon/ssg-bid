@@ -17,17 +17,16 @@ The BID programme includes several mechanisms for the members of its community t
 
 The [BID community mailing list](http://lists.gbif.org/mailman/listinfo/bid-community) is the best place to connect with other members of the community. Post your questions, suggestions, plans... and check what the others are doing and identify common interests.
 
-## Other direct remote support mechanisms
+## Other remote support mechanisms
 
-The mailing lists may not be the best channel for addressing complicated issues, but other easy-to-use, remote mechanisms to collaborate include:
+The mailing lists may not be the best channel for addressing complicated issues, but other easy-to-use, remote collaboration mechanisms include:
 
 + **Direct conference calls, screen sharing or text chat**, such as provided by tools like Skype or Google Hangouts), can help community members answer questions and direct each other to available information and resources, whether through one another or through mentors.
 + **Remote server access** can enable those with sufficient technical expertise to troubleshoot and offer support
 + Simple **email exchange of files** can often provide:
-
-++ Hands-on support for data management and publishing issues, including checking the quality of datasets, whether published or unpublished
-++ Feedback on plans, agendas or resources for training activities organized by project teams
-++ Pre-submission review of grantees' draft mid-term and final narrative reports
+-- Hands-on support for data management and publishing issues, including checking the quality of datasets, whether published or unpublished
+-- Feedback on plans, agendas or resources for training activities organized by project teams
+-- Pre-submission review of grantees' draft mid-term and final narrative reports
 
 -----------
 
