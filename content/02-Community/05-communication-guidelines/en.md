@@ -35,7 +35,7 @@ GBIF hopes to capture key activities and deliverables on the [BID project pages]
 Please provide as much of the following information as possible about planned events so that we can publish useful information about them in the [upcoming events section](http://www.gbif.org/newsroom/events/upcoming) (we will also  link them to your project page). We can also add further information, like documents, programmes, resources or participant lists, after the event.
 
 + **Title**: A short name for the event that explains the topic of the event (e.g. data mobilization) and type of event (e.g. training or national meeting). Note: do not include the location in the title, as that information is captured separately
-+ **Date**: The start and end dates for the event
++ **Date(s)** and **Time(s)**: The start and end for the event
 + **Location**: Venue, city and country
 + **Host**: Contact information for the event organizer
 + **Language of the event**: One or more languages that will be used
@@ -62,9 +62,9 @@ Please send us links to any mention of your project and activities on other webs
 We are always looking for photos from events and activities going on in the network to display on project pages, in our newsletter, in presentations etc. Please send them in the highest resolution possible along with credit, caption and copyright information. If files are too large to transmit by email, contact [communication@gbif.org](mailto:communication@gbif.org) for solutions. Consider not only group photos, but photos of practical work and interactions.
 
 ### Datasets
-We will link datasets published as a result of your project activities to your project page. While we monitor the arrival of new datasets,  by sending us the link to the dataset page. 
+We will link datasets published as a result of your project activities to your project page. While we monitor the arrival of new datasets, please do email links to your dataset pages to [communication@gbif.org](mailto:communication@gbif.org) when you publish data. 
 
-Acknowledge the EU as [described above](credits), using the following credit line in the metadata description: 
+**IMPORTANT**: Acknowledge the EU as [described above](credits), using the following credit line in the metadata description: 
 
 > Publication of this dataset was funded by the European Union
 

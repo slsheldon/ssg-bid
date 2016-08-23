@@ -1,7 +1,7 @@
 ---
 title: Documents importants
-description: Bénéficiaires BID peuvent accéder à des modèles de rapports, les lignes directrices de communication et d'autres documents importants du projet.
-category: Community
+description: Les bénéficiaires BID trouverez les documents à utiliser au cours des leurs projets.
+category: Communauté
 subCategory: Documents importants
 image: /images/library.jpg
 imageTitle: Library. By Paweł Sobociński via freeimages.com. Freeimages content license.
@@ -9,37 +9,37 @@ imageLink: http://www.freeimages.com/photo/library-1530267
 ---
 # Documents importants
 
-Bénéficiares BID peuvent trouver des documents de projet, comme des modèles de rapports et les lignes directrices de communication, ainsi que d'autres matériaux fournissant des conseils utiles qui prend en charge leurs projets.
+Les bénéficiares BID trouverez les documents à utiliser au cours des projets, tel que les modèles de rapports et les lignes directrices de communication, ainsi que d'autres matériaux fournissant des conseils utiles pour la réalisaiton de leur projet.
 
 <!-- toc -->
 <!-- tocstop -->
 
 -----------------------
 
-## Fichiers de projet
+## Documents à utiliser au cours des projets
 
-Bénéficiares BID trouverez des modèles de rapports et d'autres documents importants pour les projets ici.
+Les modèles à suivre pour les rapports ainsi que d’autres documents importants sont mis à la disposition des Bénéficiaires BID ici :
 
-### Instructions: L'auto-évaluation pour les institutions principales détentrices de données
+### Questionnaires: Modèle d'auto-évaluation pour les institutions détentrices de données
 
-Bénéficiares BID sont censés effectuer des auto-évaluations pour aider à la planification et le suivi des progrès.
+Les bénéficiares BID doivent effectuer des auto-évaluations élaborées afin de les aider à la planification et au suivi des progrès.
 
-**Les bénéficiaires de subventions nationales** devrait compléter l'[auto-évaluation des capacités pour les systèmes nationaux d’information sur la biodiversité](http://www.gbif.org/resource/82782) (aussi disponibles [en anglais](http://www.gbif.org/resource/82277)). 
+**Les bénéficiaires de subventions nationales** doivent compléter l'[auto-évaluation des capacités pour les systèmes nationaux d’information sur la biodiversité](http://www.gbif.org/resource/82782) (aussi disponibles [en anglais](http://www.gbif.org/resource/82277)). 
 
 **Les bénéficiares de subventions régionales et petites subventions** devrait compléter l'[modèle d’auto-évaluation pour les institutions détentrices de données](http://www.gbif.org/resource/82813) (aussi disponibles [en anglais](http://www.gbif.org/resource/82785)). 
 
-Grantees should complete the appropriate self-assessment at least twice during their project:
+Il est demandé aux Bénéficiaires de compléter l’auto-évaluation appropriée en fonction du type de financement BID reçu (petite subvention, subvention nationale ou régionale) au minimum deux fois au cours de leur projet :
 
-1. At the start of the project—to set a baseline and inform the design of the BID capacity enhancement workshops.
-2. At the end of the project—preferably prior to submitting the final project report, since the assessment can provide some data for the project narrative. 
+1. Au début de leur projet – Afin d’établir une base de référence et aider à l’élaboration des ateliers BID de renforcement des capacités.
+2. A la fin de leur projet – de préférence avant la soumission de leur rapport de projet final, car cette évaluation peut fournir des données pouvant être utilisées dans leur rapport narratif. 
 
-Institutions are welcome to streamline the self-assessment into their own monitoring and assessment processes. 
+Les institutions sont la bienvenue d’intégrer cet outil d’auto-évaluation dans leurs propres procédures d’évaluation et de suivi.
 
-In addition, grantees can increase the frequency of the assessment to monitor progress and establish whether an institution's capacity is improving, deteriorating or is being maintained at a desirable level in a timely manner. This approach may be especially useful in gauging the longer term impact of a BID-funded  project if a self-assessment is also carried out, for example, in six months or one year after its conclusion. 
+Les Bénéficiaires peuvent également accroître la fréquence de leurs évaluations afin de mesurer les progrès réalisés et déterminer si les capacités d’une institution s’améliorent, se détériorent ou sont maintenues à un niveau satisfaisant de manière opportune. Cette approche peut s’avérer particulièrement utile pour mesurer l’impact à long terme d’un projet BID si une auto-évaluation est effectuée, par exemple, six mois ou un an après la complétion du projet. 
 
 ### Les modèles de rapport des projets
 
-Les modèles pour rapports narratifs et financiers BID-funded apparaît ici lorsque disponible.
+Les modèles des rapports narratifs et financiers à remettre dans le cadre du programme BID apparaîtront ici dès que disponible.
 
 -----------------------
 
@@ -65,14 +65,12 @@ Chaque document devra aussi mentionner GBIF ainsi que le programme BID. Les bén
 
 ## Base de connaissances
 
-Alors GBIF.org maintient une grande collection de documents utiles, les éléments suivants seront probablement particulièrement pertinent pour les bénéficiaires BID qui sont nouveaux dans la Communauté GBIF.
+Bien que GBIF.org maintienne une grande collection de documents utiles, les éléments suivants seront probablement particulièrement pertinents pour les bénéficiaires BID étant nouveaux dans la Communauté GBIF.
 
-+ [Mise en place d’un point nodal efficace : concepts et considérations générales](http://www.gbif.org/resource/82147), qui est aussi disponible en
--- [English](http://www.gbif.org/resource/80925)
--- [português](http://www.gbif.org/resource/82231)
--- [español](http://www.gbif.org/resource/82186)
-+ [GBIF Capacity Enhancement Framework](http://www.gbif.org/resource/80954) (en anglais), qui est aussi disponible en
--- [português](http://www.gbif.org/resource/82231)
++ [Mise en place d’un point nodal efficace : concepts et considérations générales](http://www.gbif.org/resource/82147), qui est aussi disponible en [English](http://www.gbif.org/resource/80925), [português](http://www.gbif.org/resource/82231) et [español](http://www.gbif.org/resource/82186)
++ [GBIF Capacity Enhancement Framework](http://www.gbif.org/resource/80954) (en anglais), également disponible en [português](http://www.gbif.org/resource/82231)
+
+
 -----------
 
 ```styledYaml
