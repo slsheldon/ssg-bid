@@ -1,8 +1,8 @@
 ---
-title: Key documents
-description:  BID grantees can access reporting templates, communications guidelines and other key project materials.
+title: Communication guidelines
+description:  BID grantees can access guidelines on communications, logos, credits and attribution.
 category: Community
-subCategory: Key documents
+subCategory: Communication guidelines
 image: /images/library.jpg
 imageTitle: Library. By Paweł Sobociński via freeimages.com. Freeimages content license.
 imageLink: http://www.freeimages.com/photo/library-1530267
