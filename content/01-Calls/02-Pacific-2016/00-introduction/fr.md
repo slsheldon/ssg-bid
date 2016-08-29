@@ -15,7 +15,7 @@ GBIF prévoit publier un appel à propositions pour les [pays ACP dans les îles
 
 ## Sondages pour détenteurs de données et décideurs dans les îles du Pacifique
 
-Le SMIB/GBIF sollicite les commentaires provenant de deux groupes d'intervenants cruciaux pour la réussite à long terme du programme du BID : les détenteurs de données et les décideurs.
+Le GBIF sollicite les commentaires provenant de deux groupes d'intervenants cruciaux pour la réussite à long terme du programme du BID : les détenteurs de données et les décideurs.
 
 **Détenteurs de données** ont besoin de ressources et d'incitatifs pour distribuer les sources variées d'information qu'ils gèrent. 
 
