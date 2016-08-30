@@ -9,7 +9,7 @@ imageLink: http://www.freeimages.com/photo/library-1530267
 ---
 # Documents importants
 
-Les bénéficiares BID trouverez les documents à utiliser au cours des projets, tel que les modèles de rapports et les lignes directrices de communication, ainsi que d'autres matériaux fournissant des conseils utiles pour la réalisaiton de leur projet.
+Les bénéficiaires BID y trouveront les documents à utiliser en cours de projet, tel que les modèles de rapport et les lignes directrices de communication, ainsi que d'autre matériel fournissant des conseils utiles pour la réalisation de leur projet.
 
 <!-- toc -->
 <!-- tocstop -->
@@ -22,11 +22,11 @@ Les modèles à suivre pour les rapports ainsi que d’autres documents importan
 
 ### Questionnaires: Modèle d'auto-évaluation pour les institutions détentrices de données
 
-Les bénéficiares BID doivent effectuer des auto-évaluations élaborées afin de les aider à la planification et au suivi des progrès.
+Les bénéficiaires BID doivent effectuer des auto-évaluations élaborées afin de les aider à la planification et au suivi des progrès.
 
 **Les bénéficiaires de subventions nationales** doivent compléter l'[auto-évaluation des capacités pour les systèmes nationaux d’information sur la biodiversité](http://www.gbif.org/resource/82782) (aussi disponibles [en anglais](http://www.gbif.org/resource/82277)). 
 
-**Les bénéficiares de subventions régionales et petites subventions** devrait compléter l'[modèle d’auto-évaluation pour les institutions détentrices de données](http://www.gbif.org/resource/82813) (aussi disponibles [en anglais](http://www.gbif.org/resource/82785)). 
+**Les bénéficiaires de subventions régionales et petites subventions** devrait compléter l'[modèle d’auto-évaluation pour les institutions détentrices de données](http://www.gbif.org/resource/82813) (aussi disponibles [en anglais](http://www.gbif.org/resource/82785)). 
 
 Il est demandé aux Bénéficiaires de compléter l’auto-évaluation appropriée en fonction du type de financement BID reçu (petite subvention, subvention nationale ou régionale) au minimum deux fois au cours de leur projet :
 
