@@ -18,7 +18,7 @@ These guidelines are available in English and French, of which the English versi
 
 -----------------------
 
-## Biodiversity Information Facilities
+## Biodiversity information facilities
 
 Many different stakeholder groups in a given country or organization may be involved in collecting, organizing and using data on biodiversity. These different groups often do not fully benefit from one another’s efforts, either failing to discover all existing information or duplicating effort by spending time on the same tasks. 
 
@@ -74,7 +74,6 @@ Proposals will be assessed using the following criteria:
 8. Choice and diversity of project partners, with preference given to projects that have the confirmed involvement of a diverse network of data holders and data users.
 
 NOTE: Full proposals will also assess a) project management skills of coordinating team based on previous experience, b) quantity, quality and relevance of the biodiversity data proposed for mobilization; c) quality of project design and risk assessment; d) monitoring and evaluation plans; and e) sustainability plan.
-roject design and risk assessment; monitoring and evaluation plans will be assessed in the full proposals.
 
 -----------
 
@@ -88,7 +87,9 @@ Selected projects may begin their activities in April 2017. Project may run for 
 
 Up to €60,000 per national grant. During the course of the BID programme, the maximum total project funding that any single applicant can receive is €60,000.
 
-### National grant activity types
+-----------
+
+## National grant activity types
 
 National grants must include at least one activity contributing to each of three component categories. Each category presented below includes a non-exclusive list of possible types of activity:
 
