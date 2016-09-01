@@ -11,19 +11,30 @@ _Pacific, 2016_
 
 National grants under the BID programme seek to establish or strengthen national biodiversity information facilities and to increase the biodiversity data available about the country to respond to national priorities.
 
+These guidelines are available in English and French, of which the English version is the authoritative version. They accompany the BID call for proposals document and concept note template. General questions may be sent to [BID@gbif.org](mailto:bid@gbif.org).
+
+-----------
+
+## Biodiversity Information Facilities
+
+Many different stakeholder groups in a given country or organization may be involved in collecting, organizing and using data on biodiversity. These different groups often do not fully benefit from one another’s efforts, either failing to discover all existing information or duplicating effort by spending time on the same tasks. 
+
+Within the GBIF network, the group that coordinates national activities with the goal of ensuring effective cooperation and combination of resources and information is a ‘**biodiversity information facility**’. Using tools and techniques developed and applied by formal GBIF members, these groups sustain key relationships and common solutions for managing and accessing data.
+
+GBIF exists to support its member states and organizations—or, more formally, its Participants—to establish these networks. By signing the [GBIF Memorandum of Understanding](http://www.gbif.org/resource/80661), GBIF Participants commit to set up a Participant node that coordinates a biodiversity information facility. More information on biodiversity information facilities is available in the guide, [*Establishing an Effective GBIF Participant Node*](http://www.gbif.org/resource/80925) (which also available in [French](http://www.gbif.org/resource/82147), [Portuguese](http://www.gbif.org/resource/82231) and [Spanish](http://www.gbif.org/resource/82186)).
+
 -----------
 
 ## Submission procedure
 
-The deadline for submitting initial concept notes from the Pacific Islands is 10 November 2016. 
+The deadline for submitting initial concept notes from the Pacific Islands is **10 November 2016**.
 
-GBIF and the BID evaluation panel will review concept notes and offer feedback and recommendations to applicants invited to prepare full proposals.
++ Applications must be submitted using the appropriate concept note template to [BID@gbif.org](mailto:bid@gbif.org) by 10 November 2016, 9:00am CET / 8:00am UTC/GMT. 
++ Confirmed project partners must be copied when submitting the application. 
++ Letters of support from project partners, and, where appropriate, a statement of endorsement from a GBIF representative should be included in submissions as email attachments. 
++ **Applications must be submitted in English and by using the appropriate template**.  If you need help with this requirement, please contact [BID@gbif.org](mailto:bid@gbif.org) as early as possible and before [20 October 2016]. 
 
-Full proposals will be due 9 Feb 2017, 12:00 pm CET / 11:00 am UTC/GMT, and GBIF will announce the selected projects by May 2017.
-
-**Applications must be submitted in English and by using the appropriate template**.
-
-Applications received late or incomplete will not be reviewed by the evaluation panel.
+Please note that the evaluation panel will not be review late or incomplete applications.
 
 -----------
 
@@ -43,7 +54,6 @@ The overall BID programme targets two key outcomes:
 ## Key documents
 
 + [Concept note template](http://#)
-+ Template for full proposals: *coming soon*
 
 -----------
 
@@ -54,20 +64,20 @@ Proposals will be assessed using the following criteria:
 1. Alignment of the project with BID objectives and priorities.
 2. Alignment of the project with clearly stated needs for biodiversity information and capacity development within the proposal.
 3. The project’s complementary contributions to regional data needs.
-4. Demonstrated success and past experience delivering similar projects by the applicants.
-5. Likelihood that the project will provide examples of best practice in the application of biodiversity information in decision-making.
-6. Quantity, quality and relevance of the biodiversity data proposed for mobilization, with preference given to projects that mobilize biodiversity data relating to protected areas, threatened species and invasive alien species.
-7. Strength of the plans to develop and sustain national capacity after the project actions.
-8. Level of national support and cost-effectiveness of the proposed actions; the balance between the level of funding requested from BID and the cofunding contributed by the project partners.
-9. Anticipated value of the project deliverables to both the national context and the broader GBIF community.
-10. Choice and diversity of project partners, with preference given to projects that have the confirmed involvement of a diverse network of data holders and data users.
-11. Quality of project design and risk assessment; monitoring and evaluation plans will be assessed in the full proposals.
+4. Likelihood that the project will provide examples of best practice in the application of biodiversity information in decision-making.
+5. Quantity, quality and relevance of the biodiversity data proposed for mobilization, with preference given to projects that mobilize biodiversity data relating to protected areas, threatened species and invasive alien species.
+6. Level of national support and cost-effectiveness of the proposed actions; the balance between the level of funding requested from BID and the co-funding contributed by the project partners.
+7. Anticipated value of the project deliverables to both the national context and the broader GBIF community.
+8. Choice and diversity of project partners, with preference given to projects that have the confirmed involvement of a diverse network of data holders and data users.
+
+NOTE: Full proposals will also assess a) project management skills of coordinating team based on previous experience, b) quantity, quality and relevance of the biodiversity data proposed for mobilization; c) quality of project design and risk assessment; d) monitoring and evaluation plans; and e) sustainability plan.
+roject design and risk assessment; monitoring and evaluation plans will be assessed in the full proposals.
 
 -----------
 
 ## Project duration
 
-Selected projects may begin their activities in May 2017, with project activity continuing for up to 18 months (ending in November 2018), and with a final six-month reporting and evaluation period (ending in April 2019). All projects must end by 30 April 2019.
+Selected projects may begin their activities in April 2017. Project may run for up to 18 months and must end by September 2018, with a final three-month reporting and evaluation period (ending in December 2018). Grantees must complete all projects by 31 December 2018.
 
 -----------
 
@@ -104,6 +114,16 @@ National grants must include at least one activity contributing to each of three
 + Documenting use cases and sharing them with partners in the region.
 
 -----------
+
+## General recommendations for preparing concept notes
+
++ **Ensure that your project meets the eligibility criteria and aligns well with the overall objectives for the programme**. Consider the evaluation criteria used by the evaluation panel to assess your proposal.
++ **Be brief**. Try to provide the shortest responses possible and only add background information if really needed, using links to external resources rather than long explanations.
++ **Prepare your submissions in English**. The evaluation panel will use English as their working language and therefore applicants are requested to make submissions in English. Remember that if you have particular difficulties with this requirement, contact BID@gbif.org for support as early as possible, and before 20 October 2016.
++ **Review the FAQ**. [This page](../faq) will be updated throughout the project application period. Send any unanswered questions to [BID@gbif.org](mailto:bid@gbif.org). 
++ **Submit as early as possible to avoid problems**. Early submission will give a chance for some follow-up to resolve any issues that arise ahead of the deadline. The deadline for submissions is a hard deadline, and projects received late or incomplete will not be reviewed by the evaluation panel. 
+
+___________
 
 ```styledYaml
 templates:
