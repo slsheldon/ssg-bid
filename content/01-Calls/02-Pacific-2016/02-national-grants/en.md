@@ -13,7 +13,10 @@ National grants under the BID programme seek to establish or strengthen national
 
 These guidelines are available in English and French, of which the English version is the authoritative version. They accompany the BID call for proposals document and concept note template. General questions may be sent to [BID@gbif.org](mailto:bid@gbif.org).
 
------------
+<!-- toc -->
+<!-- tocstop -->
+
+-----------------------
 
 ## Biodiversity Information Facilities
 
