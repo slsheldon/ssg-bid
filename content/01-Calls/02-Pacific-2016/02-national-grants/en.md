@@ -34,7 +34,7 @@ The deadline for submitting initial concept notes from the Pacific Islands is **
 
 + Applications must be submitted using the appropriate concept note template to [BID@gbif.org](mailto:bid@gbif.org) by 10 November 2016, 9:00am CET / 8:00am UTC/GMT. 
 + Confirmed project partners must be copied when submitting the application. 
-+ Letters of support from project partners, and, where appropriate, a statement of endorsement from a GBIF representative should be included in submissions as email attachments. 
++ As appropriate, include a statement of endorsement from a GBIF representative in submissions as an email attachment. 
 + **Applications must be submitted in English and by using the appropriate template**.  If you need help with this requirement, please contact [BID@gbif.org](mailto:bid@gbif.org) as early as possible and before [20 October 2016]. 
 
 Please note that the evaluation panel will not be review late or incomplete applications.
