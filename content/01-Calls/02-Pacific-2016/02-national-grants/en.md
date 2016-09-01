@@ -79,7 +79,11 @@ NOTE: Full proposals will also assess a) project management skills of coordinati
 
 ## Project duration
 
-Selected projects may begin their activities in April 2017. Project may run for up to 18 months and must end by September 2018, with a final three-month reporting and evaluation period (ending in December 2018). Grantees must complete all projects by 31 December 2018.
+Selected projects may begin their activities in April 2017. 
+
+Projects may run for up to 18 months and must end by September 2018, followed by a final three-month reporting and evaluation period ending in December 2018. 
+
+Grantees must complete all projects by 31 December 2018.
 
 -----------
 
