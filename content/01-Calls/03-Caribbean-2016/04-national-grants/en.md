@@ -2,16 +2,16 @@
 title: National grants
 description: National grants under the BID programme seek to establish or strengthen national biodiversity information facilities and to increase the biodiversity data available about the country to respond to national priorities.
 category: Calls
-subCategory: Pacific 2016
+subCategory: Caribbean 2016
 
 ---
 # National grants
 
-_Pacific, 2016_
+_Caribbean, 2016_
 
 National grants under the BID programme seek to establish or strengthen national biodiversity information facilities and to increase the biodiversity data available about the country to respond to national priorities.
 
-These guidelines are available in English and French, of which the English version is the authoritative version. They accompany the BID call for proposals document and concept note template. General questions may be sent to [BID@gbif.org](mailto:bid@gbif.org).
+These guidelines are available in English, French and Spanish; the English version is the authoritative version. They accompany the BID call for proposals document and concept note template. General questions may be sent to [BID@gbif.org](mailto:bid@gbif.org).
 
 <!-- toc -->
 <!-- tocstop -->
@@ -30,7 +30,7 @@ GBIF exists to support its member states and organizations—or, more formally, 
 
 ## Submission procedure
 
-The deadline for submitting initial concept notes from the Pacific Islands is **10 November 2016**.
+The deadline for submitting initial concept notes from the Caribbean is **10 November 2016**.
 
 + Applications must be submitted using the appropriate concept note template to [BID@gbif.org](mailto:bid@gbif.org) by 10 November 2016, 9:00am CET / 8:00am UTC/GMT. 
 + Confirmed project partners must be copied when submitting the application. 

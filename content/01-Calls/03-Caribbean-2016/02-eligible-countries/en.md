@@ -23,15 +23,16 @@ Institutions from the following ACP countries in the Caribbean are eligible to a
 + Bahamas
 + Barbados
 + Belize
++ Cuba
 + Dominica
 + Dominican Republic
 + Grenada
 + Guyana
 + Haiti
 + Jamaica
++ St Kitts and Nevis
 + St Lucia
 + St Vincent and the Grenadines
-+ St Kitts and Nevis
 + Suriname
 + Trinidad and Tobago
 
@@ -89,7 +90,6 @@ Institutions from the following non-Caribbean ACP countries are eligible apply f
 + [Costa Rica](http://www.gbif.org/country/CR/participation)
 + Côte d'Ivoire
 + Croatia
-+ Cuba
 + Curacao
 + Cyprus
 + Czech Republic

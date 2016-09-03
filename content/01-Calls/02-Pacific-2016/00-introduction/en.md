@@ -9,7 +9,7 @@ description: The call for proposals from Pacific Island countries will take plac
 
 _Pacific, 2016_
 
-GBIF expects to issue a call for proposals for the [ACP countries in the Pacific Islands](https://ec.europa.eu/europeaid/regions/african-caribbean-and-pacific-acp-region_en) in late August or early September 2016. 
+GBIF expects to issue a call for proposals for the [ACP countries in the Pacific Islands](http://www.acp.int/content/secretariat-acp) in late August or early September 2016. 
 
 **Sign up below to receive updates via email** as more information becomes available. 
 

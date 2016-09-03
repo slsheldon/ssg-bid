@@ -81,7 +81,9 @@ must be involved in a regional consortium.
 
 Each partner may receive up to €20,000, and one consortium coordinator may receive up to €10,000 in additional funding to coordinate the activities of the partners. During the course of the BID programme, the maximum total project funding that any single applicant can receive is €60,000.
 
-### Regional grant activity types
+-----
+
+## Regional grant activity types
 
 Regional grants must include activities contributing to each of three component categories. Each category presented below includes a non-exclusive list of possible types of activity:
 

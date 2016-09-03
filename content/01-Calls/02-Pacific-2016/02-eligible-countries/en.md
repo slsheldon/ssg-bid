@@ -19,7 +19,7 @@ description: Institutions from the following countries are eligible to apply for
 
 ### Pacific ACP countries<a name="pacific"></a>
 
-Institutions from the following ACP countries in Africa are eligible to apply for funds under the BID programme, provided that they meet other [eligibility requirements](../eligibility).
+Institutions from the following ACP countries in the Pacific are eligible to apply for funds under the BID programme, provided that they meet other [eligibility requirements](../eligibility).
 
 + Cook Islands
 + Federated States of Micronesia

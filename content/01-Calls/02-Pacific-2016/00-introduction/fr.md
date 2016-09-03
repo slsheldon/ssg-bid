@@ -9,7 +9,7 @@ description: L'appel à propositions de les pays dans les îles du Pacifique dan
 
 _Pacifique, 2016_
 
-GBIF prévoit publier un appel à propositions pour les [pays ACP dans les îles du Pacifique](https://ec.europa.eu/europeaid/regions/african-caribbean-and-pacific-acp-region_en) dans le deuxième trimestre de 2016.
+GBIF prévoit publier un appel à propositions pour les [pays ACP dans les îles du Pacifique](http://www.acp.int/content/secretariat-acp) dans le deuxième trimestre de 2016.
 
 **Inscrivez-vous ci-dessous pour recevoir les mises à jour par e-mail** (en anglais) que plus d'informations seront disponibles. 
 

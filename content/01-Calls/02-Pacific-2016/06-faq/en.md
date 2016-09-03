@@ -116,7 +116,7 @@ Yes, institutions, including GBIF nodes, in non-ACP countries can be project par
 
 ### What type of institution can lead a national biodiversity data mobilization grant?
 
-The guidelines for national biodiversity data mobilization grants state that: “Applications must be submitted by the project coordinator that will coordinate the project activities on behalf of the project partners. The project coordinator must be a legal entity from an African ACP country (see [Annex A, Section 1](http://www.gbif.org/sites/default/files/gbif_project/files/BID-call-for-proposals-Annex-A.pdf)). The project coordinator will be responsible for managing the grant and for the project reporting”.
+The guidelines for national biodiversity data mobilization grants state that: “Applications must be submitted by the project coordinator that will coordinate the project activities on behalf of the project partners. The project coordinator must be a legal entity from an [eligible African ACP country](../eligible-countries). The project coordinator will be responsible for managing the grant and for the project reporting”.
 
 The call for proposals does not further specify the institution that should lead the ‘national biodiversity data mobilization grants’ as the project coordinator. Some of the best examples of partnerships dealing with biodiversity information management come from the GBIF network. Participation in GBIF is not a requirement for applying to the BID call for proposals. However, the GBIF Secretariat would  recommend treating the partnerships in a national grant as a national biodiversity information facility, coordinated by a  proto GBIF Participant Node.
 
@@ -133,7 +133,7 @@ In the case of regional biodiversity data mobilization grants, an international 
 ## On eligible countries
 
 ### Can institutions and agencies based in non-ACP countries be partners in the consortium applying for BID grants?
-In the case of regional biodiversity data mobilization grants, in addition to the minimum of three consortium partners from eligible African ACP countries, projects may choose to include one consortium partner that is a legal entity located EITHER in one of the eligible countries listed in section 2 of [Annex A](http://www.gbif.org/sites/default/files/gbif_project/files/BID-call-for-proposals-Annex-A.pdf) OR, where other requirements are met, in one of the countries listed in [Annex A](http://www.gbif.org/sites/default/files/gbif_project/files/BID-call-for-proposals-Annex-A.pdf), section 3.
+In the case of regional biodiversity data mobilization grants, in addition to the minimum of three consortium partners from eligible African ACP countries, projects may choose to include one consortium partner that is a legal entity located EITHER in section 2 or section 3 of the list of [eligible African ACP countries](../eligible-countries).
  
 -----------------------
 

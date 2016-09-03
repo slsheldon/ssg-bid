@@ -9,7 +9,7 @@ description: L'appel à propositions de les pays Caraïbes dans le deuxième tri
 
 _Caraïbes 2016_
 
-GBIF prévoit publier un appel à propositions pour les [pays ACP dans les Caraïbes](https://ec.europa.eu/europeaid/regions/african-caribbean-and-pacific-acp-region_en) dans le deuxième trimestre de 2016.
+GBIF prévoit publier un appel à propositions pour les [pays ACP dans les Caraïbes](../eligible-countries)) dans le deuxième trimestre de 2016.
 
 **Inscrivez-vous ci-dessous pour recevoir les mises à jour par e-mail** (en anglais) que plus d'informations seront disponibles. 
 

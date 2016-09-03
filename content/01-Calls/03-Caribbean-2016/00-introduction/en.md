@@ -8,7 +8,7 @@ description:  A call for proposals from Caribbean countries will take place in 2
 
 _Caribbean, 2016_
 
-GBIF expects to issue a call for proposals for the [ACP countries in the Caribbean](https://ec.europa.eu/europeaid/regions/african-caribbean-and-pacific-acp-region_en) in late August or early September 2016. 
+GBIF expects to issue a call for proposals for the [ACP countries in the Caribbean](../eligible-countries) in late August or early September 2016. 
 
 **Sign up below to receive updates via email** as more information becomes available. 
 

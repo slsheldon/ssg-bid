@@ -45,6 +45,8 @@ Templates for narrative and financial reports on BID-funded activities will appe
 
 While GBIF.org maintains a [large collection of useful documentation](http://www.gbif.org/resources), the following are likely to be particularly relevant for BID grantees who are new to the GBIF Community.        
 
++ [Quick guide to data publishing through GBIF.org](http://www.gbif.org/publishing-data/quick-guide)
++ [Data quality requirements](http://www.gbif.org/publishing-data/quality)
 + [Establishing an Effective GBIF Participant Node](http://www.gbif.org/resource/80925): also available in [français](http://www.gbif.org/resource/82147), [português](http://www.gbif.org/resource/82231) and [español](http://www.gbif.org/resource/82186)
 + [GBIF Capacity Enhancement Framework](http://www.gbif.org/resource/80954)
 
