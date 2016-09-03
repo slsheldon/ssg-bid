@@ -9,7 +9,7 @@ imageLink: https://en.wikipedia.org/wiki/File:Wbeest_Mara.jpg
 BID: Biodiversity Information for Development
 ===================
 
-Biodiversity Information for Development (BID) is a multi-year, €3.9 million programme funded by the [European Union](http://europa.eu) and led by [GBIF](http://gbif.org)—the Global Biodiversity Information Facility—with the aim of increasing the amount of biodiversity information available for use in scientific research and policymaking in the [‘ACP’ nations of sub-Saharan Africa, the Caribbean and the Pacific](https://ec.europa.eu/europeaid/regions/african-caribbean-and-pacific-acp-region_en).
+Biodiversity Information for Development (BID) is a multi-year, €3.9 million programme funded by the [European Union](http://europa.eu) and led by [GBIF](http://gbif.org)—the Global Biodiversity Information Facility—with the aim of increasing the amount of biodiversity information available for use in scientific research and policymaking in the [‘ACP’ nations of sub-Saharan Africa, the Caribbean and the Pacific](http://www.acp.int/content/secretariat-acp).
 
 Projects funded through the first call for proposals for sub-Saharan Africa have been selected: [see the projects](http://www.gbif.org/programme/bid/all-projects).
 

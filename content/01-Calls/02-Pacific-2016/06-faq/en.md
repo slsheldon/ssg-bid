@@ -14,85 +14,50 @@ This regularly updated list of FAQs on the 2016 BID call for proposals from the 
   
 -----------------------
 
-## On developing full proposals
+## On completing specific sections of the concept note template
 
-### What activities are eligible for funding under the BID programme?
+### What are the issues that this project seeks to address?
 
-Review both the general and grant-specific [eligibility requirements](eligibility).
- 
-All BID-funded activities must be not-for-profit.
+Describe the relevant background and context for your project, indicating the key needs targeted by the project (250 words maximum).
 
-Each grant type has specific requirements on categories the planned activities must align with. The additional criteria listed as part of the ‘eligibility criteria’ section in the BID Guidelines documents must also be adhered to.
- 
-Overall, BID programme funds may be used to support staff salaries and travel associated with the organization of meetings and workshops. BID funds may be used to cover up to 50% of the costs of any IT services or purchases, relevant to the grant, up to a maximum of:
+### Who will collaborate on the project?
 
-+ €2,500 of any national grant
-+ €2,500 for each consortium partner located in an African ACP country participating in a regional grant.
-+ €1,000 of any small grant. 
+#### Lead partner and main contact person
 
-Overhead costs **cannot** be charged to BID grants. Also, **field work to gather new data is not eligible for funding**.
+The project coordinator is the legal entity that will manage the grant and coordinate the activities on behalf of the project partners. A main contact person should be identified. 
 
-### Is there a maximum cost per record/specimen for digitization?
+The lead partner should be identified by writing “YES” in the column ‘Lead partner’ in table 4. There can only be ONE institution identified as lead partner.
 
-The BID programme does not specify digitization costs per record or specimen, as these vary from institution to institution and depend on the nature of the digitization process. However, it is recommended that applicants provide an estimated cost, based on processing costs cited in journals or other published literature, or provide a rough estimation based on previous/pilot experiences, or calculations based on the number of elements to be digitized, and the man-hours and salary required for the digitization effort. 
+#### Other project partners 
 
-### Which types of indicators are used in the GBIF community to evaluate projects like those funded through BID National grants?
+National grants target the establishment or strengthening of national biodiversity information facilities. GBIF recommends including project partners from as wide a range of relevant national institutes, agencies or non-governmental organizations as possible, such as holders of botanical and zoological data, and observation data and collections data. Remember that projects must involve at least two relevant national institutes, agencies or non-governmental organizations as project partners, as well as including users of biodiversity data as project partners, such as scientists, policy and decision-makers. 
 
-GBIF produces automated [national reports](http://www.gbif.org/country/CD/report) that provide charts, statistics and other details about the mobilization and use of open-access species data through the GBIF network at global and national scales. The metrics displayed in these reports will be used to track progress at the national level for BID national grants, including for example the amount of data being mobilized by institutions within the country, as well as how complete these data are, and the number of users of GBIF-mediated data from within the country. The specific metrics used in each project will need to be agreed as part of the proposal selection and contract negotiation processes.
+It is acceptable to list project partners that have not yet confirmed their participation in the project at the concept note stage. All partners will need to confirm their involvement in the project in the full proposal. Remember to copy all confirmed project partners on email submissions. 
 
-GBIF has also produced a set of [capacity self-assessment guidelines](http://www.gbif.org/resource/82277) that are designed to help Participants to track progress at the level of a national biodiversity information facility. The BID programme will make use of a similar capacity self-assessment approach to track progress in the strengthening of national biodiversity information facilities.
+### What activities will be included in the project?
 
-### Can an institution submit a proposal for gathering new data?
+This section should describe the proposed activities and how they will produce the deliverables (400 words maximum). The project partner(s) responsible for each activity should also be identified.
 
-The BID programme focuses on mobilizing existing biodiversity data, rather than supporting new data gathering from the field. It will support the work required to mobilize the data, with emphasis on ensuring that the data are of sufficient quality to be published to the GBIF network and to enable their reuse in targeted use cases in research and decision-making.
+### Why are these  the right activities to address the issues?
 
-### What is the expected duration of the projects?
+This section should describe how the proposed activities listed under question 5 are expected to address the issue identified under question 3 (maximum 400 words). Major risks associated with the activities should be identified and possible ways to address these should be described in this section.
 
-National biodiversity data mobilization projects and regional biodiversity data mobilization projects can run for a maximum of 2.5 years, with the final six months reserved for reporting and evaluation. Small biodiversity data mobilization projects can be implemented over a maximum of one year, with an additional six-month reporting and evaluation period.
+### What will the project deliver?
+
+Use this section to list the main deliverables of the project. The deliverables should be tangible and achievable within the project’s implementation period. BID projects are expected to deliver lasting results in one or more of these areas: data on species in the region made freely accessible online via GBIF.org; increased capacity for biodiversity information management; establishment of national/regional biodiversity information facilities (maximum 400 words).
 
 -----------------------
 
-## On letters of support
+### On the proposed budget
 
-### Is there a template for letters of support?
-
-Letters of support need not follow a template. They only need to confirm partners’ interest in the project and willingness to participate.
-
-### In the case of regional grants, are all consortium members required to provide letters of support?
-At the concept note stage, consortium partners who are requesting funds need only confirm their participation. Letters of support are not required at this stage but, if submitted, will be acknowledged and taken into account. A formal confirmation from consortium partners will be requested in the form of a letter of support with the full proposal. This will be indicated in the guidelines for the submission of full proposals.
-
-Other project collaborators, described in the Guidelines for Regional Grants (point 5 of the additional eligibility criteria) as users of biodiversity data, are to be listed in section 2.3 of the concept note template and should provide letters of support at both the concept note and full proposal stages. They need not, however, be copied in the proposal submission.
-
-### In the case of small grants, can collaborators come from the same institute? Who would have to provide letters of support?
-Yes, collaborators can come from the same institute, and the director of the institute must be copied on submissions.The minimum requirement for a small grant is one letter of support from a data user.
-
-### Should updated letters of support be submitted with the full proposal?
-Updated letters of support are not necessary, and letters sent in with the concept note may be re-submitted.
-
-### When submitting a proposal for a BID Regional grant, should letters from other project collaborators be included?
-As the *other project collaborators* are not required to contribute funds, no letters of support are required from them. However, including such letters, where possible, will increase the assessors’ confidence in the strength of the project.
-
------------------------
-
-## On developing concept notes
-
-### Can a single applicant participate in several concept notes submitted to the BID call for proposals?
-
-Yes, an applicant may participate in several concept notes, including developing applications for different grant types. However, the maximum total project funding that any single applicant can receive through the course of the BID programme is 60,000 Euro.  
-
-In cases where applicants are considering multiple small grants, it is recommended to also explore the potential of national or regional grants. BID aims not only to increase the amount of published biodiversity information from sub-Saharan Africa, but also to develop lasting national, regional or thematic networks to support ongoing data sharing and reuse.
-
-Please note that projects funded by small grants have an implementation period of up to one year, whereas national or regional projects may have activities continuing for up to two years.
-
-### The eligibility criteria in the BID call for proposals states that all project partners must have completed one of the BID surveys. Can my organization take the survey now?
-
-Yes, the survey has been extended and is still open. [Surveys may be filled out in English, French or Portuguese](http://www.gbif.org/news/surveys-for-data-holders-decision-makers).
-
-The survey may be filled at any time before submission of the concept note.
+Please provide estimates of the anticipated cost of the proposed activities by including budget lines associated to the proposed activities and grouped under the project goals. Remember that overhead may not be charged to BID grants. Please also provide estimates of co-funding contributing directly to the budget of the proposed project. Estimates of co-funding should be provided for as many activity budget lines as possible. Cofunding refers to real costs incurred by the project partners while executing the funded project’s activities. These could be in-kind contributions directly contributing to the project activities (like staff salaries, travel costs etc.) or any in-cash contributions to BID activities from other funding sources. BID grantees will be expected to report on cofunding in their financial reporting. The budget should be provided in Euro and may also include a budget in the local currency of the coordinator.
 
 -----------------------
 
 ## On forming consortia and partnerships
+
+>UNEDITED as of 5 Sept. 
+KEEP OR DELETE? —KAC
 
 ### What are the minimum and maximum number of partners in a regional consortium?
 
@@ -133,14 +98,16 @@ In the case of regional biodiversity data mobilization grants, an international 
 ## On eligible countries
 
 ### Can institutions and agencies based in non-ACP countries be partners in the consortium applying for BID grants?
-In the case of regional biodiversity data mobilization grants, in addition to the minimum of three consortium partners from eligible African ACP countries, projects may choose to include one consortium partner that is a legal entity located EITHER in section 2 or section 3 of the list of [eligible African ACP countries](../eligible-countries).
+
+In the case of regional biodiversity data mobilization grants, in addition to the minimum of three consortium partners from eligible Pacific ACP countries, projects may choose to include one consortium partner that is a legal entity located EITHER in section 2 or section 3 of the list of [eligible African ACP countries](../eligible-countries).
  
 -----------------------
 
 ## On future calls for proposals
 
-### Will there be a second call for BID proposals from Africa?
-A second call for proposals for Africa is expected in 2017. Please sign up for email alerts below.
+### Will there be a second call for BID proposals from the Pacific?
+
+No, this is the one and only call for proposals for this region and the Caribbean. A second call for sub-Saharan Africa is planned for 2017.
 
 -----------------------
 
