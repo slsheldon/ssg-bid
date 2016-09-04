@@ -36,26 +36,35 @@ Institutions from the following ACP countries in the Caribbean are eligible to a
 + Suriname
 + Trinidad and Tobago
 
-### Pacific overseas territories<a name="overseas"></a>
+### Caribbean islands and territories<a name="islands"></a>
 
-Partners in regional consortia may include institutions in overseas territories located in the Caribbean. 
+Institutions from the following non-ACP islands and territories in the Caribbean are eligible apply for funds from the BID programme as part of a [regional partnership](../eligibility#regional), provided that they meet other [eligibility requirements](../eligibility).
 
 + Anguilla
++ Aruba
++ Bermuda
++ Bonaire
 + British Virgin Islands
 + Cayman Islands
++ Curaçao
++ Guadeloupe
++ Martinique
 + Montserrat
++ Saba
++ Saint Martin
++ Saint Barthélemy
++ Sint Eustatius
++ Sint Maarten
 + Turks and Caicos Islands
 
 ### Non-ACP regional consortium partner<a name="regional"></a>
 
-Institutions from the following non-Caribbean ACP countries are eligible apply for funds from the BID programme as part of a [regional partnership](../eligibility#regional), provided that they meet other [eligibility requirements](../eligibility).
+Institutions from the following non-ACP countries are eligible apply for funds from the BID programme as part of a [regional partnership](../eligibility#regional), provided that they meet other [eligibility requirements](../eligibility).
 
 + Afghanistan
 + Albania
 + Algeria
-+ Anguilla
 + Armenia
-+ Aruba
 + [Austria](http://www.gbif.org/country/AT/participation)
 + Azerbaijan
 + Angola
@@ -63,22 +72,18 @@ Institutions from the following non-Caribbean ACP countries are eligible apply f
 + Belarus
 + [Belgium](http://www.gbif.org/country/BE/participation)
 + [Benin](http://www.gbif.org/country/BJ/participation)
-+ Bermuda
 + Bhutan
 + Bolivia
-+ Bonaire
 + Bosnia and Herzegovina
 + Botswana
 + British Antarctic Territory
 + British Indian Ocean Territory
-+ British Virgin Islands
 + Bulgaria
 + Burkina Faso
 + Burundi
 + Cambodia
 + Cameroon
 + Cape Verde
-+ Cayman Islands
 + [Central African Republic](http://www.gbif.org/country/CF/participation)
 + Chad
 + [Chile](http://www.gbif.org/country/CL/participation)
@@ -90,7 +95,6 @@ Institutions from the following non-Caribbean ACP countries are eligible apply f
 + [Costa Rica](http://www.gbif.org/country/CR/participation)
 + Côte d'Ivoire
 + Croatia
-+ Curacao
 + Cyprus
 + Czech Republic
 + [Denmark](http://www.gbif.org/country/DK/participation)
@@ -157,7 +161,6 @@ Institutions from the following non-Caribbean ACP countries are eligible apply f
 + Moldova, Republic of
 + Mongolia
 + Montenegro
-+ Montserrat
 + Morocco
 + Mozambique
 + Myanmar
@@ -186,7 +189,6 @@ Institutions from the following non-Caribbean ACP countries are eligible apply f
 + [Portugal](http://www.gbif.org/country/PT/participation)
 + Romania
 + Rwanda
-+ Saba
 + Saint Helena and Dependencies
 + Saint Pierre and Miquelon
 + Samoa, American
@@ -196,8 +198,6 @@ Institutions from the following non-Caribbean ACP countries are eligible apply f
 + Serbia
 + Seychelles
 + Sierra Leone
-+ Sint Eustatius
-+ Sint Maarten
 + [Slovakia](http://www.gbif.org/country/SK/participation)
 + [Slovenia](http://www.gbif.org/country/SI/participation)
 + Solomon Islands
@@ -221,7 +221,6 @@ Institutions from the following non-Caribbean ACP countries are eligible apply f
 + Tunisia
 + Turkey
 + Turkmenistan
-+ Turks and the Caicos Islands
 + Tuvalu
 + [Uganda](http://www.gbif.org/country/UG/participation)
 + Ukraine

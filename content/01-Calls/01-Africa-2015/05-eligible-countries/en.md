@@ -103,7 +103,7 @@ Institutions from the following non-ACP countries are eligible apply for funds f
 + [Costa Rica](http://www.gbif.org/country/CR/participation)
 + Croatia
 + Cuba
-+ Curacao
++ Curaçao
 + Cyprus
 + Czech Republic
 + [Denmark](http://www.gbif.org/country/DK/participation)

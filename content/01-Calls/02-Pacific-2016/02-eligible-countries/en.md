@@ -39,7 +39,7 @@ Institutions from the following ACP countries in the Pacific are eligible to app
 
 ### Pacific overseas territories<a name="overseas"></a>
 
-Partners in regional consortia may include institutions in overseas territories located in the Pacific Islands. 
+Institutions from the following non-ACP islands and territories in the Pacific are eligible apply for funds from the BID programme as part of a [regional partnership](../eligibility#regional), provided that they meet other [eligibility requirements](../eligibility). 
 
 + American Samoa
 + French Polynesia
@@ -97,7 +97,7 @@ Institutions from the following non-Pacific ACP countries are eligible apply for
 + Côte d'Ivoire
 + Croatia
 + Cuba
-+ Curacao
++ Curaçao
 + Cyprus
 + Czech Republic
 + [Denmark](http://www.gbif.org/country/DK/participation)
