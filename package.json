@@ -16,7 +16,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "bower": "^1.7.7",
-    "gbif-ssg": "gbif/ssg.git#44f18862494ffc60dac5cf1506e849b172ad9c58",
+    "gbif-ssg": "gbif/ssg.git#2c904c9687d4401046ac719d8783c1d5a612917f",
     "gulp": "^3.9.0"
   }
 }
