@@ -81,25 +81,18 @@ Up to €5,000 per small grant. During the course of the BID programme, the maxi
 
 -----------
 
-## Regional grant activity types
+## Small grant activity types
 
-Regional grants must include activities contributing to each of three component categories. Each category presented below includes a non-exclusive list of possible types of activity:
+There are two categories of eligible activity types for small grants, each presented with a non-exclusive list of the types of possible types of activity. Small grants must include activities in the first category and may also include activities in the second category: 
 
-**1. Establishing or strengthening networks to support long-term data mobilization and inter-institutional data sharing**
-    + Assessing biodiversity data holdings and user needs through a survey or study to develop a strategy for the consortium
-    + Organizing regional workshops to promote inter-institutional collaboration.
-    + Formalizing partnerships through institutional agreements, data sharing policies and public endorsement of mobilization strategies
-    + Adopting a data publishing process, possibly including installing data publishing informatics tools (e.g. [GBIF Integrated Publishing Toolkit](http://www.gbif.org/ipt))
-    + Training data managers and collections staff within key data holding institutions on data mobilization and management, for example, through workshops to share the knowledge gained through attending the two BID capacity enhancement workshops
-
-**2. Activities to mobilize biodiversity data relevant to protected areas, invasive alien species and/or threatened species**
+**1. Activities to mobilize biodiversity data relevant to protected areas, invasive alien species and/or threatened species**
 + Compiling inventories of biodiversity data holdings (for example, implementing metadata catalogues)
 + Digitizing and publishing natural history collections and biodiversity information from literature
 + Mobilizing species occurrence and sampling-event data from observation networks and monitoring systems, such as invasive alien species, Red Listed species or endemic species
 + Validating and publishing regional, national and local species checklists, invasive species lists or threatened species lists
 + Preparing [data papers](http://www.gbif.org/publishing-data/data-papers) to improve the reusability of the mobilized biodiversity data
 
-**3. Integrating biodiversity information into policy and decision-making processes**
+**2. Integrating biodiversity information into policy and decision-making processes**
 + Leading surveys or workshops to understand the biodiversity data requirements for specific use cases.
 + Setting up user groups to guide project implementation on identified priority themes, such as agrobiodiversity, urban biodiversity and protected areas.
 + Directing workshops and advocacy actions that promote the use of openly accessible data, for example, in national-level biodiversity reporting.

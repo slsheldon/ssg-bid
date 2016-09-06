@@ -88,11 +88,11 @@ A minimum of three partners, each from a different Caribbean ACP country, must b
 Regional grants must include activities contributing to each of three component categories. Each category presented below includes a non-exclusive list of possible types of activity:
 
 **1. Establishing or strengthening networks to support long-term data mobilization and inter-institutional data sharing**
-    + Assessing biodiversity data holdings and user needs through a survey or study to develop a strategy for the consortium
-    + Organizing regional workshops to promote inter-institutional collaboration.
-    + Formalizing partnerships through institutional agreements, data sharing policies and public endorsement of mobilization strategies
-    + Adopting a data publishing process, possibly including installing data publishing informatics tools (e.g. [GBIF Integrated Publishing Toolkit](http://www.gbif.org/ipt))
-    + Training data managers and collections staff within key data holding institutions on data mobilization and management, for example, through workshops to share the knowledge gained through attending the two BID capacity enhancement workshops
++ Assessing biodiversity data holdings and user needs through a survey or study to develop a strategy for the consortium
++ Organizing regional workshops to promote inter-institutional collaboration.
++ Formalizing partnerships through institutional agreements, data sharing policies and public endorsement of mobilization strategies
++ Adopting a data publishing process, possibly including installing data publishing informatics tools (e.g. [GBIF Integrated Publishing Toolkit](http://www.gbif.org/ipt))
++ Training data managers and collections staff within key data holding institutions on data mobilization and management, for example, through workshops to share the knowledge gained through attending the two BID capacity enhancement workshops
 
 **2. Activities to mobilize biodiversity data relevant to protected areas, invasive alien species and/or threatened species**
 + Compiling inventories of biodiversity data holdings (for example, implementing metadata catalogues)
