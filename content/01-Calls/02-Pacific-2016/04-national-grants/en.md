@@ -56,7 +56,7 @@ The overall BID programme targets two key outcomes:
 
 ## Key documents
 
-+ [Concept note template](http://#)
++ [Concept note template](/raw/BID-Concept-Note-Template-Pacific.docx)
 
 -----------
 

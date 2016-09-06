@@ -15,7 +15,7 @@ description: Institutions from the following countries are eligible to apply for
 + [Non-ACP regional consortium partners](#regional)
 + [Limited eligibility non-ACP regional consortium partners](#limited)
 
-### Pacific ACP countries<a name="caribbean"></a>
+### Caribbean ACP countries<a name="caribbean"></a>
 
 Institutions from the following ACP countries in the Caribbean are eligible to apply for funds under the BID programme, provided that they meet other [eligibility requirements](../eligibility).
 
@@ -36,7 +36,7 @@ Institutions from the following ACP countries in the Caribbean are eligible to a
 + Suriname
 + Trinidad and Tobago
 
-### Caribbean islands and territories<a name="islands"></a>
+### Other Caribbean islands and territories<a name="islands"></a>
 
 Institutions from the following non-ACP islands and territories in the Caribbean are eligible apply for funds from the BID programme as part of a [regional partnership](../eligibility#regional), provided that they meet other [eligibility requirements](../eligibility).
 
