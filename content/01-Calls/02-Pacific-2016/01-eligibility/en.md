@@ -13,7 +13,7 @@ In addition to meeting role-dependent location requirements in an [eligible coun
 
 -----------------------
 
-## General eligibility criteria
+## General eligibility criteria<a name="general"></a>
 
 All applications for BID grants must comply with the following general eligibility criteria:
 
