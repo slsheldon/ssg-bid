@@ -7,7 +7,7 @@ subCategory: Pacific 2016
 
 # Frequently Asked Questions
 
-This regularly updated list of FAQs on the 2016 BID call for proposals from the Pacific includes responses to questions sent to [bid@gbif.org](mailto:bid@gbif.org).
+GBIF will update this list of FAQs for the 2016 BID call for proposals from the Pacific to include responses to questions sent to [bid@gbif.org](mailto:bid@gbif.org).
 
  <!-- toc -->
  <!-- tocstop -->
