@@ -12,7 +12,7 @@ description: Institutions from the following countries are eligible to apply for
 
 + [Caribbean ACP countries](#caribbean)
 + [Other Caribbean islands and overseas territories](#islands)
-+ [Non-ACP regional consortium partners](#regional)
++ [Non-Caribbean ACP regional consortium partners](#regional)
 + [Limited eligibility non-ACP regional consortium partners](#limited)
 
 ### Caribbean ACP countries<a name="caribbean"></a>
@@ -38,7 +38,7 @@ Institutions from the following ACP countries in the Caribbean are eligible to a
 
 ### Other Caribbean islands and territories<a name="islands"></a>
 
-Institutions from the following non-ACP islands and territories in the Caribbean are eligible to apply for funds from the BID programme as part of a [regional partnership](../eligibility#regional), provided that they meet other [eligibility requirements](../eligibility).
+Institutions from the following non-ACP islands and territories in the Caribbean are eligible to apply for funds from the BID programme as part of a [regional partnership](../regional-grants), provided that they meet other [eligibility requirements](../eligibility).
 
 + Anguilla
 + Aruba
@@ -59,7 +59,7 @@ Institutions from the following non-ACP islands and territories in the Caribbean
 
 ### Non-Caribbean ACP consortium partner<a name="regional"></a>
 
-Regional consortia may include one partner from outside the Caribbean region. Institutions from the following countries outside the region are eligible apply for funds from the BID programme as part of a [regional partnership](../eligibility#regional), provided that they meet other [eligibility requirements](../eligibility).
+Regional consortia may include one partner from outside the Caribbean region. Institutions from the following countries outside the region are eligible apply for funds from the BID programme as part of a [regional partnership](../regional-grants), provided that they meet other [eligibility requirements](../eligibility).
 
 + Afghanistan
 + Albania
@@ -132,7 +132,7 @@ Regional consortia may include one partner from outside the Caribbean region. In
 + Italy
 + Jordan
 + Kazakhstan
-+ [Kenya](http://www.gbif.org/country/KY/participation)
++ [Kenya](http://www.gbif.org/country/KE/participation)
 + Kiribati
 + Korea, Democratic People’s Republic of
 + Kosovo
@@ -173,7 +173,7 @@ Regional consortia may include one partner from outside the Caribbean region. In
 + Nicaragua
 + Niue
 + Niger
-+ [Nigeria](http://www.gbif.org/country/NG/participation)
++ Nigeria
 + Norfolk Island
 + Northern Mariana Islands
 + [Norway](http://www.gbif.org/country/NO/participation)
@@ -185,7 +185,7 @@ Regional consortia may include one partner from outside the Caribbean region. In
 + [Peru](http://www.gbif.org/country/PE/participation)
 + [Philippines](http://www.gbif.org/country/PH/participation)
 + Pitcairn
-+ [Poland](http://www.gbif.org/country/PO/participation)
++ [Poland](http://www.gbif.org/country/PL/participation)
 + [Portugal](http://www.gbif.org/country/PT/participation)
 + Romania
 + Rwanda
@@ -238,7 +238,7 @@ Regional consortia may include one partner from outside the Caribbean region. In
 
 ### Limited eligibility non-ACP regional consortium partner<a name="limited"></a>
 
-Institutions from the following non-ACP countries have limited eligibility to apply for funds from the BID programme as part of a [regional partnership](../eligibility#regional), provided that they meet other [eligibility requirements](../eligibility). Please contact [bid@gbif.org](mailto:bid@gbif.org) for details.
+Institutions from the following non-ACP countries have limited eligibility to apply for funds from the BID programme as part of a [regional partnership](../regional-grants), provided that they meet other [eligibility requirements](../eligibility). Please contact [bid@gbif.org](mailto:bid@gbif.org) for details.
 
 + [Australia](http://www.gbif.org/country/AU/participation)
 + [Canada](http://www.gbif.org/country/CA/participation)
