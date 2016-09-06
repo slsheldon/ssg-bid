@@ -1,89 +1,91 @@
 ---
 title: Eligible Countries
 category: Calls
-subCategory: Caribbean 2016
-description: Institutions from the following countries are eligible to apply for funds or participate in specific roles under the 2016 call for proposals from the Caribbean, provided that they meet other requirements.
+subCategory: Pacific 2016
+description: Institutions from the following countries are eligible to apply for funds or participate in specific roles under the 2016 call for proposals from the Pacific Islands, provided that they meet other requirements.
 ---
 
-# Eligible countries
+# Countries eligible for the 2016 call for proposals from the Pacific Islands
 
 
-## Countries eligible for the 2016 call for proposals from the Caribbean
 
-+ [Caribbean ACP countries](#caribbean)
-+ [Caribbean overseas territories](#overseas)
-+ [Non-ACP regional consortium partners](#regional)
+## Countries eligible for the 2016 call for proposals from the Pacific Islands
+
++ [Pacific ACP countries](#pacific)
++ [Pacific overseas territories](#overseas)
++ [Non-Pacific ACP regional consortium partners](#regional)
 + [Limited eligibility non-ACP regional consortium partners](#limited)
 
-### Caribbean ACP countries<a name="caribbean"></a>
 
-Institutions from the following ACP countries in the Caribbean are eligible to apply for funds under the BID programme, provided that they meet other [eligibility requirements](../eligibility).
+### Pacific ACP countries<a name="pacific"></a>
 
-+ Antigua and Barbuda
-+ Bahamas
-+ Barbados
-+ Belize
-+ Cuba
-+ Dominica
-+ Dominican Republic
-+ Grenada
-+ Guyana
-+ Haiti
-+ Jamaica
-+ St Kitts and Nevis
-+ St Lucia
-+ St Vincent and the Grenadines
-+ Suriname
-+ Trinidad and Tobago
+Institutions from the following ACP countries in the Pacific are eligible to apply for funds under the BID programme, provided that they meet other [eligibility requirements](../eligibility).
 
-### Other Caribbean islands and territories<a name="islands"></a>
++ Cook Islands
++ Federated States of Micronesia
++ Fiji
++ Kiribati
++ Marshall Islands
++ Nauru
++ Niue
++ Palau
++ Papua New Guinea
++ Samoa Western
++ Solomon Islands
++ Timor-Leste
++ Tonga
++ Tuvalu
++ Vanuatu
 
-Institutions from the following non-ACP islands and territories in the Caribbean are eligible apply for funds from the BID programme as part of a [regional partnership](../eligibility#regional), provided that they meet other [eligibility requirements](../eligibility).
+### Pacific overseas territories<a name="overseas"></a>
 
-+ Anguilla
-+ Aruba
-+ Bermuda
-+ Bonaire
-+ British Virgin Islands
-+ Cayman Islands
-+ Curaçao
-+ Guadeloupe
-+ Martinique
-+ Montserrat
-+ Saba
-+ Saint Martin
-+ Saint Barthélemy
-+ Sint Eustatius
-+ Sint Maarten
-+ Turks and Caicos Islands
+Institutions from the following non-ACP islands and territories in the Pacific are eligible to apply for funds from the BID programme as part of a [regional partnership](../regional-grants), provided that they meet other [eligibility requirements](../eligibility). 
 
-### Non-ACP regional consortium partner<a name="regional"></a>
++ American Samoa
++ French Polynesia
++ Guam
++ New Caledonia
++ Norfolk Island
++ Northern Mariana Islands
++ Pitcairn
++ Tokelau
++ Wallis and Futuna
 
-Institutions from the following non-ACP countries are eligible apply for funds from the BID programme as part of a [regional partnership](../eligibility#regional), provided that they meet other [eligibility requirements](../eligibility).
+### Non-Pacific ACP regional consortium partner<a name="regional"></a>
+
+Regional consortia may include one partner from outside the Pacific region. Institutions from the following countries outside the region are eligible apply for funds from the BID programme as part of a [regional partnership](../regional-grants), provided that they meet other [eligibility requirements](../eligibility).
 
 + Afghanistan
 + Albania
 + Algeria
++ Anguilla
++ Antigua and Barbuda
 + Armenia
++ Aruba
 + [Austria](http://www.gbif.org/country/AT/participation)
 + Azerbaijan
 + Angola
 + Bangladesh
 + Belarus
 + [Belgium](http://www.gbif.org/country/BE/participation)
++ Belize
 + [Benin](http://www.gbif.org/country/BJ/participation)
++ Bermuda
 + Bhutan
 + Bolivia
++ Bonaire
 + Bosnia and Herzegovina
 + Botswana
 + British Antarctic Territory
 + British Indian Ocean Territory
++ British Virgin Islands
 + Bulgaria
 + Burkina Faso
 + Burundi
 + Cambodia
 + Cameroon
 + Cape Verde
++ Cayman Islands
 + [Central African Republic](http://www.gbif.org/country/CF/participation)
 + Chad
 + [Chile](http://www.gbif.org/country/CL/participation)
@@ -91,14 +93,17 @@ Institutions from the following non-ACP countries are eligible apply for funds f
 + Comoros
 + [Congo, Democratic Republic of](http://www.gbif.org/country/CD/participation)
 + [Congo, Republic of the](http://www.gbif.org/country/CG/participation)
-+ Cook Islands
 + [Costa Rica](http://www.gbif.org/country/CR/participation)
 + Côte d'Ivoire
 + Croatia
++ Cuba
++ Curaçao
 + Cyprus
 + Czech Republic
 + [Denmark](http://www.gbif.org/country/DK/participation)
 + Djibouti
++ Dominica
++ Dominican Republic
 + Ecuador
 + Egypt 
 + El Salvador
@@ -107,10 +112,8 @@ Institutions from the following non-ACP countries are eligible apply for funds f
 + [Estonia](http://www.gbif.org/country/EE/participation)
 + Ethiopia
 + Falkland Islands
-+ Fiji
 + [Finland](http://www.gbif.org/country/FI/participation)
 + [France](http://www.gbif.org/country/FR/participation)
-+ French Polynesia
 + French Southern and Antarctic Territories
 + Gabon
 + Gambia
@@ -119,10 +122,12 @@ Institutions from the following non-ACP countries are eligible apply for funds f
 + [Ghana](http://www.gbif.org/country/GH/participation)
 + Greece
 + Greenland
-+ Guam
++ Grenada
 + Guatemala
 + [Guinea](http://www.gbif.org/country/GN/participation)
 + Guinea-Bissau
++ Guyana
++ Haiti
 + Honduras
 + Hungary
 + [Iceland](http://www.gbif.org/country/IS/participation)
@@ -130,10 +135,10 @@ Institutions from the following non-ACP countries are eligible apply for funds f
 + Iraq
 + [Ireland](http://www.gbif.org/country/IE/participation)
 + Italy
++ Jamaica
 + Jordan
 + Kazakhstan
-+ [Kenya](http://www.gbif.org/country/KY/participation)
-+ Kiribati
++ [Kenya](http://www.gbif.org/country/KE/participation)
 + Korea, Democratic People’s Republic of
 + Kosovo
 + Kyrgyz Republic
@@ -153,54 +158,48 @@ Institutions from the following non-ACP countries are eligible apply for funds f
 + Maldives
 + Mali
 + Malta
-+ Marshall Islands
 + [Mauritania](http://www.gbif.org/country/MR/participation)
 + Mauritius
 + Mayotte
-+ Micronesia, Federated States of
 + Moldova, Republic of
 + Mongolia
 + Montenegro
++ Montserrat
 + Morocco
 + Mozambique
 + Myanmar
 + Namibia
-+ Nauru
 + Nepal
 + [Netherlands](http://www.gbif.org/country/NL/participation)
 + Netherlands Antilles
-+ New Caledonia
 + Nicaragua
-+ Niue
 + Niger
-+ [Nigeria](http://www.gbif.org/country/NG/participation)
-+ Norfolk Island
-+ Northern Mariana Islands
++ Nigeria
 + [Norway](http://www.gbif.org/country/NO/participation)
 + [Pakistan](http://www.gbif.org/country/PK/participation)
-+ Palau
 + Panama
-+ Papua New Guinea
 + Paraguay
 + [Peru](http://www.gbif.org/country/PE/participation)
 + [Philippines](http://www.gbif.org/country/PH/participation)
-+ Pitcairn
-+ [Poland](http://www.gbif.org/country/PO/participation)
++ [Poland](http://www.gbif.org/country/PL/participation)
 + [Portugal](http://www.gbif.org/country/PT/participation)
 + Romania
 + Rwanda
++ Saba
 + Saint Helena and Dependencies
++ Saint Kitts and Nevis
++ Saint Lucia
 + Saint Pierre and Miquelon
-+ Samoa, American
-+ Samoa, Western
++ Saint Vincent & the Grenadines
 + São Tomé and Principe
 + Senegal
 + Serbia
 + Seychelles
 + Sierra Leone
++ Sint Eustatius
++ Sint Maarten
 + [Slovakia](http://www.gbif.org/country/SK/participation)
 + [Slovenia](http://www.gbif.org/country/SI/participation)
-+ Solomon Islands
 + Somalia
 + [South Africa](http://www.gbif.org/country/ZA/participation)
 + South Georgia and the South Sandwich Islands
@@ -208,29 +207,25 @@ Institutions from the following non-ACP countries are eligible apply for funds f
 + [Spain](http://www.gbif.org/country/ES/participation)
 + Sri Lanka
 + Sudan
++ Suriname
 + Swaziland
 + [Sweden](http://www.gbif.org/country/SE/participation)
 + Syria
 + Tajikistan
 + [Tanzania](http://www.gbif.org/country/TZ/participation)
 + Thailand
-+ Timor-Leste
 + [Togo](http://www.gbif.org/country/TG/participation)
-+ Tokelau
-+ Tonga
 + Tunisia
 + Turkey
 + Turkmenistan
-+ Tuvalu
++ Turks and the Caicos Islands
 + [Uganda](http://www.gbif.org/country/UG/participation)
 + Ukraine
 + [United Kingdom](http://www.gbif.org/country/GB/participation)
 + [Uruguay](http://www.gbif.org/country/UY/participation)
 + Uzbekistan
-+ Vanuatu
 + Venezuela
 + Vietnam
-+ Wallis and Futuna
 + West Bank and Gaza Strip
 + Yemen
 + Zambia
@@ -238,7 +233,7 @@ Institutions from the following non-ACP countries are eligible apply for funds f
 
 ### Limited eligibility non-ACP regional consortium partner<a name="limited"></a>
 
-Institutions from the following non-ACP countries have limited eligibility to apply for funds from the BID programme as part of a [regional partnership](../eligibility#regional), provided that they meet other [eligibility requirements](../eligibility). Please contact [bid@gbif.org](mailto:bid@gbif.org) for details.
+Institutions from the following non-ACP countries have limited eligibility to apply for funds from the BID programme as part of a [regional partnership](../regional-grants), provided that they meet other [eligibility requirements](../eligibility). Please contact [bid@gbif.org](mailto:bid@gbif.org) for details.
 
 + [Australia](http://www.gbif.org/country/AU/participation)
 + [Canada](http://www.gbif.org/country/CA/participation)

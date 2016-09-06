@@ -1,17 +1,18 @@
 ---
 title: Introduction
 category: Calls
-subCategory: Caribbean
-description:  A call for proposals from Caribbean countries will take place in 2016.
-image: /images/mangrove-island.jpg
-imageTitle: Île de mangrove, Caye Caulker, Belize. CC BY-NC-SA 2009, CameliaTWU.
-imageLink: https://flic.kr/p/6VRgVD
+subCategory: Pacific
+description: GBIF inviting submissions of proposals for funding from the ACP countries in the Pacific for the Biodiversity Information for Development (BID) programme.
+image: /images/sunset-at-eua-tonga.jpg
+imageTitle: Sunset at 'Eua, Tongatapu, Tonga. CC BY-NC-SA 2010, Matti Vuorre.
+imageLink: https://flic.kr/p/8UiAH2
+
 ---
 # Call for proposals
 
-_Caribbean, 2016_
+_Pacific, 2016_
 
-GBIF, the Global Biodiversity Information Facility, is now inviting submissions of proposals for funding from the ACP countries in the Caribbean for the Biodiversity Information for Development (BID) programme. The total potential funding assigned to this call is €500,000.
+GBIF, the Global Biodiversity Information Facility, is now inviting submissions of proposals for funding from the ACP countries in the Pacific for the Biodiversity Information for Development (BID) programme. The total potential funding assigned to this call is €500,000.
 
 ## Types of grants
 
@@ -34,30 +35,27 @@ ________________
 
 GBIF is seeking input from two stakeholder groups critical to the long-term success of the BID programme: data holders and decision makers. 
 
-Applicants seeking funding under this call for proposals, including their proposed project partners, are required to complete the appropriate survey. 
+*NOTE*: All applicants seeking funding under this call for proposals are required to complete the appropriate survey.
 
 **Data holders** need resources and incentives to distribute the many types of information that they steward. 
 
-[What financial or technical challenges do you face in sharing data for use in research and policy?](https://www.surveymonkey.com/r/J8T7C6B)
+[What financial or technical challenges do you face in sharing data for use in research and policy?](https://www.surveymonkey.com/r/8VMYWGH)
 
 **Decision makers** depend on high-quality biodiversity information to support planning and policy and to encourage world-class research. 
 
-[How well do you feel that your information needs are currently served?](https://www.surveymonkey.com/r/J87WFXS)
+[How well do you feel that your information needs are currently served?](https://www.surveymonkey.com/r/8VQXG7W)
 
-Ces deux sondages sont également disponibles en français:
-+ [Détenteurs de données](https://fr.surveymonkey.com/r/F8BMV2C)
-+ [Décideurs](https://fr.surveymonkey.com/r/F85HFH2)
+Both surveys are also available in French
++ [Détenteurs de données](https://fr.surveymonkey.com/r/7NSCNPW)
++ [Décideurs](https://fr.surveymonkey.com/r/9J3T2XS)
 
-Los dos cuestionarios también están disponibles en español:
-+ [Custodios de datos](https://www.surveymonkey.com/r/53QYLFD)
-+ [Tomadores de decisiones](https://www.surveymonkey.com/r/537TYL3)
-
---------------
+-----
 
 ```styledYaml
 templates:
 - path: signup/signup_en.html
 ```
+
 
 ---------
 
