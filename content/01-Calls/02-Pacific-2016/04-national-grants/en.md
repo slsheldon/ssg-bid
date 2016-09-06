@@ -73,7 +73,7 @@ Proposals will be assessed using the following criteria:
 7. Anticipated value of the project deliverables to both the national context and the broader GBIF community.
 8. Choice and diversity of project partners, with preference given to projects that have the confirmed involvement of a diverse network of data holders and data users.
 
-NOTE: Full proposals will also assess a) project management skills of coordinating team based on previous experience, b) quantity, quality and relevance of the biodiversity data proposed for mobilization; c) quality of project design and risk assessment; d) monitoring and evaluation plans; and e) sustainability plan.
+NOTE: Full proposals will also assess a) project management skills of coordinating team based on previous experience, b) quality of project design and risk assessment; c) monitoring and evaluation plans; and d) sustainability plan.
 
 -----------
 
