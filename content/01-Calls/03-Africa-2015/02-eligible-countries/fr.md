@@ -1,5 +1,5 @@
 ---
-title: Pays Éligibles
+title: Pays éligibles
 category: Appels
 subCategory: Afrique 2015
 description: Les institutions des pays suivants sont admissibles à des fonds ou participer à des rôles spécifiques dans le cadre de l'appel 2015 pour des propositions de l'Afrique subsaharienne, à condition qu'ils répondent à d'autres exigences.

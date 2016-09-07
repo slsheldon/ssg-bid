@@ -3,9 +3,9 @@ title: Introduction
 category: Appels
 subCategory: Afrique 2015
 description: L'appel à propositions de l'Afrique subsaharienne a fermé le 20 Novembre 2015. GBIF annoncera la sélection des projets en Avril ici 2016.
-image: //www.gbif.org/sites/default/files/styles/focal_point_for_news/public/gbif_scaled_contents/news/2015-November/82567/Virunga_National_Park_DRC.jpg
-imageTitle: Virunga National Park, North Kivu, Democratic Republic of Congo. Photo by Joseph King. CC BY-NC-ND 2.0.
-imageLink: https://www.flickr.com/photos/kingjn/
+image: /images/Wbeest_Mara.jpg
+imageTitle: Wildebeest herds in the Masai Mara, Kenya. Photo by T. R. Shankar Raman. CC BY 3.0.
+imageLink: https://en.wikipedia.org/wiki/File:Wbeest_Mara.jpg
 ---
 # Appel à propositions de projets
 

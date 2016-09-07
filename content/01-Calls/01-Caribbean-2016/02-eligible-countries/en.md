@@ -1,5 +1,5 @@
 ---
-title: Eligible Countries
+title: Eligible countries
 category: Calls
 subCategory: Caribbean 2016
 description: Institutions from the following countries are eligible to apply for funds or participate in specific roles under the 2016 call for proposals from the Caribbean, provided that they meet other requirements.
