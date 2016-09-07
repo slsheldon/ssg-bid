@@ -14,7 +14,7 @@ Financiado pela [União Europeia](http://europa.eu) e liderado pelo [GBIF](http:
 
 A primeira fase do financiamento do projeto do BID desde [cerca de € 1 milhão para 23 projetos na África Subsaariana](http://www.gbif.org/newsroom/news/first-bid-grants-for-africa). Destinatários incluem 34 organizações de 20 países africanos, cujos projectos ganhou selecção por um painel internacional de um conjunto inicial de 143 propostas iniciais. [Ver todos os projetos](http://www.gbif.org/programme/bid/all-projects).
 
-A chamada final para os países ACP de África é esperado para seguir em 2017.
+Uma última convite para os países da África ACP deve seguir em 2017.
 
 -----------------
 
