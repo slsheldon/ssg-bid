@@ -3,6 +3,9 @@ title: Eligibility
 description: Organizations seeking funding through the BID programme must meet both general and grant-specific eligibility requirements.
 category: Calls
 subCategory: Pacific 2016
+image: /images/vatu-i-ra-reef.jpg
+imageTitle: Vatu-I-Ra reefscape. CC BY-NC-SA 2012, Harvey Cohen
+imageLink: https://flic.kr/p/f4LjQT
 ---
 # Eligibility
 

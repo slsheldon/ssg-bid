@@ -2,9 +2,9 @@
 title: Inicial
 style: home article
 description: "Financiado pela União Europeia e liderado pelo GBIF—o Global Biodiversity Information Facility—, o BID: Informação sobre Biodiversidade para o Desenvolvimento é um programa pluri-anual para aumentar a disponibilidade e uso de informação sobre biodiversidade para a investigação científica e tomada de decisão nas nações ‘ACP’ da África Subsariana, Caraíbas e Pacífico."
-image: /images/Wbeest_Mara.jpg
-imageTitle: Wildebeest herds in the Masai Mara, Kenya. Photo by T. R. Shankar Raman. CC BY 3.0.
-imageLink: "https://en.wikipedia.org/wiki/File:Wbeest_Mara.jpg"
+image: /images/mangrove-island.jpg
+imageTitle: Mangrove island, Caye Caulker, Belize. CC BY-NC-SA 2009, CameliaTWU.
+imageLink: https://flic.kr/p/6VRgVD
 ---
 BID: Informação sobre Biodiversidade para o Desenvolvimento
 ===================

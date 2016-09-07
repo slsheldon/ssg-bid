@@ -2,16 +2,35 @@
 title: Introduction
 category: Appels
 subCategory: Pacifique
-description: L'appel à propositions de les pays dans les îles du Pacifique dans le deuxième trimestre de 2016.
+description: GBIF invite maintenant la présentation de propositions pour le financement des Pacifique pour le programme BID – l'Information sur la Biodiversité pour le Développement.
+image: /images/sunset-at-eua-tonga.jpg
+imageTitle: Sunset at 'Eua, Tongatapu, Tonga. CC BY-NC-SA 2010, Matti Vuorre.
+imageLink: "https://flic.kr/p/8UiAH2"
 
 ---
 # Appel à propositions
 
 _Pacifique, 2016_
 
-GBIF prévoit publier un appel à propositions pour les [pays ACP dans les îles du Pacifique](http://www.acp.int/content/secretariat-acp) dans le deuxième trimestre de 2016.
+GBIF invite maintenant la présentation de propositions pour le financement des Caraïbes pour le programme BID: l'Information sur la Biodiversité pour le Développement. Le financement potentiel total affecté à cet appel est de € 500.000.
 
-**Inscrivez-vous ci-dessous pour recevoir les mises à jour par e-mail** (en anglais) que plus d'informations seront disponibles. 
+## Types de subventions
+
+L'appel offre un support pour trois types de subventions :
+
+1. [Subventions régionales](../regional-grants)
+2. [Subventions nationales](../national-grants)
+3. [Petites subventions](../small-grants)
+
+## Procédure de soumission et le calendrier
+
+La date limite pour les notes conceptuelles initiales d'Afrique subsaharienne était le 20 novembre 2015. Le GBIF et la commission d'évaluation ont fourni des commentaires et des recommandations aux candidats invités à préparer des propositions complètes. 
+
+Une commission d'évaluation des experts régionaux et thématiques et des représentants des bailleurs de fonds évaluera les propositions par d'un processus concurrentiel en deux étapes.
+
++ **Notes conceptuelles initiales**, en utilisant le modèle correspondant, doit être soumis le 10 Novembre ici 2016.
++ Basé sur les recommandations des panneaux, GBIF invitera un groupe restreint de candidats pour préparer des **propositions complètes**, dues au début de Février 2017.
++ Après un dernier examen et la sélection par les panneaux, les **projets financés** vont commencer en Avril 2017.
 
 ## Sondages pour détenteurs de données et décideurs dans les îles du Pacifique
 

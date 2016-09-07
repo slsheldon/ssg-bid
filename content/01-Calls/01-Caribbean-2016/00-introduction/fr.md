@@ -2,8 +2,10 @@
 title: Introduction
 category: Appels
 subCategory: Caraïbes
-description: L'appel à propositions de les pays Caraïbes dans le deuxième trimestre de 2016.
-
+description: GBIF invite maintenant la présentation de propositions pour le financement des Caraïbes pour le programme BID – l'Information sur la Biodiversité pour le Développement. 
+image: /images/mangrove-island.jpg
+imageTitle: Mangrove island, Caye Caulker, Belize. CC BY-NC-SA 2009, CameliaTWU.
+imageLink: https://flic.kr/p/6VRgVD
 ---
 # Appel à propositions
 
@@ -17,7 +19,7 @@ L'appel offre un support pour trois types de subventions :
 
 1. [Subventions régionales](../regional-grants)
 2. [Subventions nationales](../national-grants)
-3. [Petits subventions](../small-grants)
+3. [Petites subventions](../small-grants)
 
 ## Procédure de soumission et le calendrier
 

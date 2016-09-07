@@ -3,6 +3,9 @@ title: Eligibility
 description: Organizations seeking funding through the BID programme must meet both general and grant-specific eligibility requirements.
 category: Calls
 subCategory: Caribbean 2016
+image: /images/palm-trees.jpg
+imageTitle: Palm trees in the wind, Saona Parce Nacional del Este, Adamanay, La Altagracia, Dominican Republic. CC BY-NC-SA 2015, Reinhard Link
+imageLink: https://flic.kr/p/HkmtqU
 ---
 # Eligibility
 

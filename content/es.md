@@ -2,9 +2,9 @@
 title: Inicio
 style: home article
 description: Información sobre Biodiversidad para el Desarrollo (BID) es un programa plurianual financiado por la Unión Europea y coordinado por GBIF. Su objetivo es aumentar la cantidad de información sobre biodiversidad disponible para su uso en la investigación científica y la formulación de políticas en los países de África subsahariana, del Caribe y del Pacífico el 'ACP'.
-image: /images/Wbeest_Mara.jpg
-imageTitle: Wildebeest herds in the Masai Mara, Kenya. Photo by T. R. Shankar Raman. CC BY 3.0.
-imageLink: https://en.wikipedia.org/wiki/File:Wbeest_Mara.jpg
+image: /images/mangrove-island.jpg
+imageTitle: Mangrove island, Caye Caulker, Belize. CC BY-NC-SA 2009, CameliaTWU.
+imageLink: https://flic.kr/p/6VRgVD
 ---
 
 BID: Información sobre Biodiversidad para el Desarrollo
