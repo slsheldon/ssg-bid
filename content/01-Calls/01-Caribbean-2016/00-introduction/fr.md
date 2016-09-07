@@ -11,25 +11,24 @@ imageLink: https://flic.kr/p/6VRgVD
 
 _Caraïbes 2016_
 
-GBIF invite maintenant la présentation de propositions pour le financement des Caraïbes pour le programme BID: l'Information sur la Biodiversité pour le Développement. Le financement potentiel total affecté à cet appel est de € 500.000.
+Le GBIF, le Système Mondial d’Information sur la Biodiversité, lance un appel à proposition de financement de projets pour les pays ACP des Caraïbes dans le cadre du programme BID : l’Information sur la Biodiversité pour le Développement.  Le montant total potentiel de cet appel est de € 500.000.
 
 ## Types de subventions
 
-L'appel offre un support pour trois types de subventions :
+Trois grandes catégories de subventions sont concernées par cet appel à propositions :
 
 1. [Subventions régionales](../regional-grants)
 2. [Subventions nationales](../national-grants)
 3. [Petites subventions](../small-grants)
 
-## Procédure de soumission et le calendrier
+## Procédure de soumission et calendrier
 
-La date limite pour les notes conceptuelles initiales d'Afrique subsaharienne était le 20 novembre 2015. Le GBIF et la commission d'évaluation ont fourni des commentaires et des recommandations aux candidats invités à préparer des propositions complètes. 
+Les propositions de projets seront évaluées par une commission d'évaluation composée d’experts régionaux et thématiques ainsi que de représentants du bailleur de fonds au cours d'un processus concurrentiel en deux étapes.
 
-Une commission d'évaluation des experts régionaux et thématiques et des représentants des bailleurs de fonds évaluera les propositions par d'un processus concurrentiel en deux étapes.
++ Les **notes conceptuelles initiales** doivent être soumises le 10 novembre 2016 au plus tard en utilisant le formulaire fourni à cet effet.
++ Suite aux recommandations de la commission d’évaluation, GBIF invitera un groupe restreint de candidats à soumettre des **propositions complètes** pour le  début de Février 2017.
++ Les projets sélectionnés pour financement seront choisis au cours d’une évaluation finale par la commission d’évaluation et pourront commencer leurs activités en avril 2017.
 
-+ **Notes conceptuelles initiales**, en utilisant le modèle correspondant, doit être soumis le 10 Novembre ici 2016.
-+ Basé sur les recommandations des panneaux, GBIF invitera un groupe restreint de candidats pour préparer des **propositions complètes**, dues au début de Février 2017.
-+ Après un dernier examen et la sélection par les panneaux, les **projets financés** vont commencer en Avril 2017.
 
 ## Sondages pour détenteurs de données et décideurs dans les Caraïbes 
 
