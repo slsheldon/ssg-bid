@@ -79,7 +79,9 @@ Grantees must complete all projects by 31 December 2018.
 
 ## Funding
 
-A minimum of three partners, each from a different Caribbean ACP country, must be involved in a consortium. Each partner may receive up to €20,000, and one consortium coordinator may receive up to €10,000 in additional funding to coordinate the activities of the partners. During the course of the BID programme, the maximum total project funding that any single applicant can receive is €60,000.
+A regional consortium must involve partners from a minimum of three different countries or overseas territories from the region. The consortium coordinator and at least one other partner must be located in an [eligible Caribbean ACP country](../eligible-countries).
+
+Each partner may receive up to €20,000, and one consortium coordinator may receive up to €10,000 in additional funding to coordinate the activities of the partners. During the course of the BID programme, the maximum total project funding that any single applicant can receive is €60,000.
 
 -----------
 
@@ -116,7 +118,7 @@ Regional grants must include activities contributing to each of three component 
 + **Ensure that your project meets the eligibility criteria and aligns well with the overall objectives for the programme**. Consider the evaluation criteria used by the evaluation panel to assess your proposal.
 + **Be brief**. Try to provide the shortest responses possible and only add background information if really needed, using links to external resources rather than long explanations.
 + **Prepare your submissions in English**. The evaluation panel will use English as their working language and therefore applicants are requested to make submissions in English. Remember that if you have particular difficulties with this requirement, contact BID@gbif.org for support as early as possible, and before 20 October 2016.
-+ **Review the FAQ**. [This page](../faq) will be updated throughout the project application period. Send any unanswered questions to [BID@gbif.org](mailto:bid@gbif.org). 
++ **Review the FAQ**. The [FAQ page](../faq) will be updated throughout the project application period. Send any unanswered questions to [BID@gbif.org](mailto:bid@gbif.org). 
 + **Submit as early as possible to avoid problems**. Early submission will give a chance for some follow-up to resolve any issues that arise ahead of the deadline. The deadline for submissions is a hard deadline, and projects received late or incomplete will not be reviewed by the evaluation panel. 
 
 ___________
