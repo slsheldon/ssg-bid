@@ -57,7 +57,7 @@ Institutions from the following non-ACP islands and territories in the Caribbean
 + Sint Maarten
 + Turks and Caicos Islands
 
-### Non-Caribbean consortium partner<a name="regional"></a>
+### Non-regional consortium partner<a name="regional"></a>
 
 Regional consortia may include one partner from outside the Caribbean region. Institutions from the following countries outside the region are eligible apply for funds from the BID programme as part of a [regional partnership](../regional-grants), provided that they meet other [eligibility requirements](../eligibility).
 
@@ -236,9 +236,9 @@ Regional consortia may include one partner from outside the Caribbean region. In
 + Zambia
 + Zimbabwe
 
-### Limited eligibility non-ACP regional consortium partner<a name="limited"></a>
+### Limited-eligibility non-regional consortium partner<a name="limited"></a>
 
-Institutions from the following non-ACP countries have limited eligibility to apply for funds from the BID programme as part of a [regional partnership](../regional-grants), provided that they meet other [eligibility requirements](../eligibility). Please contact [bid@gbif.org](mailto:bid@gbif.org) for details.
+Institutions from the following non-ACP countries have limited eligibility to apply for funds from the BID programme as part of a [regional partnership](../regional-grants), provided that they meet other [eligibility requirements](../eligibility). 
 
 + [Australia](http://www.gbif.org/country/AU/participation)
 + [Canada](http://www.gbif.org/country/CA/participation)

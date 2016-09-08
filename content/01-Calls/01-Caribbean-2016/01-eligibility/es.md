@@ -1,15 +1,13 @@
 ---
 title: Eligibilidad
 description: Todas las aplicaciones para los financiamientos BID deben cumplir con los siguientes criterios generales de elegibilidad.
-category: Calls
-subCategory: Caribbean 2016
+category: Convocatorias a propuestas
+subCategory: Caribe 2016
 image: /images/palm-trees.jpg
 imageTitle: Palm trees in the wind, Saona Parce Nacional del Este, Adamanay, La Altagracia, Dominican Republic. CC BY-NC-SA 2015, Reinhard Link
 imageLink: https://flic.kr/p/HkmtqU
 ---
 # Criterios de elegibilidad
-
-In addition to meeting role-dependent location requirements in an [eligible country](../eligible-countries), organizations seeking funding through the BID programme must meet both general and grant-specific eligibility requirements outlined below. 
 
 <!-- toc -->
 <!-- tocstop -->
@@ -18,7 +16,7 @@ In addition to meeting role-dependent location requirements in an [eligible coun
 
 ## Criterios generales de elegibilidad<a name="general"></a>
 
-All applications for BID grants must comply with the following general eligibility criteria:
+Todas las propuestas de financiamiento puja debe cumplir con los siguientes criterios generales de elegibilidad::
 
 1.	Las notas conceptuales iniciales y las propuestas breves en inglés deben estar completas y ser recibidas dentro de los plazos propuestos.
 2.	Los socios confirmados del proyecto deben haber completado [una de las encuestas](http://www.gbif.org/newsroom/news/BID-caribbean-surveys) que están dirigidas a los tomadores de decisiones y a los custodios de datos de biodiversidad en los países del Caribe y que deben tratar de comprender las necesidades y los recursos de la región en cuanto a datos de biodiversidad.
