@@ -1,7 +1,7 @@
 ---
 title: Pequeños financiamientos
 description: Los pequeños financiamientos bajo el programa BID buscan movilizar los datos de biodiversidad relevantes para establecer prioridades de conservación.
-category: Convocatorias a propuestas
+category: Convocatorias
 subCategory: Caribe 2016
 
 ---

@@ -1,56 +1,57 @@
 ---
-title: Introduction
-category: Calls
-subCategory: Caribbean
-description:  GBIF invites submissions of proposals for funding from the ACP countries in the Caribbean for the Biodiversity Information for Development (BID) programme.
+title: Introducción
+category: Convocatoria
+subCategory: Caribe
+description:  GBIF invita a la presentación de propuestas de financiamiento del Caribe bajo el programa de Información de Biodiversidad para el Desarrollo (BID).
 image: /images/mangrove-island.jpg
-imageTitle: Mangrove island, Caye Caulker, Belize. CC BY-NC-SA 2009, CameliaTWU.
+imageTitle: Isla de manglares, Caye Caulker, Belize. CC BY-NC-SA 2009, CameliaTWU.
 imageLink: https://flic.kr/p/6VRgVD
 ---
-# Call for proposals
+# Convocatorias a propuestas
 
-_Caribbean, 2016_
+_Caribe, 2016_
 
-GBIF, the Global Biodiversity Information Facility, is now inviting submissions of proposals for funding from the ACP countries in the Caribbean for the Biodiversity Information for Development (BID) programme. The total potential funding assigned to this call is €500,000.
+GBIF invita a la presentación de propuestas de financiamiento del Caribe bajo el programa de Información de Biodiversidad para el Desarrollo (BID). El financiamiento total potencialmente asignado a estas dos convocatorias es de €1.000.000, o €500.000 para cada región.
 
-## Types of grants
+## Tipos de financiamiento
 
-GBIF invites proposals for three broad categories of grants:
+GBIF invita propuestas en tres categorías generales de financiamiento:
 
-1. [Regional biodiversity data mobilization grants](../regional-grants)
-2. [National biodiversity data mobilization grants](../national-grants)
-3. [Small biodiversity data mobilization grants](../small-grants)
+1. [Financiamientos regionales](../regional-grants)
+2. [Financiamientos nacionales](../national-grants)
+3. [Pequeños financiamientos](../small-grants)
 
-## Application process and timeline
+## Proceso de solicitud y cronograma
 
-A panel of regional and thematic experts and representatives of the funders will evaluate applications through a two-stage competitive process.
+Dos jurados de expertos internacionales con experiencia en las regiones respectivas, evaluará las solicitudes a través de un proceso competitivo de dos etapas.
 
-+ **Initial concept notes**, using the provided template, must be submitted by 10 November 2016.
-+ Based on the panels’ recommendations, GBIF will invite a select group of applicants to prepare **full proposals**, due in early February 2017.
-+ Following a final review and selection by the panels, **funded projects** will start in April 2017.
++ **Notas conceptuales iniciales**, usando las plantillas provistas, debe ser entregada antes del 10 de Noviembre del 2016.
++ Basado en las recomendaciones de los jurados, GBIF invitará un grupo seleccionado de solicitantes a preparar **propuestas completas**, para entregar a principios de Febrero del 2017.
++ Luego de una revisión y selección final a cargo de los jurados, **proyectos a financiar** comenzarán en Abril del 2017.
+
 ________________
 
-## Survey for data holders and decision makers in the Caribbean
+## Encuesta for data holders and decision makers in the Caribbean
 
-GBIF is seeking input from two stakeholder groups critical to the long-term success of the BID programme: data holders and decision makers. 
+GBIF está buscando insumos de dos grupos de partes interesadas que son críticas para el éxito a largo plazo del programa BID: los custodios de datos y los tomadores de decisiones.
 
-*NOTE*: All applicants seeking funding under this call for proposals are required to complete the appropriate survey.
+*NOTA*: Todos los solicitantes que buscan financiamiento en esta convocatoria de propuestas son necesarios para completar la encuesta apropiada.
 
-**Data holders** need resources and incentives to distribute the many types of information that they steward. 
+**Los custodios de datos** necesitan recursos e incentivos para distribuir los diferentes tipos de información que administran gestionan. 
 
-[What financial or technical challenges do you face in sharing data for use in research and policy?](https://www.surveymonkey.com/r/J8T7C6B)
+[¿A cuáles retos financieros o técnicos se enfrentan para compartir datos y utilizarlos en investigación y políticas?](https://www.surveymonkey.com/r/53QYLFD)
 
-**Decision makers** depend on high-quality biodiversity information to support planning and policy and to encourage world-class research. 
+**Los tomadores de decisiones** dependen de información sobre biodiversidad de alta calidad para apoyar la planificación y sus políticas, así como para incentivar la investigación de primer nivel. 
 
-[How well do you feel that your information needs are currently served?](https://www.surveymonkey.com/r/J87WFXS)
+[¿En qué medida están satisfechas sus necesidades de información?](https://www.surveymonkey.com/r/537TYL3)
 
 Ces deux sondages sont également disponibles en français:
 + [Détenteurs de données](https://fr.surveymonkey.com/r/F8BMV2C)
 + [Décideurs](https://fr.surveymonkey.com/r/F85HFH2)
 
-Los dos cuestionarios también están disponibles en español:
-+ [Custodios de datos](https://www.surveymonkey.com/r/53QYLFD)
-+ [Tomadores de decisiones](https://www.surveymonkey.com/r/537TYL3)
+An English version of this survey is available here:
++ [Data holders](https://www.surveymonkey.com/r/J8T7C6B)
++ [Decision-makers](https://www.surveymonkey.com/r/J87WFXS)
 
 --------------
 

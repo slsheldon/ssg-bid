@@ -1,7 +1,7 @@
 ---
 title: Eligibilidad
 description: Todas las aplicaciones para los financiamientos BID deben cumplir con los siguientes criterios generales de elegibilidad.
-category: Convocatorias a propuestas
+category: Convocatorias
 subCategory: Caribe 2016
 image: /images/palm-trees.jpg
 imageTitle: Palm trees in the wind, Saona Parce Nacional del Este, Adamanay, La Altagracia, Dominican Republic. CC BY-NC-SA 2015, Reinhard Link

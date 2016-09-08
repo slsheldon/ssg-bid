@@ -1,11 +1,11 @@
 ---
-title: Financiamientos regionals
+title: Financiamientos regionales
 description: Los financiamientos regionales bajo el programa BID buscan establecer o reforzar las colaboraciones internacionales para incrementar la movilización de datos de biodiversidad.
 category: Convocatorias
 subCategory: Caribe 2016
 
 ---
-# Financiamientos regionals
+# Financiamientos regionales
 
 _Caribe, 2016_
 

@@ -1,11 +1,11 @@
 ---
-title: National grants
-description: National grants under the BID programme seek to establish or strengthen national biodiversity information facilities and to increase the biodiversity data available about the country to respond to national priorities.
-category: Calls
-subCategory: Caribbean 2016
+title: Financiamientos nacionales
+description: Los financiamientos nacionales bajo el programa BID buscan establecer o reforzar los servicios de información nacional de la biodiversidad e incrementar los datos de biodiversidad sobre el país para responder a prioridades nacionales.
+category: Convocatorias
+subCategory: Caribe 2016
 
 ---
-# National grants
+# Financiamientos nacionales
 
 _Caribbean, 2016_
 
