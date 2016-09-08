@@ -16,7 +16,7 @@ In addition to meeting role-dependent location requirements in an [eligible coun
 
 -----------------------
 
-## General eligibility criteria<a name="general"></a>
+## Criterios generales de elegibilidad<a name="general"></a>
 
 All applications for BID grants must comply with the following general eligibility criteria:
 
@@ -34,28 +34,27 @@ All applications for BID grants must comply with the following general eligibili
 
 -----------------------
 
-## Regional grant eligibility
+## Elegibilidad para financiamientos regionales
 
-In addition to complying with the [general eligibility criteria](#general) above, applications for regional biodiversity data mobilization grants must comply with the following criteria:
+Además de cumplir con [los criterios generales de selección anteriores](#general), las solicitudes de financiamientos regionales para la movilización de datos de biodiversidad deben cumplir con los siguientes criterios:
 
-1. All projects must include activities contributing to each of the three component categories:
-  + Establishing or strengthening networks to support long-term data mobilization and inter-institutional data sharing
-  + Activities to mobilize biodiversity data
-  + Integrating biodiversity information into policy and decision-making processes
-2. The consortium coordinator responsible for organizing project activities on behalf of the consortium partners and other project collaborators must submit the concept note. The consortium coordinator must be a legal entity from an [eligible Caribbean ACP country](../eligible-countries). The consortium coordinator may apply for additional support for activities related to the coordination of the consortium, up to a maximum of €10,000. Applications must explain how the consortium coordinator will coordinate the activities of the partners.
-3. Applications must include at least three consortium partners including the consortium coordinator, each from a different [eligible Caribbean ACP country](../eligible-countries). All consortium partners must have confirmed their participation in the project and must be copied when concept notes and full proposals are submitted. Projects must involve users of biodiversity data as project partners, such as scientists, policy and decision-makers. These must be representatives of legal entities located in an [eligible Caribbean ACP country](../eligible-countries).
-4. Regional consortia may also include one partner from outside the region.
-5. If invited to submit a full project proposal, applicants must copy all confirmed project partners with the submission. Letters of support from confirmed project partners should be included as attachments to email submissions of full proposals.
-6.	All projects must include a major component of data mobilization through the GBIF network. It is expected that most BID funding will be directed towards data mobilization. As a guideline for the national grants, the amount of BID funding spent on data mobilization activities should not be less than 60% of the total grant.
-7.	BID funds may be used to cover up to 50% of the costs of any IT services or purchases, up to a maximum of €2,500 of any national grant. Receipts have to be provided in financial reports.
+1. Todos los proyectos deben incluir actividades que contribuyan a cada una de las siguientes tres categorías:
+  + Establecer o reforzar las redes para permitir la movilización de datos en largos términos y para compartir los datos entre instituciones
+  + Actividades para movilizar los datos de biodiversidad
+  + Integrar la información de biodiversidad en políticas y procesos de toma de decisiones
+2. El coordinador del proyecto es responsable de la coordinación de las actividades en nombre de los socios y debe presentar la nota conceptual. La institución del coordinador debe pertenecer a una entidad legal perteneciente a un [país elegible del Caribe](../eligible-countries). El coordinador del proyecto  podrá solicitar ayuda adicional para las actividades relacionadas con la coordinación del proyecto, hasta un máximo de 10.000 €. Las solicitudes deben explicar cómo el coordinador del proyecto coordinará las actividades de los socios.
+3.	Un consorcio regional debe involucrar socios de al menos tres diferentes países o territorios de ultramar de la región. El coordinador del consorcio y al menos uno de los otros socios debe estar localizados en un país de la ACP [país elegible del Caribe](../eligible-countries). Todos los socios del proyecto deben confirmar su participación en el mismo y deben ser copiados cuando la nota conceptual y las presentaciones completas sean enviadas. Los proyectos deben involucrar usuarios de datos de biodiversidad como socios del proyecto, como científicos, políticos y tomadores de decisiones. Éstos deben representar entidades legales localizadas en un [país elegible del Caribe ACP](../eligible-countries).
+4. Los proyectos regionales también pueden llegar a incluir un socio por fuera de la región.
+5. Si un proyecto es seleccionado para enviar la presentación completa, todos los socios del proyecto deben confirmar dicha presentación. Cartas de soporte de los socios confirmados del proyecto deben ser incluidas como adjuntos en el envío de la presentación completa.
+6. Todos los proyectos deben incluir la mayor componente de movilización de datos mediante la red de GBIF. Es esperable que la mayor proporción del financiamiento del BID sea destinado a la movilización de datos. Como guía para los financiamientos regionales, la cantidad de fondos del BID que deben estar disponibles para las actividades de movilización de datos no puede ser inferior al 60% del total.
+7. El financiamiento del BID puede ser usado para cubrir hasta un 50% de los costos de tecnología e información o compras, hasta un máximo de €2,500 para cualquiera de los financiamientos regionales. Los recibos deben ser presentados en los reportes financieros.
 
 -----------------------
 
-## National grant eligibility
+## Elegibilidad para financiamientos nacionales
 
-In addition to complying with the [general eligibility criteria](#general) above, applications for national biodiversity data mobilization grants must comply with the following criteria:
+Además de cumplir con [los criterios generales de selección anteriores](#general), las solicitudes de financiamiento para la movilización de datos nacionales de biodiversidad deben cumplir con los siguientes criterios:
 
-Además de cumplir con los criterios generales de selección anteriores, las solicitudes de financiamiento para la movilización de datos nacionales de biodiversidad deben cumplir con los siguientes criterios:
 1.	Todos los proyectos deben incluir actividades que contribuyan a cada una de las siguientes tres categorías:
   + Aumento de la capacidad de los servicios de información nacionales de datos de biodiversidad
   + Actividades de movilización de datos de biodiversidad
@@ -69,17 +68,17 @@ Además de cumplir con los criterios generales de selección anteriores, las sol
 
 -----------------------
 
-## Small grant eligibility
+## Elegibilidad para pequeños financiamientos
 
-In addition to complying with the [general eligibility criteria](#general) above, applications for small biodiversity data mobilization grants must comply with the following criteria:
+Además de cumplir con [los criterios generales de selección anteriores](#general), las solicitudes de pequeños financiamientos para la movilización de datos de biodiversidad deben cumplir con los siguientes criterios:
 
-1. All projects must include activities contributing to the first component category and may also include activities contributing to the second component category:
-  + Activities to mobilize biodiversity data
-  + Integrating biodiversity information into policy and decision-making processes
-2. The principal investigator and grant coordinator responsible for organizing project activities on behalf of the project collaborators must submit the concept note. The grant coordinator must be a legal entity located in an [eligible Caribbean ACP country](../eligible-countries).
-3. Projects must involve users of biodiversity data as project partners, such as scientists, policy and decision-makers. These must be representatives of legal entities located in an [eligible Caribbean ACP country](../eligible-countries). A letter of support for the project must be provided from at least one data user.
-4. All projects must include a major component of data mobilization through the GBIF network. It is expected that most BID funding is directed towards data mobilization. As a guideline for the small grants, the amount of BID funding spent on data mobilization activities should not be less than 60% of the total grant.
-5. BID funds may be used to cover up to 50% of the costs of any IT services or purchases, up to a maximum of €1,000 of any small grant. Receipts will need to be provided in financial reports.
+1. Todos los proyectos deben incluir actividades que contribuyan tanto al primer como al segundo componente de cada categoría:
++ Actividades de movilización de datos de biodiversidad.
++ Integración de la información de biodiversidad en política y en procesos de toma de decisiones.
+2. El investigador principal y el coordinador del financiamiento son responsables de la organización de las actividades del proyecto en nombre de los socios y deben enviar la nota conceptual. El coordinador del financiamiento debe pertenecer a una entidad legal localizada en un [país elegible del Caribe](../eligible-countries).
+3. Los proyectos deben incluir usuarios de datos de biodiversidad como socios, tales como científicos, políticos y tomadores de decisiones. Éstos deben pertenecer a entidades legales localizadas en un [país elegible del Caribe](../eligible-countries). Si es invitado a enviar la presentación completa, los solicitantes deben proveer al menos una carta de soporte al proyecto de un usuario de datos.
+4. Todos los proyectos deben incluir la mayor componente de movilización de datos mediante la red de GBIF. Es esperable que la mayor proporción del financiamiento del BID sea destinado a la movilización de datos. Como guía para los pequeños financiamientos, la cantidad de fondos del BID que deben estar disponibles para las actividades de movilización de datos no puede ser inferior al 60% del total.
+5. El financiamiento del BID puede ser usado para cubrir hasta un 50% de los costos de tecnología e información o compras, hasta un máximo de €1,000 para cualquiera de los pequeños financiamientos. Los recibos deben ser presentados en los reportes financieros.
 
 --------
 
