@@ -106,7 +106,7 @@ There are two categories of eligible activity types for small grants, each prese
 
 + **Ensure that your project meets the eligibility criteria and aligns well with the overall objectives for the programme**. Consider the evaluation criteria used by the evaluation panel to assess your proposal.
 + **Be brief**. Try to provide the shortest responses possible and only add background information if really needed, using links to external resources rather than long explanations.
-+ **Prepare your submissions in English**. The evaluation panel will use English as their working language and therefore applicants are requested to make submissions in English. Remember that if you have particular difficulties with this requirement, contact BID@gbif.org for support as early as possible, and before 20 October 2016.
++ **Prepare your submissions in English**. The evaluation panel will use English as their working language and therefore applicants are requested to make submissions in English. Remember that if you have particular difficulties with this requirement, contact [BID@gbif.org](mailto:bid@gbif.org) for support as early as possible, and before 20 October 2016.
 + **Review the FAQ**. [This page](../faq) will be updated throughout the project application period. Send any unanswered questions to [BID@gbif.org](mailto:bid@gbif.org). 
 + **Submit as early as possible to avoid problems**. Early submission will give a chance for some follow-up to resolve any issues that arise ahead of the deadline. The deadline for submissions is a hard deadline, and projects received late or incomplete will not be reviewed by the evaluation panel. 
 

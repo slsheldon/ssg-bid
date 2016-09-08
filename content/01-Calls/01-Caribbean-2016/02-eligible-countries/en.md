@@ -57,7 +57,7 @@ Institutions from the following non-ACP islands and territories in the Caribbean
 + Sint Maarten
 + Turks and Caicos Islands
 
-### Non-Caribbean ACP consortium partner<a name="regional"></a>
+### Non-Caribbean consortium partner<a name="regional"></a>
 
 Regional consortia may include one partner from outside the Caribbean region. Institutions from the following countries outside the region are eligible apply for funds from the BID programme as part of a [regional partnership](../regional-grants), provided that they meet other [eligibility requirements](../eligibility).
 
