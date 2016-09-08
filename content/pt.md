@@ -3,7 +3,7 @@ title: Inicial
 style: home article
 description: "Financiado pela União Europeia e liderado pelo GBIF—o Global Biodiversity Information Facility—, o BID: Informação sobre Biodiversidade para o Desenvolvimento é um programa pluri-anual para aumentar a disponibilidade e uso de informação sobre biodiversidade para a investigação científica e tomada de decisão nas nações ‘ACP’ da África Subsariana, Caraíbas e Pacífico."
 image: /images/mangrove-island.jpg
-imageTitle: Mangrove island, Caye Caulker, Belize. CC BY-NC-SA 2009, CameliaTWU.
+imageTitle: Ilha de mangue, Caye Caulker, Belize. CC BY-NC-SA 2009, CameliaTWU.
 imageLink: https://flic.kr/p/6VRgVD
 ---
 BID: Informação sobre Biodiversidade para o Desenvolvimento
