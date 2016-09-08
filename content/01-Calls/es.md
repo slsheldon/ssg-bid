@@ -1,4 +1,4 @@
 ---
-title: Convacatoria a propuestas
+title: Convacatorias a propuestas
 type: menu only
 ---

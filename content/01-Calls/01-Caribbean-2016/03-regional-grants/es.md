@@ -1,125 +1,125 @@
 ---
-title: Regional grants
-description: Regional grants under the BID programme seek to establish or strengthen international collaborations that increase biodiversity data mobilization.
-category: Calls
-subCategory: Caribbean 2016
+title: Financiamientos regionals
+description: Los financiamientos regionales bajo el programa BID buscan establecer o reforzar las colaboraciones internacionales para incrementar la movilización de datos de biodiversidad.
+category: Convocatorias
+subCategory: Caribe 2016
 
 ---
-# Regional grants
+# Financiamientos regionals
 
-_Caribbean, 2016_
+_Caribe, 2016_
 
-Regional grants under the BID programme seek to establish or strengthen international collaborations that increase biodiversity data mobilization.
+Los financiamientos regionales bajo el programa BID buscan establecer o reforzar las colaboraciones internacionales para incrementar la movilización de datos de biodiversidad.
 
-These guidelines are available in English, Spanish and French, of which the English version is the authoritative version. They are intended to assist applicants in completing the BID concept note template. General questions may be sent to [BID@gbif.org](mailto:bid@gbif.org).
+Estas guías están disponibles en inglés, español y francés, de las cuales la versión en inglés es la versión autorizada. Las guías procuran asistir a los solicitantes en el proceso de llenado de la plantilla de la nota conceptual del BID. Las preguntas generales pueden ser enviadas a [BID@gbif.org](mailto:bid@gbif.org).
 
 <!-- toc -->
 <!-- tocstop -->
 
 -----------------------
 
-## Submission procedure
+## Procedimiento de aplicación
 
-The deadline for submitting initial concept notes from the Caribbean is **10 November 2016**.
+La fecha límite para la presentación de las notas conceptuales iniciales para el Caribe es el **10 de Noviembre de 2016**.
 
-+ Applications must be submitted using the concept note template to [BID@gbif.org](mailto:bid@gbif.org) by 10 November 2016, 9:00am CET / 8:00am UTC/GMT. 
-+ Confirmed project partners must be copied when submitting the application. 
-+ As appropriate, include a statement of endorsement from a GBIF representative in submissions as an email attachment. 
-+ **Applications must be submitted in English and by using the** [**concept note template**](/raw/BID-Concept-Note-Template-Caribbean.docx).  If you need help with this requirement, please contact [BID@gbif.org](mailto:bid@gbif.org) as early as possible and before 20 October 2016. 
++ Las aplicaciones deben ser presentadas usando la plantilla apropiada para la nota conceptual inicial al siguiente email [BID@gbif.org](mailto:bid@gbif.org) hasta el 10 de Noviembre de 2016 a las 9:00am CET / 8:00am UTC/GMT. 
++ Los socios del proyecto confirmados deben ser copiados al momento de entregar la aplicación vía email. 
++ Si es necesario, una carta de adhesión de un representante de GBIF deberá ser incluida en la aplicación vía email como un adjunto. 
++ **Las aplicaciones deberán ser enviadas en inglés, usando [la plantilla adecuada](/raw/BID-Concept-Note-Template-Caribbean.docx). Si Ud. necesita ayuda, por favor contáctese con [BID@gbif.org](mailto:bid@gbif.org) cuanto antes y no después del 20 de Octubre de 2016. 
 
-Please note that the evaluation panel will not be review late or incomplete applications.
-
------------
-
-## Objectives
-
-The objectives of the BID regional biodiversity data mobilization grants are to:
-+ Establish or strengthen international collaborations to mobilize biodiversity data
-+ Increase available biodiversity data, within and beyond the grant period
-+ Apply biodiversity data in response to conservation priorities
-
-The overall BID programme targets two key outcomes:
-1. Enhanced capacity for effective mobilization and use of biodiversity information
-2. Enhanced availability of information resources and best practice guidance for mobilization and application of biodiversity information for key policy needs
+Por favor, recuerde que el panel de evaluadores no revisará aplicaciones incompletas o fuera de término.
 
 -----------
 
-## Key documents
+## Objectivos
 
-+ [Concept note template](/raw/BID-Concept-Note-Template-Caribbean.docx)
+Los objetivos específicos de los financiamientos regionales para la movilización de datos de biodiversidad son:
++ Establecer o reforzar las facilidades internacionales de información de la biodiversidad. 
++ Aumentar la disponibilidad de datos de biodiversidad, tanto en el período de financiamiento como posteriormente.
++ Aplicar los datos de biodiversidad en respuesta a prioridades de conservación.
 
------------
-
-## Evaluation criteria
-
-Proposals will be assessed using the following criteria:
-
-1. Alignment of the project with BID objectives and priorities.
-2. Alignment of the project with clearly stated needs for biodiversity information and capacity development within the proposal.
-3. The project’s complementary contributions to regional data needs.
-4. Likelihood that the project will provide examples of best practice in the application of biodiversity information in decision-making.
-5. Quantity, quality and relevance of the biodiversity data proposed for mobilization, with preference given to projects that mobilize biodiversity data relating to protected areas, threatened species and invasive alien species.
-6. Level of national support and cost-effectiveness of the proposed actions; the balance between the level of funding requested from BID and the co-funding contributed by the project partners.
-7. Anticipated value of the project deliverables to both the national and regional context and the broader GBIF community.
-8. Choice and diversity of project partners, with preference given to projects that have the confirmed involvement of a diverse network of data holders and data users.
-
-NOTE: Full proposals will also assess a) project management skills of coordinating team based on previous experience, b) quality of project design and risk assessment; c) monitoring and evaluation plans; and d) sustainability plan.
+El programa BID apunta a dos resultados clave:
+1. Fortalecer las capacidades para la capacidad de movilización efectiva y uso de la información de biodiversidad. 
+2. Fortalecer la disponibilidad de fuentes de información y guía de mejores prácticas para la movilización y aplicación de la información sobre biodiversidad para las necesidades fundamentales de política.
 
 -----------
 
-## Project duration
+## Documentos claves
 
-Selected projects may begin their activities in April 2017. 
-
-Projects may run for up to 18 months and must end by September 2018, followed by a final three-month reporting and evaluation period ending in December 2018. 
-
-Grantees must complete all projects by 31 December 2018.
++ [Plantilla de notas conceptuales](/raw/BID-Concept-Note-Template-Caribbean.docx) (en inglés)
 
 -----------
 
-## Funding
+## Criterios de evaluación
+
+Las propuestas serán juzgadas utilizando los siguientes criterios: 
+
+1. Alineación del proyecto con los objetivos y prioridades del BID.
+2. Alineación del proyecto con las necesidades claramente establecidas para la información sobre la biodiversidad y el desarrollo de capacidades dentro de la propuesta.
+3. Las contribuciones complementarias del proyecto a las necesidades de datos regionales.
+4. La posibilidad que el proyecto contribuya con ejemplos de mejores prácticas en la aplicación de la información sobre biodiversidad en la toma de decisiones.
+5. Cantidad, calidad y relevancia de los datos de biodiversidad propuestos para la movilización, se les dará preferencia a los proyectos que movilicen datos de biodiversidad relacionados con áreas protegidas, especies en peligro y especies exóticas invasoras.
+6. Nivel de soporte institucional y rentabilidad de las acciones propuestas; el balance entre el nivel de financiamiento solicitado al BID y la contraparte aportada por los socios del proyecto.
+7. Valor previsto de los resultantes del proyecto tanto para el contexto nacional como de la comunidad más amplia de GBIF.
+8. La elección y la diversidad de los socios del proyecto, dando preferencia a los proyectos que tengan participación confirmada de una red custodios y  usuarios de datos.
+
+*NOTA*: Las propuestas completas también serán valoradas por: a) habilidades de gestión de proyectos por parte del equipo, basadas en experiencias previas, b) la calidad del diseño del proyecto y evaluación de riesgos; c) planes de seguimiento y evaluación; y d) plan de sostenibilidad.
+
+-----------
+
+## Duración del proyecto
+
+Los proyectos seleccionados comenzarán sus actividades en Abril 2017. 
+
+El proyecto debe desarrollarse en 18 meses máximo y debe culminar para Septiembre 2018, con un reporte trimestral final y un período de evaluación, culminando en Diciembre 2018. 
+
+El financiamiento debe ser liquidado completamente para el 31 de Diciembre de 2018
+
+-----------
+
+## Financiamiento
 
 Un consorcio regional debe involucrar socios de al menos tres diferentes países o territorios de ultramar de la región. El coordinador del consorcio y al menos uno de los otros socios debe estar localizados en un país de la ACP [país elegible del Caribe](../eligible-countries). 
 
-Each partner may receive up to €20,000, and one consortium coordinator may receive up to €10,000 in additional funding to coordinate the activities of the partners. During the course of the BID programme, the maximum total project funding that any single applicant can receive is €60,000.
+Cada socio recibirá hasta  €20,000, y el coordinador del proyecto podrá recibir hasta €10,000 en fondos adicionales para la coordinación de los socios. Durante el desarrollo del programa BID, cada proyecto recibirá como máximo €60,000.
 
 -----------
 
-## Regional grant activity types
+## Tipos de actividades regionales financiadas
 
-Regional grants must include activities contributing to each of three component categories. Each category presented below includes a non-exclusive list of possible types of activity:
+Los financiamientos regionales deben incluir al menos una actividad que contribuya a cada una de las siguientes tres categorías. Cada categoría indicada debajo incluye una lista no exclusiva de tipos posibles de actividades:
 
-**1. Establishing or strengthening networks to support long-term data mobilization and inter-institutional data sharing**
-+ Assessing biodiversity data holdings and user needs through a survey or study to develop a strategy for the consortium
-+ Organizing regional workshops to promote inter-institutional collaboration.
-+ Formalizing partnerships through institutional agreements, data sharing policies and public endorsement of mobilization strategies
-+ Adopting a data publishing process, possibly including installing data publishing informatics tools (e.g. [GBIF Integrated Publishing Toolkit](http://www.gbif.org/ipt))
-+ Training data managers and collections staff within key data holding institutions on data mobilization and management, for example, through workshops to share the knowledge gained through attending the two BID capacity enhancement workshops
+**1. Establecimiento o reforzamiento de redes para soportar movilización de datos en largos términos y para compartir datos entre instituciones**
++ Evaluación mediante una encuesta o un estudio de las necesidades de los custodios de datos de biodiversidad y de los usuarios para desarrollar una estrategia para el proyecto.
++ Organización de talleres regionales para promover la colaboración entre instituciones.
++ Formalizar las asociaciones mediante convenios institucionales, políticas de intercambio de datos y apoyo público a estrategias de movilización.
++ Adoptar procesos de publicación de datos, con la posibilidad de instalar herramientas informáticas para su publicación (ej. [GBIF Integrated Publishing Toolkit](http://www.gbif.org/ipt)).
++ Entrenar administradores de datos y personal de colecciones de instituciones de custodia de datos claves en movilización de datos y gestión, por ejemplo, mediante talleres para compartir el conocimiento adquirido al participar de los dos talleres de mejora de capacidades del BID.
 
-**2. Activities to mobilize biodiversity data relevant to protected areas, invasive alien species and/or threatened species**
-+ Compiling inventories of biodiversity data holdings (for example, implementing metadata catalogues)
-+ Digitizing and publishing natural history collections and biodiversity information from literature
-+ Mobilizing species occurrence and sampling-event data from observation networks and monitoring systems, such as invasive alien species, Red Listed species or endemic species
-+ Validating and publishing regional, national and local species checklists, invasive species lists or threatened species lists
-+ Preparing [data papers](http://www.gbif.org/publishing-data/data-papers) to improve the reusability of the mobilized biodiversity data
+**2. Actividades de movilización de los datos de biodiversidad relevantes en áreas protegidas, especies exóticas invasoras y/o especies en peligro**
++ Compilar inventarios de los custodios de datos de biodiversidad (por ejemplo, implementar catálogos de metadatos).
++ Digitalizar y publicar colecciones de historia natural e información de biodiversidad de literatura.
++ Movilizar datos de presencia de especies y datos de muestreo de las redes de observación y sistema de monitoreo, tales como especies exóticas invasoras, especies pertenecientes a Listas Rojas o especies endémicas.
++ Validar y publicar listados regionales, nacionales y locales de especies, de especies invasoras o de especies amenazadas.
++ Preparar  [data papers](http://www.gbif.org/publishing-data/data-papers) para mejorar la reutilización de los datos de biodiversidad movilizados.
 
-**3. Integrating biodiversity information into policy and decision-making processes**
-+ Leading surveys or workshops to understand the biodiversity data requirements for specific use cases.
-+ Setting up user groups to guide project implementation on identified priority themes, such as agrobiodiversity, urban biodiversity and protected areas.
-+ Directing workshops and advocacy actions that promote the use of openly accessible data, for example, in national-level biodiversity reporting.
-+ Hosting workshops on data analysis techniques.
-+ Applying biodiversity data in decision-making processes.
-+ Documenting use cases and sharing them with partners in the region.
+**3. Integrar la información sobre biodiversidad en política y procesos de toma de decisiones**
++ Conduciendo encuestas o talleres para comprender los requerimientos en los usos específicos de datos de biodiversidad.
++ Mediante la creación de grupos de usuarios orientar la ejecución de los proyectos sobre determinados temas prioritarios, tales como la agrobiodiversidad, la biodiversidad urbana y las áreas protegidas.
++ Dirigir talleres y promoviendo acciones para el uso de datos de acceso abierto, por ejemplo, en los informes de la biodiversidad a nivel nacional.
++ Organizando talleres en técnicas de análisis de datos.
++ Aplicando datos de biodiversidad en procesos de toma de decisiones.
++ Documentar casos de usos y divulgarlos con sus socios en la región.
 
 -----------
 
-## General recommendations for preparing concept notes
+## Recomendaciones generales para la preparación las notas conceptuales
 
-+ **Ensure that your project meets the eligibility criteria and aligns well with the overall objectives for the programme**. Consider the evaluation criteria used by the evaluation panel to assess your proposal.
-+ **Be brief**. Try to provide the shortest responses possible and only add background information if really needed, using links to external resources rather than long explanations.
-+ **Prepare your submissions in English**. The evaluation panel will use English as their working language and therefore applicants are requested to make submissions in English. Remember that if you have particular difficulties with this requirement, contact BID@gbif.org for support as early as possible, and before 20 October 2016.
-+ **Review the FAQ**. The [FAQ page](../faq) will be updated throughout the project application period. Send any unanswered questions to [BID@gbif.org](mailto:bid@gbif.org). 
-+ **Submit as early as possible to avoid problems**. Early submission will give a chance for some follow-up to resolve any issues that arise ahead of the deadline. The deadline for submissions is a hard deadline, and projects received late or incomplete will not be reviewed by the evaluation panel. 
++ **Asegúrese que su proyecto cumple con los criterios de elegibilidad y que está alineado con los objetivos generales del financiamiento**. Tenga en cuenta los criterios de evaluación utilizados por el panel de evaluadores para revisar su propuesta.
++ **Sea breve**. Genere una propuesta concisa y sólo agregue información de contexto cuando sea realmente necesario, use links externos en lugar de dar explicaciones extensas.
++ **Prepare su propuesta en inglés**. El panel de evaluadores utilizará inglés como idioma de trabajo y por lo tanto los solicitantes deben presentar su propuesta en ese idioma. Recuerde que si tiene dificultades con este requerimiento en particular, puede contactar a [BID@gbif.org](mailto:bid@gbif.org) por soporte cuanto antes sea posible, y no después del 20 de Octubre de 2016. 
++ **Consulte las preguntas frecuentes**. [Las preguntas frecuentes](../faq) se actualizarán durante el período de presentación de proyectos. Las preguntas que no figuren en dicha sección pueden ser enviadas a [BID@gbif.org](mailto:bid@gbif.org). 
++ **Presente su proyecto tan pronto como le sea posible para evitar problemas**. Las presentaciones realizadas con tiempo permiten la posibilidad de resolver cualquier inconveniente antes de la fecha límite. La fecha límite es inamovible, de modo que los proyectos que sean enviados luego de la fecha límite o incompletos, no serán evaluados por el panel de evaluadores. 
 
 ___________
 
