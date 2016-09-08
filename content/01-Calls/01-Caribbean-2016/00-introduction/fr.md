@@ -11,7 +11,7 @@ imageLink: https://flic.kr/p/6VRgVD
 
 _Caraïbes 2016_
 
-Le GBIF, le Système Mondial d’Information sur la Biodiversité, lance un appel à proposition de financement de projets pour les pays ACP des Caraïbes dans le cadre du programme BID : l’Information sur la Biodiversité pour le Développement.  Le montant total potentiel de cet appel est de € 500.000.
+Le GBIF – le Système Mondial d’Information sur la Biodiversité – lance un appel à proposition de financement de projets pour les pays ACP des Caraïbes dans le cadre du programme BID : l’Information sur la Biodiversité pour le Développement.  Le montant total potentiel de cet appel est de € 500.000.
 
 ## Types de subventions
 
@@ -32,7 +32,7 @@ Les propositions de projets seront évaluées par une commission d'évaluation c
 
 ## Sondages pour détenteurs de données et décideurs dans les Caraïbes 
 
-Le SMIB/GBIF sollicite les commentaires provenant de deux groupes d'intervenants cruciaux pour la réussite à long terme du programme du BID : les détenteurs de données et les décideurs.
+Le GBIF sollicite les commentaires provenant de deux groupes d'intervenants cruciaux pour la réussite à long terme du programme du BID : les détenteurs de données et les décideurs.
 
 **Détenteurs de données** ont besoin de ressources et d'incitatifs pour distribuer les sources variées d'information qu'ils gèrent. 
 
