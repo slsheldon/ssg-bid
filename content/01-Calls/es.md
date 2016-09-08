@@ -1,4 +1,4 @@
 ---
-title: Convacatorias a propuestas
+title: Convocatorias a propuestas
 type: menu only
 ---

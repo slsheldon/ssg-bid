@@ -4,7 +4,7 @@ category: Appels
 subCategory: Caraïbes
 description: GBIF invite maintenant la présentation de propositions pour le financement des Caraïbes pour le programme BID – l'Information sur la Biodiversité pour le Développement. 
 image: /images/mangrove-island.jpg
-imageTitle: Mangrove island, Caye Caulker, Belize. CC BY-NC-SA 2009, CameliaTWU.
+imageTitle: Île de mangrove, Caye Caulker, Belize. CC BY-NC-SA 2009, CameliaTWU.
 imageLink: https://flic.kr/p/6VRgVD
 ---
 # Appel à propositions
