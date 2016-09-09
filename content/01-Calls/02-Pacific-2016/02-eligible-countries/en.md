@@ -233,7 +233,7 @@ Regional consortia may include one partner from outside the Pacific region. Inst
 
 ### Limited eligibility non-ACP regional consortium partner<a name="limited"></a>
 
-Institutions from the following non-ACP countries have limited eligibility to apply for funds from the BID programme as part of a [regional partnership](../regional-grants), provided that they meet other [eligibility requirements](../eligibility).
+Institutions from the following non-ACP countries have limited eligibility to apply for funds from the BID programme as part of a [regional partnership](../regional-grants), provided that they meet other [eligibility requirements](../eligibility). Institutions from the following countries are **only** eligible to apply for up to €10,000 in funding **if** a) their regional consortium includes at least one partner from Kiribati, Samoa, Timor-Leste, Tuvalu or Vanuatu, **and** b) they are the consortium's only partner from outside the region.  
 
 + [Australia](http://www.gbif.org/country/AU/participation)
 + [Canada](http://www.gbif.org/country/CA/participation)

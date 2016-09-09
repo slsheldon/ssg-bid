@@ -238,7 +238,9 @@ Regional consortia may include one partner from outside the Caribbean region. In
 
 ### Limited-eligibility non-regional consortium partner<a name="limited"></a>
 
-Institutions from the following non-ACP countries have limited eligibility to apply for funds from the BID programme as part of a [regional partnership](../regional-grants), provided that they meet other [eligibility requirements](../eligibility).
+Institutions from the following non-ACP countries have limited eligibility to apply for funds from the BID programme as part of a [regional partnership](../regional-grants), provided that they meet other [eligibility requirements](../eligibility). Institutions from the following countries are **only** eligible to apply for up to €10,000 in funding **if** a) their regional consortium includes at least one partner from Guyana or Haiti, **and** b) they are the consortium's only partner from outside the region.  
+
+During the course of the BID programme, the maximum total project funding that any single applicant can receive is €60,000.
 
 + [Australia](http://www.gbif.org/country/AU/participation)
 + [Canada](http://www.gbif.org/country/CA/participation)
