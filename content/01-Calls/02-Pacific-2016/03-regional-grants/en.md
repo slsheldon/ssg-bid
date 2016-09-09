@@ -81,7 +81,7 @@ Grantees must complete all projects by 31 December 2018.
 
 A regional consortium must involve partners from a minimum of three different countries or overseas territories from the region. The consortium coordinator and at least one other partner must be located in an [eligible Pacific ACP country](../eligible-countries). Each partner may receive up to €20,000, and one consortium coordinator may receive up to €10,000 in additional funding to coordinate the activities of the partners.
 
-Regional consortia may include one partner from outside the region. Institutions from countries outside the region and those with limited eligibility may apply for up to €10,000 in funding from the BID programme as part of a regional consortium.
+Regional consortia may include one partner from outside the region. Institutions from countries outside the region may apply for up to €10,000 in funding from the BID programme as part of a regional consortium. 
 
 During the course of the BID programme, the maximum total project funding that any single applicant can receive is €60,000.
 
