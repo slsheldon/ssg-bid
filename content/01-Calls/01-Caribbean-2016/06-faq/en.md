@@ -52,6 +52,14 @@ Use this section to list the main deliverables of the project. The deliverables 
 
 -----------------------
 
+### On eligibility
+
+#### Can an institution submit a proposal for gathering new data?
+ 
+The BID programme focuses on mobilizing existing biodiversity data, rather than supporting new data gathering from the field. It will support the work required to mobilize the data, with emphasis on ensuring that the data are of sufficient quality to be published to the GBIF network and to enable their reuse in targeted use cases in research and decision-making.
+
+-----------------------
+
 ### On the proposed budget
 
 Please provide estimates of the anticipated cost of the proposed activities by indicating how much funding will be required from the BID programme and how much co-funding will be provided by each partner. 
