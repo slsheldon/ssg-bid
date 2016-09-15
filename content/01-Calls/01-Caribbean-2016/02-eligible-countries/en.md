@@ -126,6 +126,7 @@ Regional consortia may include one partner from outside the Caribbean region. In
 + Honduras
 + Hungary
 + [Iceland](http://www.gbif.org/country/IS/participation)
++ [Indonesia](http://www.gbif.org/country/ID/participation)
 + Iran
 + Iraq
 + [Ireland](http://www.gbif.org/country/IE/participation)
