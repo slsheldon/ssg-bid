@@ -39,7 +39,12 @@ Les Bénéficiaires peuvent également accroître la fréquence de leurs évalua
 
 ### Les modèles de rapport des projets
 
-Les modèles des rapports narratifs et financiers à remettre dans le cadre du programme BID apparaîtront ici dès que disponible.
+La page de sommaire des depenses est une liste des transactions de toutes les dépenses inscrites dans les comptes du projet, classés par nombre et catégorie de dépenses de type et est un élément essentiel de l'information financière.
+
++ [SUBVENTION RÉGIONALE Modèle de rapport de projet](../raw/BID-AF2015-REG_narrative _report_template.doc) (en anglais)
++ [SUBVENTION NATIONALE Modèle de rapport de projet](../raw/BID-AF2015-NAC_narrative _report_template.doc) (en anglais)
++ [PETITE SUBVENTION Modèle de rapport de projet](../raw/BID-AF2015-SMA_narrative _report_template.doc) (en anglais)
++ [Page de sommaire des depenses](../raw/Expense-Summary-Page.xlsx) (en anglais)
 
 -----------------------
 

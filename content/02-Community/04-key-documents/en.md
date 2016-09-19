@@ -37,7 +37,12 @@ In addition, grantees can increase the frequency of the assessment to monitor pr
 
 ## Project reporting templates
 
-Templates for narrative and financial reports on BID-funded activities will appear here when available.
+The Expense Summary page is a transaction list of all expenses registered in the project accounts, ordered by number and expense type category and is an essential part of the financial reporting.
+
++ [REGIONAL GRANT Narrative report template](../raw/BID-AF2015-REG_narrative _report_template.doc)
++ [NATIONAL GRANT Narrative report template](../raw/BID-AF2015-NAC_narrative _report_template.doc)
++ [SMALL GRANT Narrative report template](../raw/BID-AF2015-SMA_narrative _report_template.doc)
++ [Expense summary page](../raw/Expense-Summary Page.xlsx)
 
 -----------
 

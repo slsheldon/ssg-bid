@@ -58,6 +58,17 @@ Use this section to list the main deliverables of the project. The deliverables 
  
 The BID programme focuses on mobilizing existing biodiversity data, rather than supporting new data gathering from the field. It will support the work required to mobilize the data, with emphasis on ensuring that the data are of sufficient quality to be published to the GBIF network and to enable their reuse in targeted use cases in research and decision-making.
 
+#### Are organizations located in overseas territories eligible to apply for funding through the BID programme?
+
+The BID programme is funded by the [European Union](http://europa.eu) and prioritizes investment in [ACP countries](../eligible-countries/#pacific). As a result, national and small grants must support organizations located in an ACP country.
+ 
+However, we strongly encourage the development and strengthening of international collaborations within the Pacific Region through BID regional grants.
+
+[Pacific overseas territories](../eligible-countries/#overseas) are eligible for funding through a BID regional grant provided that their regional consortium is a) coordinated by an institution located in an eligible Pacific ACP country and b) includes at least one other partner also located in a Pacific ACP Country. Under regional grant guidelines, each consortium partner, including the one located in overseas territories, may receive up to €20,000.
+
+Please review the [eligibility criteria ](/eligibility/#regional-grant-eligibility) and
+[regional grant guidelines and evaluation criteria](../regional-grants) for regional grants in the Pacific carefully, and email questions to [BID@gbif.org](mailto:BID@gbif.org).
+
 -----------------------
 
 ### On the proposed budget
