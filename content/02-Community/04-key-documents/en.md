@@ -41,10 +41,10 @@ Mid-term/early progress report templates are designed to facilitate the communic
 
 The Expense Summary page is a transaction list of all expenses registered in the project accounts, ordered by number and expense type category and is an essential part of the financial reporting.
 
-+ [REGIONAL GRANT Narrative report template](/raw/BID-AF2015-REG_narrative_report_template.doc)
-+ [NATIONAL GRANT Narrative report template](/raw/BID-AF2015-NAC_narrative_report_template.doc)
-+ [SMALL GRANT Narrative report template](/raw/BID-AF2015-SMA_narrative_report_template.doc)
-+ [Expense summary page](/raw/Expense-Summary Page.xlsx)
++ [REGIONAL GRANT Narrative report template](http://bid.gbif.org/raw/BID-AF2015-REG_narrative_report_template.doc)
++ [NATIONAL GRANT Narrative report template](http://bid.gbif.org/raw/BID-AF2015-NAC_narrative_report_template.doc)
++ [SMALL GRANT Narrative report template](http://bid.gbif.org/raw/BID-AF2015-SMA_narrative_report_template.doc)
++ [Expense summary page](http://bid.gbif.org/raw/Expense-Summary Page.xlsx)
 
 -----------
 

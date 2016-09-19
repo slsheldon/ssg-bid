@@ -43,10 +43,10 @@ Les modèles de rapports à mi-parcours/ sur les progrès initiaux  ont été co
 
 La récapitulatif des coûts par type de dépenses est une liste des transactions de toutes les dépenses inscrites dans les comptes du projet, classés par nombre et catégorie de dépenses de type et est un élément essentiel de l'information financière.
 
-+ [SUBVENTION RÉGIONALE Modèle de rapport de projet](raw/BID-AF2015-REG_narrative_report_template.doc) (en anglais)
-+ [SUBVENTION NATIONALE Modèle de rapport de projet](/raw/BID-AF2015-NAC_narrative__report_template.doc) (en anglais)
-+ [PETITE SUBVENTION Modèle de rapport de projet](/raw/BID-AF2015-SMA_narrative_report_template.doc) (en anglais)
-+ [Récapitulatif des coûts par type de dépenses](/raw/Expense-Summary-Page.xlsx) (en anglais)
++ [SUBVENTION RÉGIONALE Modèle de rapport de projet](http://bid.gbif.orgraw/BID-AF2015-REG_narrative_report_template.doc) (en anglais)
++ [SUBVENTION NATIONALE Modèle de rapport de projet](http://bid.gbif.org/raw/BID-AF2015-NAC_narrative__report_template.doc) (en anglais)
++ [PETITE SUBVENTION Modèle de rapport de projet](http://bid.gbif.org/raw/BID-AF2015-SMA_narrative_report_template.doc) (en anglais)
++ [Récapitulatif des coûts par type de dépenses](http://bid.gbif.org/raw/Expense-Summary-Page.xlsx) (en anglais)
 
 -----------------------
 
