@@ -44,7 +44,7 @@ The Expense Summary page is a transaction list of all expenses registered in the
 + [REGIONAL GRANT Narrative report template](/raw/BID-AF2015-REG_narrative_report_template.doc)
 + [NATIONAL GRANT Narrative report template](/raw/BID-AF2015-NAC_narrative_report_template.doc)
 + [SMALL GRANT Narrative report template](/raw/BID-AF2015-SMA_narrative_report_template.doc)
-+ [Expense summary page](../raw/Expense-Summary Page.xlsx)
++ [Expense summary page](/raw/Expense-Summary Page.xlsx)
 
 -----------
 
