@@ -37,6 +37,8 @@ In addition, grantees can increase the frequency of the assessment to monitor pr
 
 ## Project reporting templates
 
+Mid-term/early progress report templates are designed to facilitate the communication of BID project’s progress. The use of these templates is mandatory and is a part of the project reporting processes within the BID programme.
+
 The Expense Summary page is a transaction list of all expenses registered in the project accounts, ordered by number and expense type category and is an essential part of the financial reporting.
 
 + [REGIONAL GRANT Narrative report template](../raw/BID-AF2015-REG_narrative _report_template.doc)
