@@ -16,8 +16,6 @@ Grantees can find project documents, like reporting templates and communications
 
 -----------------------
 
-Reporting templates and other key materials for project grantees are available here.
-
 ## Instructions: Self-assessment for data-holding institutions
 
 Grantees from the BID programme are expected to carry out self-assessments to assist with planning and monitoring progress.
