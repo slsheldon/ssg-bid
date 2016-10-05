@@ -57,24 +57,24 @@ Those interested in joining the [current mentors](../people#mentors) can review 
 
 |*Name* | *Country* | *Areas of expertise* |
 |--|--|--|
-|[Innocent Akampurira](mailto:iakampurira@gmail.com) | Uganda | |
-|[Nestor Beltran](mailto:nbeltran@humboldt.org.co) | Colombia | |
-|[Jean Cossi Ganglo](mailto:mailto:ganglocj@gmail.com) | Benin | Node development, data mobilization, data use |
-|[Katia Cezón García](mailto:katia@gbif.es) | Spain | Data standards, digitization, data quality |
-|[Sharon Grant](mailto:sgrant@fieldmuseum.org) | United States | |
-|[Quentin Groom](mailto:mailto:quentin.groom@plantentuinmeise.be) | Belgium | Data publishing |
-|[André Heughebaert](mailto:a.heughebaert@biodiversity.be) | Belgium | Data management, data quality, technical training, Open Data, collections strategy |
-|[Kudzai Mafuwe](mailto:kudzimaffy@gmail.com) | Zimbabwe | |
-|[Mergen  Patricia](patricia.mergen@africamuseum.be) | Belgium | Networking, strategic planning, fundraising |
-|[Nicolas Noé](mailto:n.noe@biodiversity.be) | Belgium | |
-|[Sophie Pamerlon](mailto:pamerlon@gbif.fr) | France | |
 |[A. Raoufou Pierre Radji](mailto:pradji@hotmail.com) | Togo | Data mobilization, data and image capture, data cleaning |
-|[Andriamandimbisoa Razafimpahanana](razafimpahanana@gmail.com) | Madagascar| |
+|[André Heughebaert](mailto:a.heughebaert@biodiversity.be) | Belgium | Data management, data quality, technical training, Open Data, collections strategy |
+|[Andriamandimbisoa Razafimpahanana](mailto:razafimpahanana@gmail.com) | Madagascar| Basics of biodiversity informatics. Data management, publishing and analysis |
+|[Gautam Talukdar](mailto:gautamtalukdar@gmail.com) | India | Basics of biodiversity informatics. Data publishing and analysis |
+|[Innocent Akampurira](mailto:iakampurira@gmail.com) | Uganda | Basics of biodiversity informatics. Data management, publishing and analysis. BIF building (IT & social) |
+|[Jean Cossi Ganglo](mailto:mailto:ganglocj@gmail.com) | Benin | Node development, data mobilization, data use |
+|[John Wieczorek](mailto:tuco@berkeley.edu) | Argentina | Basics of biodiversity informatics. Data capture, management, publishing and analysis. BIF building (IT & social) |
+|[Katia Cezón García](mailto:katia@gbif.es) | Spain | Data standards, digitization, data quality |
+|[Kudzai Mafuwe](mailto:kudzimaffy@gmail.com) | Zimbabwe | Basics of biodiversity informatics. Data capture, management and analysis |
+|[Larissa Smirnova](mailto:larissa.smirnova@africamuseum.be) | Belgium | Data capture, management and publishing |
 |[Laura Russell](mailto:larussell@vertnet.org) | United States | Data quality, data sharing, data use|
-|[Larissa Smirnova](mailto:larissa.smirnova@africamuseum.be) | Belgium ||
-|[Gautam Talukdar](mailto:gautamtalukdar@gmail.com) | India | |
-|[Manuel Vargas](mailto:mvargas@inbio.ac.cr) | Costa Rica | |
-|[John Wieczorek](mailto:tuco@berkeley.edu) | Argentina | |
+|[Manuel Vargas](mailto:mvargas@inbio.ac.cr) | Costa Rica | Basics of biodiversity informatics. Data capture, management, publishing and analysis. BIF building (IT & social) |
+|[Nestor Beltran](mailto:nbeltran@humboldt.org.co) | Colombia | Basics of biodiversity informatics. Data capture, management, publishing and analysis |
+|[Nicolas Noé](mailto:n.noe@biodiversity.be) | Belgium | Basics of biodiversity informatics. Data management and publishing. BID building (IT) |
+|[Patricia Mergen](mailto:patricia.mergen@africamuseum.be) | Belgium | Networking, strategic planning, fundraising |
+|[Quentin Groom](mailto:mailto:quentin.groom@plantentuinmeise.be) | Belgium | Data publishing |
+|[Sharon Grant](mailto:sgrant@fieldmuseum.org) | United States | Basics of Biodiversity Informatics. Data management |
+|[Sophie Pamerlon](mailto:pamerlon@gbif.fr) | France | Basics of biodiversity informatics. Data capture, management and publishing |
 
 ## <a name="gbifs"></a>GBIF Staff
 
