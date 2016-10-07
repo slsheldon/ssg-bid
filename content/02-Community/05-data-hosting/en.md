@@ -32,7 +32,7 @@ Remember that regardless of where datasets are hosted, they will always be clear
 Once your data have been organized into a supported data formats, proceed as follows:
   
 1. Become a GBIF data publisher by completing the [publisher registration form](http://www.gbif.org/publishing-data/request-endorsement#/intro)
-2. Find a publishing platform ([IPT](#ipt) or other), preferably:
+2. Find a publishing platform (IPT or other), preferably:
     a. Hosted in your institution (if possible)
     b. Hosted at a national node (if your country is [GBIF Participant](http://www.gbif.org/participation/participant-list))
     c. Hosted by another GBIF participant or data publisher (e.g. [data hosting centre](#centre))
@@ -46,7 +46,7 @@ Once your data have been organized into a supported data formats, proceed as fol
 
 ### Data hosting by the data publisher institution
 
-Data publishers with the capacity to host their own data can install their own Integrated Publishing Toolkit (IPT) or other data publishing platform. See more below 
+Data publishers with the capacity to host their own data can install their own Integrated Publishing Toolkit (IPT) or other data publishing platform (<a name="ipt">See more below</a>) 
 
 ### Data hosting outside the data publisher institution  
 
@@ -54,7 +54,7 @@ Data publishers that have limited technical capacity, or that do not wish to run
 
 If your country is a GBIF participant, the first option to consider is whether the national GBIF node offers a data hosting solution. Having your data hosted by your national node makes it easier to collect data of national interest and should enable you to connect with a local publisher network and access help desk support from your node.
 
-For cases where data hosting is not available from a national node, GBIF has a list of trusted <a name="centre"></a>[data hosting centres](https://github.com/gbif/ipt/wiki/dataHostingCentres#data-hosting-centres) that meet a set of strict criteria, including consistently maintaining and administering an online IPT, demonstrating a successful track record of hosting data, and responding with prompt and knowledgeable help desk support. GBIF strongly recommends using a trusted hosting centre that can establish an account for you on their IPT and allow you to manage and publish your own datasets through GBIF.org.
+For cases where data hosting is not available from a national node, GBIF has a list of trusted <a name="centre"></a>[data hosting centres](https://github.com/gbif/ipt/wiki/dataHostingCentres#data-hosting-centres){:target="_blank"} that meet a set of strict criteria, including consistently maintaining and administering an online IPT, demonstrating a successful track record of hosting data, and responding with prompt and knowledgeable help desk support. GBIF strongly recommends using a trusted hosting centre that can establish an account for you on their IPT and allow you to manage and publish your own datasets through GBIF.org.
 
 A final option is for GBIF itself to host data using a cloud-hosted publishing platform. The GBIF Secretariat maintains a [cloud-hosted BID IPT](http://cloud.gbif.org/bid/about.do) that provides publishers with data hosting using shared hardware, software and storage services. Users of the service receive a robust, no-cost data hosting solution that is easy to migrate to a self-hosted installation in the future. However, national nodes and data hosting centres are likely to provide more hands-on service and assistance with data publishing and quality control aspects. As a result, BID projects should normally use the BID cloud-hosted IPT only if they are unable to find a satisfactory solution among the other hosting options.
 
@@ -72,7 +72,9 @@ The IPT can be installed in Test mode, which means that its hosted resources wil
 
 Once you are sure that the IPT is working the way that you expect, reinstall the software in Production mode to make the data actually discoverable through GBIF. Production mode registers datasets and publishes them so they are indexed and publicly accessible through GBIF.org.
 
-### Terms of Use
+-----------
+
+## Terms of Use
 The use of an external data host by a data publisher should be negotiated between the respective parties, ideally with a service-level agreement that outlines the terms and obligations for both the data publisher and the data host. The use of the BID cloud-hosted IPT will be governed by the [GBIF Data Publisher Agreement](http://www.gbif.org/terms/data-publisher). 
 
 -----------
