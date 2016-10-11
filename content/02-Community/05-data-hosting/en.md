@@ -32,8 +32,8 @@ Remember that regardless of where datasets are hosted, they will always be clear
 Once your data have been organized into a supported data formats, proceed as follows:
   
 1. Become a GBIF data publisher by completing the [publisher registration form](http://www.gbif.org/publishing-data/request-endorsement#/intro)
-2. Find a publishing platform (IPT or other), preferably:
-    a. Hosted in your institution (if possible)
+2. Find a publishing platform, IPT or other, in order of preference:
+    a. Hosted in your institution
     b. Hosted at a national node (if your country is [GBIF Participant](http://www.gbif.org/participation/participant-list))
     c. Hosted by another GBIF participant or data publisher (e.g. [data hosting centre](#centre))
     d. If none of the above applies, send a message to [BID community list](mailto:bid-community@lists.gbif.org), explaining your requirements. We will find an IPT for you!
