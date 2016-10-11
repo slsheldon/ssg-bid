@@ -46,8 +46,8 @@ In addition to complying with the [general eligibility criteria](#general) above
 3. A regional consortium must involve partners from a minimum of three different countries or overseas territories from the region. The consortium coordinator and at least one other partner must be located in an [eligible Pacific ACP country](../eligible-countries). All consortium partners must have confirmed their participation in the project and must be copied when concept notes and full proposals are submitted. Projects must involve users of biodiversity data as project partners, such as scientists, policy and decision-makers. These must be representatives of legal entities located in an [eligible Pacific ACP country](../eligible-countries).
 4. Regional consortia may also include one partner from outside the region.
 5. If invited to submit a full project proposal, applicants must copy all confirmed project partners with the submission. Letters of support from confirmed project partners should be included as attachments to email submissions of full proposals.
-6.	All projects must include a major component of data mobilization through the GBIF network. It is expected that most BID funding will be directed towards data mobilization. As a guideline for the national grants, the amount of BID funding spent on data mobilization activities should not be less than 60% of the total grant.
-7.	BID funds may be used to cover up to 50% of the costs of any IT services or purchases, up to a maximum of €2,500 of any national grant. Receipts have to be provided in financial reports.
+6.	All projects must include a major component of data mobilization through the GBIF network. It is expected that most BID funding will be directed towards data mobilization. As a guideline for the regional grants, the amount of BID funding spent on data mobilization activities should not be less than 60% of the total grant.
+7.	BID funds may be used to cover up to 50% of the costs of any IT services or purchases, up to a maximum of €2,500 of any regional grant. Receipts have to be provided in financial reports.
 
 -----------------------
 
