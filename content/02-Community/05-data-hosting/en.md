@@ -72,6 +72,8 @@ The IPT can be installed in Test mode, which means that its hosted resources wil
 
 Once you are sure that the IPT is working the way that you expect, reinstall the software in Production mode to make the data actually discoverable through GBIF. Production mode registers datasets and publishes them so they are indexed and publicly accessible through GBIF.org.
 
+Both the IPT instance and its associated organization must be registered with GBIF. If your organization isn't registered yet, you will be asked to complete this step and provide basic information through a short form in the IPT. Learn more about how this works in the [IPT User Manual](https://github.com/gbif/ipt/wiki/IPT2ManualNotes.wiki#configure-gbif-registration-options)
+
 -----------
 
 ## Terms of Use
