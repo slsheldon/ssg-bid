@@ -3,9 +3,9 @@ title: Data hosting
 description: This quick guide will help you to make good decisions about how to host data from your BID project. 
 category: Community
 subCategory: Data hosting
-image: /images/library.jpg
-imageTitle: Library. By Paweł Sobociński via freeimages.com. Freeimages content license.
-imageLink: http://www.freeimages.com/photo/library-1530267
+image: /images/wikimedia-servers.jpg
+imageTitle: Wikimedia Foundation Servers. CC BY-SA 2012 Victor Grigas, Wikimedia Foundation.
+imageLink: https://commons.wikimedia.org/wiki/File:Wikimedia_Foundation_Servers-8055_13.jpg
 ---
 # Hosting data from BID projects: A quick guide
 

@@ -3,9 +3,9 @@ title: Héberger les données
 description: Ce guide rapide vous aidera à prendre de bonnes décisions sur la façon d'accueillir les données de votre projet BID. 
 category: Communauté
 subCategory: Data hosting
-image: /images/library.jpg
-imageTitle: Library. By Paweł Sobociński via freeimages.com. Freeimages content license.
-imageLink: http://www.freeimages.com/photo/library-1530267
+image: /images/wikimedia-servers.jpg
+imageTitle: Wikimedia Foundation Servers. CC BY-SA 2012 Victor Grigas, Wikimedia Foundation.
+imageLink: https://commons.wikimedia.org/wiki/File:Wikimedia_Foundation_Servers-8055_13.jpg
 ---
 # Héberger les données des projets BID : un guide rapide
 
