@@ -1,7 +1,7 @@
 ---
 title: Hospedagem de dados
 description: Este guia rápido irá ajudá-lo a tomar boas decisões sobre como hospedar dados de seu projeto do BID 
-category: Communidade
+category: Comunidade
 subCategory: Hospedagem de dados
 image: /images/wikimedia-servers.jpg
 imageTitle: Wikimedia Foundation Servers. CC BY-SA 2012 Victor Grigas, Wikimedia Foundation.
@@ -79,6 +79,7 @@ Tanto a instância IPT e a organização associada devem ser registradas com o G
 ## Termos de uso
 O uso de um hospedeiro de dados externo por um publicador de dados deve ser negociado entre as respectivas partes, de preferência com um acordo de serviço que defina os termos e as obrigações tanto para o publicador de dados quanto para o hospedeiro de dados. O uso do serviço hospedado em nuvem IPT BID será regido pelo [Acordo de Publicadores de dados do GBIF](http://www.gbif.org/terms/data-publisher) (em inglês). 
 
+*Agradecimentos ao Andrea Portela, [SiBBr: Sistema de Informação sobre a Biodiversidade Brasileira](http://www.sibbr.gov.br) por a ajuda com a tradução para o português.*
 -----------
 
 ```styledYaml

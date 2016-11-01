@@ -84,7 +84,6 @@ Those interested in joining the [current mentors](../people#mentors) can review 
 |[Mélianie Raymond](mailto:mraymond@gbif.org) | Capacity enhancement |
 |[Siro Masinde](mailto:smasinde@gbif.org) | Data mobilization |
 |[Maheva Bagard Laursen](mailto:mblaursen@gbif.org) | Grant administration |
-|[Mette Munk](mailto:mmunk@gbif.org) | Grant administration |
 |[Tim Hirsch](mailto:thirsch@gbif.org) | Intergovernmental affairs |
 |[Daniel Noesgaard](mailto:dnoesgaard@gbif.org) | Communications |
 |[Kyle Copas](mailto:kcopas@gbif.org) | Communications |
