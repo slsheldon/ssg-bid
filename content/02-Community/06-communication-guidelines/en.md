@@ -22,9 +22,9 @@ Where appropriate, the attribution should also be accompanied by the EU flag (se
 Materials should also acknowledge both GBIF and the BID programme. Grantees are encouraged to seek help, review and feedback on appropriate approaches and formats by [contacting GBIF Communications staff via email](mailto:communication@gbif.org).
 
 ### Communications-related downloads
-+ [EU logos](../raw/eu-flags.zip)
++ [EU logos](http://bid.gbif.org/raw/eu-flags.zip)
 + [GBIF logos](http://gbif.org/logos)
-+ [BID logos](../raw/BID-logos.zip)
++ [BID logos](http://bid.gbif.org/raw/BID-logos.zip)
 
 ## Guidelines on project updates for GBIF.org
 
