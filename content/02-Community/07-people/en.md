@@ -9,29 +9,11 @@ imageLink: http://www.freeimages.com/photo/ship-log-book-1563951
 ---
 # BID community members
 
-This list can help you find others currently involved in the BID programme for project partnerships, mentoring opportunities or general assistance. Find [BID community members](#members), [BID mentors](#mentors) and [GBIF staff](#gbifs).
+This list can help you find others currently involved in the BID programme for project partnerships, mentoring opportunities or general assistance. Find [BID mentors](#mentors) and [GBIF staff](#gbifs) below. The members of the wider BID community can be reached through the [BID mailing list](../mailing-lists/).
 
 The BID community relies on the expertise that already resides within the GBIF network. GBIF will award digital badges to individuals to certify their contributions to the programme. [Learn about the project roles and badges](#badges).
 
 Please send corrections and updates to your personal information to [bid@gbif.org](mailto:bid@gbif.org).
-
-## <a name="members"></a>BID community members
-
-|*Name* | *Country* | *Roles* |
-|--|--|--|
-|[Brian Fisher](mailto:bpescador@gmail.com)| Mozambique | |
-|[Saïdou Doumbouya](mailto:doumbouyasaidou@yahoo.fr) | Guinea | |
-|[Faustin Gashakamba](mailto:fgashakamba@arcosnetwork.org) | Uganda | |
-|[Alain Jaures Gbètoho](mailto:gljaures@gmail.com) | Benin | |
-|[María Mora](mailto:mmora@inbio.ac.cr) | Costa Rica | |
-|[Monica Morrison](mailto:moediwakitso@btcmail.co.bw) | Botswana | |
-|[Gladys](mailto:odeyschwinger@yahoo.com) | | |
-|[Olebogeng](mailto:osuwe@ori.ub.bw) | Botswana | |
-|[Sékou Magassouba](mailto:sekoumag2@yahoo.fr) | Guinea | |
-|[Sodjinouedjedu](mailto:sodjinouedjedu@gmail.com) | | |
-|[Yves Betrand Soukontoua](mailto:soukybert@yahoo.fr) | Cameroon | |
-|[Tsitsi Theone](mailto:tsimap@gmail.com) | Zimbabwe | |
-|[Joseph Tuyishimere](mailto:tuyishimirejoseph@gmail.com) | | |
 
 ## <a name="badges"></a>Roles and badges
 
@@ -43,15 +25,11 @@ GBIF plans to award the following badges in support of the BID programme:
 + **Trainer**: Those mentors involved in the development of training resources and the implementation of training events
 + **Community manager**: Those who ensure that smooth operation and optimal use of resources within the BID community
 
-GBIF also expects to make training available through BID that would award [badges designed earlier](http://www.gbif.org/newsroom/news/GBIF-digital-badges) for those who complete training in:
-+ **Biodiversity data mobilization—Basic**
-+ **Biodiversity data mobilization—Advanced**
-+ **Biodiversity data analysis and use—Basic**
-+ **Biodiversity data analysis and use—Advanced**
+GBIF also expects to make training available through BID that would award [badges designed earlier](http://www.gbif.org/newsroom/news/GBIF-digital-badges) for those who complete training in "Biodiversity data mobilization" and "Biodiversity data analysis and use".
 
 ## <a name="mentors"></a>Mentors
 
-Mentors are a pillar of the BID community. They actively contribute their knowledge and expertise while collaborating directly with project teams. In return, they get unique access to opportunities for engaging other biodiversity informatics  experts and helping to establish or enhance biodiversity information facilities. Activities include participation in webinars, capacity enhancement workshops and networking opportunities with project team members and other partners. 
+Mentors are a pillar of the BID community. They actively contribute their knowledge and expertise while collaborating directly with project teams. In return, they get unique access to opportunities for engaging other biodiversity informatics experts and helping to establish or enhance biodiversity information facilities. Activities include participation in webinars, capacity enhancement workshops and networking opportunities with project team members and other partners. 
 
 Those interested in joining the [current mentors](../people#mentors) can review the [official call for BID mentors](/raw/Call-for-BID-volunteer-mentors.pdf), learn more about the role's benefits and responsibilities, or go directly to [the application form](https://docs.google.com/forms/d/1R3EmHdZxt6ZoTJ9e43SeOG7Rl3awNidaLN-pdmbCFZQ/viewform).
 
@@ -69,6 +47,7 @@ Those interested in joining the [current mentors](../people#mentors) can review 
 |[Larissa Smirnova](mailto:larissa.smirnova@africamuseum.be) | Belgium | Data capture, management and publishing |
 |[Laura Russell](mailto:larussell@vertnet.org) | United States | Data quality, data sharing, data use|
 |[Manuel Vargas](mailto:mvargas@inbio.ac.cr) | Costa Rica | Basics of biodiversity informatics. Data capture, management, publishing and analysis. BIF building (IT & social) |
+|[María Auxiliadora Mora](mailto:mmora@inbio.ac.cr) | Costa Rica | Basics of biodiversity informatics. Data capture, management and publishing. BIF building (IT & social) |
 |[Nestor Beltran](mailto:nbeltran@humboldt.org.co) | Colombia | Basics of biodiversity informatics. Data capture, management, publishing and analysis |
 |[Nicolas Noé](mailto:n.noe@biodiversity.be) | Belgium | Basics of biodiversity informatics. Data management and publishing. BID building (IT) |
 |[Patricia Mergen](mailto:patricia.mergen@africamuseum.be) | Belgium | Networking, strategic planning, fundraising |
