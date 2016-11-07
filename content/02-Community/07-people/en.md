@@ -31,7 +31,7 @@ GBIF also expects to make training available through BID that would award [badge
 
 Mentors are a pillar of the BID community. They actively contribute their knowledge and expertise while collaborating directly with project teams. In return, they get unique access to opportunities for engaging other biodiversity informatics experts and helping to establish or enhance biodiversity information facilities. Activities include participation in webinars, capacity enhancement workshops and networking opportunities with project team members and other partners. 
 
-Those interested in joining the [current mentors](../people#mentors) can review the [official call for BID mentors](/raw/Call-for-BID-volunteer-mentors.pdf), learn more about the role's benefits and responsibilities, or go directly to [the application form](https://docs.google.com/forms/d/1R3EmHdZxt6ZoTJ9e43SeOG7Rl3awNidaLN-pdmbCFZQ/viewform).
+Those interested in joining the current mentors can review the [official call for BID mentors](http://links.gbif.org/bid_mentors_call), learn more about the role's benefits and responsibilities, or go directly to [the application form](https://docs.google.com/forms/d/1R3EmHdZxt6ZoTJ9e43SeOG7Rl3awNidaLN-pdmbCFZQ/viewform).
 
 |*Name* | *Country* | *Areas of expertise* |
 |--|--|--|
