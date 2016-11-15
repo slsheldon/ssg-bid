@@ -38,6 +38,7 @@ Those interested in joining the current mentors can review the [official call fo
 |[A. Raoufou Pierre Radji](mailto:pradji@hotmail.com) | Togo | Data mobilization, data and image capture, data cleaning |
 |[André Heughebaert](mailto:a.heughebaert@biodiversity.be) | Belgium | Data management, data quality, technical training, Open Data, collections strategy |
 |[Andriamandimbisoa Razafimpahanana](mailto:razafimpahanana@gmail.com) | Madagascar| Basics of biodiversity informatics. Data management, publishing and analysis |
+|[Andry Jean Marc Rakotomanjaka](mailto:ajmrakotomanjaka@gmail.com) | Madagascar | Data management, publishing and analysis |
 |[Gautam Talukdar](mailto:gautamtalukdar@gmail.com) | India | Basics of biodiversity informatics. Data publishing and analysis |
 |[Innocent Akampurira](mailto:iakampurira@gmail.com) | Uganda | Basics of biodiversity informatics. Data management, publishing and analysis. BIF building (IT & social) |
 |[Jean Cossi Ganglo](mailto:mailto:ganglocj@gmail.com) | Benin | Node development, data mobilization, data use |
@@ -53,7 +54,9 @@ Those interested in joining the current mentors can review the [official call fo
 |[Patricia Mergen](mailto:patricia.mergen@africamuseum.be) | Belgium | Networking, strategic planning, fundraising |
 |[Quentin Groom](mailto:mailto:quentin.groom@plantentuinmeise.be) | Belgium | Data publishing |
 |[Sharon Grant](mailto:sgrant@fieldmuseum.org) | United States | Basics of Biodiversity Informatics. Data management |
+|[Shelley James](mailto:sjames@flmnh.ufl.edu) | United States | Basics of biodiversity informatics. Data capture, management and analysis |
 |[Sophie Pamerlon](mailto:pamerlon@gbif.fr) | France | Basics of biodiversity informatics. Data capture, management and publishing |
+|[Tsiky Rabetrano](mailto:tsiky@rebioma.net) | Madagascar | Basics of biodiversity informatics. Data capture, management, publishing and analysis |
 
 ## <a name="gbifs"></a>GBIF Staff
 
