@@ -117,6 +117,18 @@ In the case of regional biodiversity data mobilization grants, in addition to th
  
 -----------------------
 
+## On data publishing
+
+### Which licences may be used for publication of data through BID projects, and why?
+
+All species occurrence data mobilized with support from the BID programme must be allocated one of two Creative Commons licensing tools, [CC0 (public domain)](https://creativecommons.org/share-your-work/public-domain/) or [CC BY (attribution)](https://creativecommons.org/share-your-work/licensing-types-examples/licensing-examples/#by). 
+
+Although GBIF permits use of a third option, [CC BY-NC (attribution & non-commercial)](https://creativecommons.org/share-your-work/licensing-types-examples/licensing-examples/#nc), this licence primarily accommodates continued access to legacy data gathered under intellectual property rights (IPR) arrangements that specifically limit access. Since the European Union through BID is funding the mobilization of new data with the aim of making its use as free and unrestricted as possible, BID grantees agree to publish data using only the CC0 and CC-BY options.
+
+[Read more about GBIF’s approach to the use of standard, machine-readable licences for biodiversity data](http://www.gbif.org/terms/overview#licensing) 
+
+-----------------------
+
 ## On future calls for proposals
 
 ### Will there be a second call for BID proposals from the Pacific?
