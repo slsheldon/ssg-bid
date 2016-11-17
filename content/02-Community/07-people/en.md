@@ -39,6 +39,8 @@ Those interested in joining the current mentors can review the [official call fo
 |[André Heughebaert](mailto:a.heughebaert@biodiversity.be) | Belgium | Data management, data quality, technical training, Open Data, collections strategy |
 |[Andriamandimbisoa Razafimpahanana](mailto:razafimpahanana@gmail.com) | Madagascar| Basics of biodiversity informatics. Data management, publishing and analysis |
 |[Andry Jean Marc Rakotomanjaka](mailto:ajmrakotomanjaka@gmail.com) | Madagascar | Data management, publishing and analysis |
+|[Dimitri Brosens](mailto:dimitri.brosens@inbo.be) | Belgium | Basics of biodiversity informatics. Data management, publishing and analysis, BIF building (social) |
+|[Faustin Gashakamba](mailto:fgashakamba@arcosnetwork.org) | Rwanda | Basics of biodiversity informatics. Data capture, management, publishing and analysis, BIF building (social) |
 |[Gautam Talukdar](mailto:gautamtalukdar@gmail.com) | India | Basics of biodiversity informatics. Data publishing and analysis |
 |[Innocent Akampurira](mailto:iakampurira@gmail.com) | Uganda | Basics of biodiversity informatics. Data management, publishing and analysis. BIF building (IT & social) |
 |[Jean Cossi Ganglo](mailto:mailto:ganglocj@gmail.com) | Benin | Node development, data mobilization, data use |
@@ -53,6 +55,7 @@ Those interested in joining the current mentors can review the [official call fo
 |[Nicolas Noé](mailto:n.noe@biodiversity.be) | Belgium | Basics of biodiversity informatics. Data management and publishing. BID building (IT) |
 |[Patricia Mergen](mailto:patricia.mergen@africamuseum.be) | Belgium | Networking, strategic planning, fundraising |
 |[Quentin Groom](mailto:mailto:quentin.groom@plantentuinmeise.be) | Belgium | Data publishing |
+|[Rui Figueira](mailto:ruifigueira@isa.ulisboa.pt) | Portugal | Basics of biodiversity informatics. Data capture, management, publishing and analysis, BIF building (IT & social) |
 |[Sharon Grant](mailto:sgrant@fieldmuseum.org) | United States | Basics of Biodiversity Informatics. Data management |
 |[Shelley James](mailto:sjames@flmnh.ufl.edu) | United States | Basics of biodiversity informatics. Data capture, management and analysis |
 |[Sophie Pamerlon](mailto:pamerlon@gbif.fr) | France | Basics of biodiversity informatics. Data capture, management and publishing |
