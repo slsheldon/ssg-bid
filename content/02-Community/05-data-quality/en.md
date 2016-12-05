@@ -26,11 +26,11 @@ Publishers thus play an essential role not simply in sharing datasets, but also 
 
 In practice, we encourage those responsible for publishing data to get acquainted with the expected data formats and content requirements as early as possible in the process (see also the pre-configured GBIF Excel templates with required and recommended terms for [Occurrence-only datasets](https://github.com/gbif/ipt/wiki/occurrenceData#templates), [Checklists](https://github.com/gbif/ipt/wiki/checklistData#templates), and [Sampling-event datasets](https://github.com/gbif/ipt/wiki/samplingEventData#templates), all available with example data). Doing so will save a lot of effort that may be needed at later stages, for example, in adding data conversions, capturing information for required or strongly recommended fields, or performing and addressing final pre-publication data-quality checks.
 
-### Occurrence-only datasets<a name="occurrence"></a>
+## Occurrence-only datasets<a name="occurrence"></a>
 
 Learn more about [occurrence-only and other classes of datasets currently supported on GBIF.org](/publishing-data/summary#datasetclasses)
 
-#### **Darwin Core record details**<a name="occurrence"></a>
+### **Darwin Core record details**
 
 |Term | [Status](#status) |
 |--|--|
@@ -50,7 +50,7 @@ Learn more about [occurrence-only and other classes of datasets currently suppor
 |[eventTime](#dcEventTime) | Share if available |
 |[country](#dcCountry) | Share if available |
 
-#### **Dataset metadata (EML)**
+### **Dataset metadata (EML)**
 
 |Term | [Status](#status) |
 |--|--|
@@ -67,11 +67,11 @@ Learn more about [occurrence-only and other classes of datasets currently suppor
 |[citation](#emlCitation) | Strongly recommended |
 |[additional metadata](#emlAdditional) | Share if available |
 
-### Checklist datasets<a name="checklist"></a>
+## Checklist datasets<a name="checklist"></a>
 
 Learn more about [checklist datasets and other classes of datasets currently supported on GBIF.org](/publishing-data/summary#datasetclasses)
 
-#### **Darwin Core record details**
+### **Darwin Core record details**
 
 |Term | [Status](#status) |
 |--|--|
@@ -83,7 +83,7 @@ Learn more about [checklist datasets and other classes of datasets currently sup
 |[acceptedNameUsage](#dcAcceptedName) | Strongly recommended | 
 |[vernacularName](#dcVernacularName) | Share if available | 
 
-#### **Dataset metadata (EML)**
+### **Dataset metadata (EML)**
 
 |Term | [Status](#status) |
 |--|--|
@@ -99,11 +99,11 @@ Learn more about [checklist datasets and other classes of datasets currently sup
 |[citation](#emlCitation2) | Strongly recommended |
 
 
-### Sampling-event datasets<a name="sampling"></a>
+## Sampling-event datasets<a name="sampling"></a>
 
 Learn more about [sampling-event and other classes of datasets currently supported on GBIF.org](/publishing-data/summary#datasetclasses)
 
-#### **Darwin Core record details**
+### **Darwin Core record details**
 
 |Term | [Status](#status) |
 |--|--|
@@ -121,7 +121,7 @@ Learn more about [sampling-event and other classes of datasets currently support
 |[footprintWKT](#dcFootprintWKT) | Strongly recommended |
 |[occurrenceStatus](#dcOccurrenceStatus) | Strongly recommended |
 
-#### **Dataset metadata (EML)**
+### **Dataset metadata (EML)**
 
 |Term | [Status](#status) |
 |--|--|
@@ -129,6 +129,7 @@ Learn more about [sampling-event and other classes of datasets currently support
 |[description](#emlDescription3) | Required |
 |[publishing organization](#emlPublisher3) | Required |
 |[type](#emlType3) | Required | 
+|[projectID](#emlProjectID3) | Required |
 |[license](#emlLicense3) | Required |
 |[contact(s)](#emlContact3) | Required |
 |[creator(s)](#emlCreator3) | Required |
@@ -136,13 +137,13 @@ Learn more about [sampling-event and other classes of datasets currently support
 |[citation](#emlCitation3) | Strongly recommended |
 
 
-### Status<a name="status"></a>
+## Status<a name="status"></a>
 
-#### Required information
+### Required information
 
 The items listed below constitute the minimum formal requirements for publishing an occurrence dataset. GBIF.org will not accept a dataset without these terms and will not index the records. While these items are mandatory for publishing the dataset at all, they are only the starting point. The usefulness of the published data will still be severely limited unless additional information is supplied.
 
-#### Strongly recommended
+### Strongly recommended
 
 In addition to the mandatory data elements, we strongly recommend completing several more  fields that help improve the usefulness of the dataset because:
 + some information supports the integration into a global data resource and prevents ambiguity, e.g. in matching scientific names that could apply to more than one organism (homonyms) to the correct place within the backbone taxonomy
@@ -151,13 +152,13 @@ In addition to the mandatory data elements, we strongly recommend completing sev
 + some data redundancy supports quality control and error detection (e.g. testing country codes against coordinates where both are supplied)
 + last not least, the richer the spectrum of available information of a dataset is, the more potential usage areas it becomes available for, meaning the dataset will me more widely accessible and used and cited more often
 
-#### Share if available
+### Share if available
 
 If additional data are available, consider sharing them in order to increase the usefulness of your published data.
 
-### Terms
+## Terms
 
-#### Occurrence-only datasets
+### Occurrence-only datasets
 
 **occurrenceID**<a name="dcOccurrenceID"></a><br />*Darwin Core dataset element*, REQUIRED for occurrence-only datasets<br />A unique identifier for the occurrence, allowing the same occurrence to be recognized across dataset versions as well as through data downloads and use (see [*Darwin Core Terms: A quick reference guide*](http://rs.tdwg.org/dwc/terms/#occurrenceID))<br />Ideally, the occurrenceID is a persistent global unique identifier. As a minimum requirement, it has to be unique within the published dataset. It allows to recognize the same occurrence over time when the dataset indexing is refreshed; it links additional data like images; and it makes it possible to cite records e.g. in usage reports or in publications. This means that the occurrenceID needs to reliably stay with the occurrence at source, and to consistently refer to the same occurrence in published datasets and any underlying source data.
 
@@ -256,6 +257,8 @@ The publishing organization is the institution which holds or owns the dataset a
 **type**<a name="emlType2"></a><br />*Dataset metadata EML*, REQUIRED for checklist datasets<br />The type of the dataset. Here: "checklist".<br />
 The record type describes the main focus of all records contained in the dataset (core records). For a checklist dataset, the record type will always be "checklist". There may also be occurrences linked to checklist records (e.g. vouchers of a taxonomic treatment, herbarium records documenting a regional flora). The structure and requirements for this linked information follows the guidelines given for occurrence data publication [link].
 
+**projectID**<a name="emlProjectID2"></a><br />*Dataset metadata EML*, REQUIRED for checklist datasets<br />A unique identifier for the project from which a dataset is derived<br />The record type is a GUID or other identifier that is near globally unique. **Note that this is required for BID projects.**
+
 **license**<a name="emlLicense2"></a><br />*Dataset metadata EML*, REQUIRED for checklist datasets<br />A machine-readable statement of the rights attached to the published dataset. Use either CC0 or CC BY.<br />
 As stated in the program call, all datasets funded under the BID program have to be made publicly available under either a [Creative Commons CC0 rights waiver](https://creativecommons.org/about/cc0/) or a [CC BY Attribution license](https://creativecommons.org/licenses/by/4.0/). Datasets without a valid license statement will not be accepted for publication. Machine-readable licenses allow automated data filters that give users clear guidance on the permitted use of records, thereby promoting data use and citation.
 
@@ -325,7 +328,7 @@ This may include a longer version of title, a description of geographic, tempora
 **type**<a name="emlType3"></a><br />*Dataset metadata EML*, REQUIRED for sampling-event datasets<br />The type of the dataset. Here: "samplingEvent".<br />
 The record type describes the main focus of all records contained in the dataset (core records). For a sample event dataset, the record type will always be "samplingEvent". There should also be occurrences linked to sample event records. The structure and requirements for this linked information follows the guidelines given for occurrence data publication [link].
 
-**projectID**<a name="emlProjectID2"></a><br />*Dataset metadata EML*, REQUIRED for sampling-event datasets<br />A unique identifier for the project from which a dataset is derived<br />The record type is a GUID or other identifier that is near globally unique. **Note that this is required for BID projects.**
+**projectID**<a name="emlProjectID3"></a><br />*Dataset metadata EML*, REQUIRED for sampling-event datasets<br />A unique identifier for the project from which a dataset is derived<br />The record type is a GUID or other identifier that is near globally unique. **Note that this is required for BID projects.**
 
 **license**<a name="emlLicense3"></a><br />*Dataset metadata EML*, REQUIRED for sampling-event datasets<br />A machine-readable statement of the rights attached to the published dataset. Use either CC0 or CC BY.<br />
 As stated in the program call, all datasets funded under the BID program have to be made publicly available under either a [Creative Commons CC0 rights waiver](https://creativecommons.org/about/cc0) or a [CC BY Attribution license](https://creativecommons.org/licenses/by/4.0). Datasets without a valid license statement will not be accepted for publication. Machine-readable licenses allow automated data filters that give users clear guidance on the permitted use of records, thereby promoting data use and citation.
