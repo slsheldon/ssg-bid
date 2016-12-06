@@ -3,16 +3,12 @@ title: Data quality requirements
 description: Publishers play an essential role not simply in sharing datasets, but also in managing their quality, completeness and usefulness and ensuring their integration and value within GBIF’s global data index. 
 category: Community
 subCategory: Data quality requirements
-image: /images/wikimedia-servers.jpg
-imageTitle: Wikimedia Foundation Servers. CC BY-SA 2012 Victor Grigas, Wikimedia Foundation.
-imageLink: https://commons.wikimedia.org/wiki/File:Wikimedia_Foundation_Servers-8055_13.jpg
+image: /images/Pachysoma-rodriguesi.jpg
+imageTitle: Namibian desert dung beetle (*Pachysoma rodriguesi*). CC BY-NC-SA 2.0 2011 Jochen Smolka.
+imageLink: https://flic.kr/p/diZiR5
 ---
 # Data quality requirements
 
-<!-- toc -->
-<!-- tocstop -->
-
------------------------
 ## Overview
 
 To share data through GBIF.org, publishers typically have to collate or transform existing datasets into a suitably standardized format. This work may include additional processing, content editing and configuration to map a dataset’s content into one of the available data transfer formats as well as publication through one of the available data publishing tools (such as GBIF's [Integrated Publishing Toolkit](http://gbif.org/ipt), or IPT).
@@ -25,6 +21,7 @@ Publishers thus play an essential role not simply in sharing datasets, but also 
 + [Sampling-event datasets](#sampling)
 
 In practice, we encourage those responsible for publishing data to get acquainted with the expected data formats and content requirements as early as possible in the process (see also the pre-configured GBIF Excel templates with required and recommended terms for [Occurrence-only datasets](https://github.com/gbif/ipt/wiki/occurrenceData#templates), [Checklists](https://github.com/gbif/ipt/wiki/checklistData#templates), and [Sampling-event datasets](https://github.com/gbif/ipt/wiki/samplingEventData#templates), all available with example data). Doing so will save a lot of effort that may be needed at later stages, for example, in adding data conversions, capturing information for required or strongly recommended fields, or performing and addressing final pre-publication data-quality checks.
+-----
 
 ## Occurrence-only datasets<a name="occurrence"></a>
 
@@ -67,6 +64,8 @@ Learn more about [occurrence-only and other classes of datasets currently suppor
 |[citation](#emlCitation) | Strongly recommended |
 |[additional metadata](#emlAdditional) | Share if available |
 
+-----
+
 ## Checklist datasets<a name="checklist"></a>
 
 Learn more about [checklist datasets and other classes of datasets currently supported on GBIF.org](/publishing-data/summary#datasetclasses)
@@ -98,6 +97,7 @@ Learn more about [checklist datasets and other classes of datasets currently sup
 |[metadata provider(s)](#emlMetadataProvider2) | Required |
 |[citation](#emlCitation2) | Strongly recommended |
 
+-----
 
 ## Sampling-event datasets<a name="sampling"></a>
 
@@ -136,6 +136,7 @@ Learn more about [sampling-event and other classes of datasets currently support
 |[metadata provider(s)](#emlMetadataProvider3) | Required |
 |[citation](#emlCitation3) | Strongly recommended |
 
+-----
 
 ## Status<a name="status"></a>
 
