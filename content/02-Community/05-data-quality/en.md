@@ -21,6 +21,7 @@ Publishers thus play an essential role not simply in sharing datasets, but also 
 + [Sampling-event datasets](#sampling)
 
 In practice, we encourage those responsible for publishing data to get acquainted with the expected data formats and content requirements as early as possible in the process (see also the pre-configured GBIF Excel templates with required and recommended terms for [Occurrence-only datasets](https://github.com/gbif/ipt/wiki/occurrenceData#templates), [Checklists](https://github.com/gbif/ipt/wiki/checklistData#templates), and [Sampling-event datasets](https://github.com/gbif/ipt/wiki/samplingEventData#templates), all available with example data). Doing so will save a lot of effort that may be needed at later stages, for example, in adding data conversions, capturing information for required or strongly recommended fields, or performing and addressing final pre-publication data-quality checks.
+
 -----
 
 ## Occurrence-only datasets<a name="occurrence"></a>
