@@ -35,14 +35,29 @@ Those interested in joining the current mentors can review the [official call fo
 
 |*Name* | *Country* | *Areas of expertise* |
 |--|--|--|
+|[Aaike De Wever](mailto:aaike.dewever@naturalsciences.be) | Belgium | Basics of biodiversity informatics. Data capture, management and publishing. |
+|[Ababo Stephen](mailto:actoyas@yahoo.com) | Uganda | BID building (Social) |
+|[Abraham (Han) de Koeijer](mailto:hdekoeijer@naturalsciences.be) | Belgium | Data capture, management, publishing and analysis. BID building (social) |
 |[A. Raoufou Pierre Radji](mailto:pradji@hotmail.com) | Togo | Data mobilization, data and image capture, data cleaning |
+|[Aimé Kazika Kamosi](mailto:kamosi1420@gmail.com) | Congo, Democratic Republic of the | BID building (social) |
+|[Akomolafe Gbenga Festus](mailto:gfakomolafe@yahoo.com) | Nigeria | Basics of biodiversity informatics. Data capture, publishing and analysis. |
 |[André Heughebaert](mailto:a.heughebaert@biodiversity.be) | Belgium | Data management, data quality, technical training, Open Data, collections strategy |
 |[Andriamandimbisoa Razafimpahanana](mailto:razafimpahanana@gmail.com) | Madagascar| Basics of biodiversity informatics. Data management, publishing and analysis |
 |[Andry Jean Marc Rakotomanjaka](mailto:ajmrakotomanjaka@gmail.com) | Madagascar | Data management, publishing and analysis |
+|[ARCHAMBEAU Anne-Sophie](mailto:archambeau@gbif.fr) | France | Basics of biodiversity informatics. Data management, publishing and analysis. BID building (social) |
+|[Bakwo Fils Eric Moise](mailto:filsbkw27@gmail.com) | Cameroon | Data management and analysis. |
+|[Danielle Lewis-Clarke](mailto:danielle.lewis@gmail.com) | Trinidad and Tobago | Basics of biodiversity informatics. |
+|[Danny Vélez](mailto:dannyvelezv@gmail.com) | Colombia | Basics of biodiversity informatics. Data management, publishing. BID building (social) |
+|[David Bloom](mailto:dbloom@vertnet.org) | United States | Basics of biodiversity informatics. Data management, publishing. BID building (social) |
 |[Dimitri Brosens](mailto:dimitri.brosens@inbo.be) | Belgium | Basics of biodiversity informatics. Data management, publishing and analysis, BIF building (social) |
+|[Dorlan Ainsley Burrell](mailto:dorlanburrell@yahoo.com) | Jamaica | Basics of biodiversity informatics. BID building (social) |
+|[Fabien Caviere](mailto:caviere@gbif.fr) | France | Basics of biodiversity informatics. Data management and publishing. BID building (IT) |
 |[Faustin Gashakamba](mailto:fgashakamba@arcosnetwork.org) | Rwanda | Basics of biodiversity informatics. Data capture, management, publishing and analysis, BIF building (social) |
+|[Gabriel Salako](mailto:gabsalako@yahoo.co.uk) | Nigeria | Basics of biodiversity informatics. Data capture and management. |
 |[Gautam Talukdar](mailto:gautamtalukdar@gmail.com) | India | Basics of biodiversity informatics. Data publishing and analysis |
+|[Hyacinth Douglas](mailto:hyacinthd@unops.org) | Jamaica | Data capture and management. BID building (Social) |
 |[Innocent Akampurira](mailto:iakampurira@gmail.com) | Uganda | Basics of biodiversity informatics. Data management, publishing and analysis. BIF building (IT & social) |
+|[IPOU IPOU JOSEPH](mailto:ipoujoseph@yahoo.fr) | Côte d'Ivoire | Data capture, management, publishing and analysis. |
 |[Jean Cossi Ganglo](mailto:mailto:ganglocj@gmail.com) | Benin | Node development, data mobilization, data use |
 |[John Wieczorek](mailto:tuco@berkeley.edu) | Argentina | Basics of biodiversity informatics. Data capture, management, publishing and analysis. BIF building (IT & social) |
 |[Katia Cezón García](mailto:katia@gbif.es) | Spain | Data standards, digitization, data quality |
@@ -50,7 +65,9 @@ Those interested in joining the current mentors can review the [official call fo
 |[Larissa Smirnova](mailto:larissa.smirnova@africamuseum.be) | Belgium | Data capture, management and publishing |
 |[Laura Russell](mailto:larussell@vertnet.org) | United States | Data quality, data sharing, data use|
 |[Manuel Vargas](mailto:mvargas@inbio.ac.cr) | Costa Rica | Basics of biodiversity informatics. Data capture, management, publishing and analysis. BIF building (IT & social) |
+|[Marco Schmidt](mailto:mschmidt@senckenberg.de) | Germany | Basics of biodiversity informatics. Data capture, management and analysis. |
 |[María Auxiliadora Mora](mailto:mmora@inbio.ac.cr) | Costa Rica | Basics of biodiversity informatics. Data capture, management and publishing. BIF building (IT & social) |
+|[Marie-Elise Lecoq](mailto:melecoq@gbif.fr) | France | Basics of biodiversity informatics. Data management and publishing. BID building (IT) |
 |[Nestor Beltran](mailto:nbeltran@humboldt.org.co) | Colombia | Basics of biodiversity informatics. Data capture, management, publishing and analysis |
 |[Nicolas Noé](mailto:n.noe@biodiversity.be) | Belgium | Basics of biodiversity informatics. Data management and publishing. BID building (IT) |
 |[Patricia Mergen](mailto:patricia.mergen@africamuseum.be) | Belgium | Networking, strategic planning, fundraising |
